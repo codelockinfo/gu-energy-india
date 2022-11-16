@@ -21,18 +21,25 @@
     }
   ],
   "blocks": [
-     {
-       "name": "Slide",
-       "type": "slide",
-       "settings": [
-         {
-           "type": "image_picker",
-           "id": "image",
-           "label": "Image"
-         }
-       ]
-     }
-   ],
+    {
+      "type": "image",
+      "name": "threediv",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image-planing",
+          "label":"image-label"
+          
+        },
+        {
+          "type": "text",
+          "id": "text-planing",
+          "placeholder": "enter text for box",
+          "label":"text for box"
+        }
+      ]
+    }
+  ],
   "presets": [
     {
       "name": "Three div section",
@@ -41,10 +48,10 @@
       },
       "blocks": [
         {
-          "type": "slide"
+          "type": "image"
         },
         {
-          "type": "slide"
+          "type": "image"
         }
       ]
     }
