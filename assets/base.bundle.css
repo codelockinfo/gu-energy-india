@@ -4321,6 +4321,12 @@ body {
   display:flex;
   justify-content: space-around;
 }
-.image_box > h2{
+/* .image_box > h2{
   text-align: center;
+} */
+.clscenter{
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
