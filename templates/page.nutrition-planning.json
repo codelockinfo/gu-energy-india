@@ -2,31 +2,9 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "blocks": {
-        "e1480e00-b126-46dd-89fa-bfbb863b4410": {
-          "type": "background_shape",
-          "settings": {
-            "shape": "square",
-            "blob_type": 1,
-            "size": 100,
-            "opacity": 100,
-            "blur": 0,
-            "horizontal_position": 50,
-            "vertical_position": 50,
-            "rotate": 0,
-            "enable_parallax": false,
-            "parallax_speed": 3,
-            "color": "accent",
-            "color_scheme": "same_as_section"
-          }
-        }
-      },
-      "block_order": [
-        "e1480e00-b126-46dd-89fa-bfbb863b4410"
-      ],
       "settings": {
-        "display_on_card": true,
-        "color_scheme": "primary",
+        "display_on_card": false,
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     },
