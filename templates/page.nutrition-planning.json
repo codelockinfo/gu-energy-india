@@ -101,7 +101,7 @@
         "blog_show_date": false,
         "show_post_excerpt": false,
         "show_view_all": true,
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
