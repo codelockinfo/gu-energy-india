@@ -149,6 +149,29 @@
         "use_gradient_background": false
       }
     },
+    "cd7d47e4-1ae7-4882-8ba6-41fc34ccc776": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "collection": "gels",
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
     "6e24bb2a-3f80-4ab7-9540-6329e26606a2": {
       "type": "image-with-text",
       "settings": {
@@ -171,13 +194,13 @@
         "use_gradient_background": false
       }
     },
-    "cd7d47e4-1ae7-4882-8ba6-41fc34ccc776": {
+    "61790fa8-6707-41fd-b955-2e6c2f5d1e3d": {
       "type": "featured-collection",
       "settings": {
         "title": "",
         "subheading": "",
-        "collection": "gels",
-        "no_products": 4,
+        "collection": "drinks",
+        "no_products": 2,
         "show_view_all": false,
         "enable_quick_buy": false,
         "display_on_card": true,
@@ -204,7 +227,8 @@
     "8cd72eb8-52e0-4d02-b3e9-d87b4a9b3390",
     "1dd12c44-d458-4018-b30f-48bbc8291f71",
     "c94a75b6-98ae-43ac-8c74-ed6234bf16c2",
+    "cd7d47e4-1ae7-4882-8ba6-41fc34ccc776",
     "6e24bb2a-3f80-4ab7-9540-6329e26606a2",
-    "cd7d47e4-1ae7-4882-8ba6-41fc34ccc776"
+    "61790fa8-6707-41fd-b955-2e6c2f5d1e3d"
   ]
 }
