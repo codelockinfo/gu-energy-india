@@ -3,8 +3,8 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "display_on_card": true,
-        "color_scheme": "primary",
+        "display_on_card": false,
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     },
