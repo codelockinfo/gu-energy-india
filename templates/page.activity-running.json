@@ -102,6 +102,28 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "6e24bb2a-3f80-4ab7-9540-6329e26606a2": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Our-Process_800x_919fdade-7208-44e2-87b9-4add923e09cc.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "AFTER",
+        "heading_size": "heading-template",
+        "richtext": "<p>Refuel with carbs, protein, and electrolytes ASAP. The best way to kick-start your recovery is to replenish your muscles as soon as you’re done, ideally within 30 minutes. ROCTANE Protein Recovery Drink is one way to quickly (and deliciously) get 20 grams of whey protein, 30 grams of carbs, and electrolytes. We like to say anytime is a good time for BCAAs (aka branched-chain amino acids), which are the building blocks of proteins and are found in your diet and in many GU products. You can supplement your diet by taking 2-4 ROCTANE BCAA Capsules anytime daily.<\/p><p><\/p><p>Remember what we said about hydration… it’s a 24\/7 job! Replenish what you lost from sweat and keep drinking throughout the day. Running stresses your body, which means you might be deficient in key nutrients like magnesium, zinc, and vitamin D. Also, training for a marathon or other race can disrupt your gut, which has a big influence on your immune system. ROCTANE Magnesium Plus Capsules and ROCTANE Probiotic Plus Capsules can make sure your body has enough of these key nutrients so you can recover faster and stay healthy while training hard.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -110,6 +132,7 @@
     "fc99598a-21f3-4b4c-b8af-1996415a3625",
     "1f8629df-9d31-44ea-a05e-372749f7d35e",
     "8cd72eb8-52e0-4d02-b3e9-d87b4a9b3390",
-    "c94a75b6-98ae-43ac-8c74-ed6234bf16c2"
+    "c94a75b6-98ae-43ac-8c74-ed6234bf16c2",
+    "6e24bb2a-3f80-4ab7-9540-6329e26606a2"
   ]
 }
