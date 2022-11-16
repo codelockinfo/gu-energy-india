@@ -4307,4 +4307,14 @@ body {
       font-size:35px !important;
     }
 }
+/* css for panning page cls014 */
+.image-planning{
+  width:30%;
+}
+.image-planning > img{
+  width:100%;
+}
+.image-planning > h2{
+  text-align: center;
+}
 
