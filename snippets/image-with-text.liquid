@@ -60,7 +60,7 @@
            {%- render 'media-image-placeholder', shape_id: section_id, container_id: section_id, shape: image_shape, crop: scrop, is_card: display_on_card, blob_type: blob_type -%}
           {%- endif -%}
         </div>
-        <div class="flex items-center {{ text_width_desktop }}">
+        <div class="flex items-center width100-tab {{ text_width_desktop }}">
           <div class="{{ text_alignment }}">
             {% if title != '' %}
             <h2 class="font-heading  {{ heading_size }} heading-style {{ settings.heading_drop_shadow_style }}">{{ title }}</h2>

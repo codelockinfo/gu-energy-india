@@ -157,6 +157,21 @@
         [data-parallax-container].animated {
           opacity: 1;
         }
+        /* responsive css cls014 */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .heading-base,.heading-template,.heading-secondary{
+          font-size:22px;
+        }
+}
+
+        @media only screen and (min-width: 986px) and (max-width: 1272px) {
+  .heading-base,.heading-template,.heading-secondary{
+          font-size:38px;
+        }
+          .heading-secondary{
+            font-size:32px;
+          }
+}
       </style>
   
       {% unless heading_font.system? %}

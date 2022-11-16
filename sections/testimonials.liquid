@@ -33,7 +33,7 @@
             -%}
             <li class="splide__slide w-4/5 {% if settings.card_shadow_direction contains 'top' %}pt-card-shadow{% else %}pb-card-shadow{% endif %}" {% unless block.settings.color_scheme == 'same_as_section' %}data-color-scheme="{{ block.settings.color_scheme }}"{% endunless %} {{ block.shopify_attributes }}>
               <div class="{% if section.settings.display_on_card %}text-scheme-text card-container{% endif %}">
-                <div class="{% if section.settings.display_on_card %}bg-scheme-card card p-5 h-full{% endif %} text-center">
+                <div class="{% if section.settings.display_on_card %}bg-scheme-card card p-5 padd-all-10-mobile h-full{% endif %} text-center">
                   {%- if block.settings.image != blank -%}
                   <div class="mb-5 mx-auto {% unless section.settings.disable_media_style %}{% if settings.media_shadow_direction contains 'top' %}pt-media-shadow{% else %}pb-media-shadow{% endif %}{% endunless %}" style="max-width: {{ section.settings.max_width }}px">
                     {%- render
@@ -56,7 +56,7 @@
                     <span class="block text-center mb-5 tracking-rating">{% for i in (1..stars) %}★{% endfor %}</span>
                     {%- endif -%}
         
-                    <div class="font-body text-base rte">
+                    <div class="font-body text-base rte font-size-14-mobile">
                       {{ block.settings.quote | replace: '<p>', '<p>&#8220;' | replace: '</p>', '&#8221;</p>' }}
                     </div>
                     {% if block.settings.source != blank %}

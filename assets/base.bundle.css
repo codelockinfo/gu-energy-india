@@ -4260,3 +4260,51 @@ body {
 .text-color-white-b{
   color:#fff;
 }
+ .width100-tab .text-right{
+      width:100%;
+    }
+/* responsive css */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+.mar-top-50-mobile{
+  margin-top:50px;
+}
+  .text-left,.text-right{
+    text-align: center;
+  }
+  .sticker-parallax-container > .sticker-parallax-element > .sticker-rotate-container{
+    display:none !important;
+  }
+  .fs-14-mobile{
+    font-size:14px;
+  }
+  .font-size-14-mobile{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  .width100-tab{
+    justify-content: center;
+  }
+  .width100-tab .rte{
+    font-size:15px;
+  }
+  .padd-all-10-mobile{
+    padding:10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+.mar-top-50-mobile{
+  margin-top:50px;
+}
+  .sticker-parallax-container > .sticker-parallax-element > .sticker-rotate-container{
+    display:none !important;
+  }
+  .fs-14-mobile{
+    font-size:14px;
+  }
+     .width100-tab .text-left .heading-template {
+      font-size:35px !important;
+    }
+}
+
