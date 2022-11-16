@@ -20,11 +20,11 @@
         "place_content": "place-content-center-center",
         "text_align": "text-center",
         "title": "Nutrition Planning",
-        "heading_size": "heading-base",
+        "heading_size": "heading-template",
         "richtext": "",
         "cta_url": "",
         "cta_text": "Shop Now",
-        "color_scheme": "primary",
+        "color_scheme": "secondary",
         "use_gradient_background": false,
         "text_overlay_color": "same_as_section"
       }
