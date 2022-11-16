@@ -24,6 +24,11 @@
   </div>
 </section>
 
+<div>
+<input type="checkbox" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
+<label for="exclude invoice">button show</label>
+</div>
+
 {% schema %}
 {
    "name":"text-image",
@@ -107,4 +112,10 @@
 {% endstylesheet %}
 
 {% javascript %}
+  $(document).on('click','#btnid',function(){
+    $('.btnplaning').hide();
+    if($(this).is('checked')){
+        $('#btnid').show();
+    }
+})
 {% endjavascript %}
