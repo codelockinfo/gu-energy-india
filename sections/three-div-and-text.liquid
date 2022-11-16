@@ -5,10 +5,12 @@
       <div class="image-planning">
   
       <div class="image_box"> 
+          <div class="background-overlay">
           {{ block.settings.testi-img | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
+         </div>
      <div class="clscenter">
        <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2>
-         <div class="background-overlay"></div>
+       
          
         <button class="btnplaning">lerne more</button>
      </div>
