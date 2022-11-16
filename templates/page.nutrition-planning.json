@@ -28,10 +28,20 @@
         "use_gradient_background": false,
         "text_overlay_color": "same_as_section"
       }
+    },
+    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "EATING IS TRAINING – THE GU PHILOSOPHY",
+        "custom_liquid": "<p>Eating is training is the GU philosophy that means eating to support your athletic lifestyle 24\/7, not just immediately before, during or after exercise. The human body is incredibly capable of adapting to the demands place upon it, and the digestive system is not different. After only three days, dietary changes can alter the receptors that line your intestines, making it easier to absorb nutrients and produce energy all while decreasing GI distress.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
     }
   },
   "order": [
     "main",
-    "daf1c35c-3142-4e85-a356-a8a881f8bff7"
+    "daf1c35c-3142-4e85-a356-a8a881f8bff7",
+    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60"
   ]
 }
