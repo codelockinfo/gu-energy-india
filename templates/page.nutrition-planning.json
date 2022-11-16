@@ -2,31 +2,10 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "display_on_card": false,
         "color_scheme": "tertiary",
-        "use_gradient_background": false
-      }
-    },
-    "f7156490-21e5-4159-9244-a01e6ddfaccc": {
-      "type": "image-with-text",
-      "settings": {
-        "display_on_card": false,
-        "image": "shopify:\/\/shop_images\/nutrition-planning-header-01-1680x360_1_2400x_82475553-62e6-447b-b273-8d998c21f53f.jpg",
-        "crop": "",
-        "image_shape": "default",
-        "blob_type": 1,
-        "rotate_image": 0,
-        "image_position": "right",
-        "image_size": "half",
-        "disable_media_style": false,
-        "title": "Image with text",
-        "heading_size": "heading-template",
-        "richtext": "",
-        "text_alignment": "text-left",
-        "button_link": "",
-        "button_label": "Shop Now",
-        "color_scheme": "primary",
         "use_gradient_background": false
       }
     },
@@ -37,7 +16,7 @@
         "display_on_card": false,
         "display_content_below_image_on_mobile": true,
         "style": "full",
-        "height": "natural",
+        "height": "pt-two-thirds-screen-height",
         "place_content": "place-content-center-center",
         "text_align": "text-center",
         "title": "Nutrition Planning",
@@ -53,7 +32,6 @@
   },
   "order": [
     "main",
-    "f7156490-21e5-4159-9244-a01e6ddfaccc",
     "daf1c35c-3142-4e85-a356-a8a881f8bff7"
   ]
 }
