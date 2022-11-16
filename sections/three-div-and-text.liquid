@@ -113,7 +113,7 @@
 {% javascript %}
   $(document).on('click','#btnid',function(){
     $('.btnplaning').hide();
-    if($(this).is('checked')){
+    if($('#btnid').is('checked')){
         $('.btnplaning').show();
     }
 })
