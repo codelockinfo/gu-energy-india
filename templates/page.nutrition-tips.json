@@ -27,10 +27,28 @@
         "use_gradient_background": false,
         "text_overlay_color": "white"
       }
+    },
+    "b7d48de7-d13a-4911-80a6-3cd6454fe5ad": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_post_excerpt": true,
+        "show_view_all": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "main",
-    "9c007782-8285-4b12-b0cc-6b5c0b026362"
+    "9c007782-8285-4b12-b0cc-6b5c0b026362",
+    "b7d48de7-d13a-4911-80a6-3cd6454fe5ad"
   ]
 }
