@@ -1,16 +1,10 @@
 <section>
   <div class="main-planning">
     <div class="image-planning">
-<!--         <img src="https://cdn.shopify.com/s/files/1/0621/9582/6850/files/ROCTANE_PROTEIN_RECOVERY1.jpg?v=1668152146" alt="">
-      <h2>VEGAN ENERGY FOR ATHLETES</h2> -->
-
-<!--       {% for block in image_blocks %}
-    <img src="{{ block.settings.image | img_url: 'master' }}">
-    
-  {% endfor %} -->
+      
    {% for block in section.blocks %}  
     <div class="image_box"> 
-      {{ block.settings.image | img_url: '150x150', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
+      {{ block.settings.image | img_tag: block.settings.image.alt, 'logo-bar__image' }}
     </div>
   {% endfor %}
       
