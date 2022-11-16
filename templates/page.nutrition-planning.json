@@ -60,7 +60,8 @@
         "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-1": {
           "type": "image",
           "settings": {
-            "text-planing": ""
+            "image-planing": "shopify:\/\/shop_images\/ENERGY-GEL-Espresso-Love-IND-PK.png",
+            "text-planing": "second"
           }
         }
       },
