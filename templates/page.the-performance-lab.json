@@ -90,6 +90,52 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "8b3c66cc-b6fb-4dd0-944e-767bca58371b": {
+      "type": "foure-div-image-section",
+      "blocks": {
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/DSC4530_Social-1024x682_1_600x_cbab79ba-bf92-46b5-8cc2-09f75bb28cb8.jpg",
+            "testi-title": "WHY ELECTROLYTES",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/i-dDtfBnJ-X3_edit_600x_549dbb23-fd11-4583-9a5d-c5c9568fb09f.png",
+            "testi-title": "mycodemagic",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/InnerAge_9a1ee1cc-56e8-4a31-b866-f67f57e76276.webp",
+            "testi-title": "mycodemagic",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "a289d4c0-18b2-4674-bdda-b3787f7c334e": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/013_GU-FINAL-SELECTS_MTrappe_DSC7827-e1487719252943_1_1024x1024_8de4ff08-771a-4bf0-89cf-e6f4d5c77936.jpg",
+            "testi-title": "mycodemagic",
+            "color_title": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-0",
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-1",
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-2",
+        "a289d4c0-18b2-4674-bdda-b3787f7c334e"
+      ],
+      "settings": {
+        "btnid": false
+      }
     }
   },
   "order": [
@@ -98,6 +144,7 @@
     "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868",
     "06ecc565-8c17-4485-adf2-a5e313c75ce4",
     "1e0303ff-2564-483f-90f9-fc05cf69d0a6",
-    "3709dc23-05cf-48af-affa-33c74167dc27"
+    "3709dc23-05cf-48af-affa-33c74167dc27",
+    "8b3c66cc-b6fb-4dd0-944e-767bca58371b"
   ]
 }
