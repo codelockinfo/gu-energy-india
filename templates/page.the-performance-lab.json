@@ -3,10 +3,34 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_0627_edit.webp",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "pt-screen-height",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239"
   ]
 }
