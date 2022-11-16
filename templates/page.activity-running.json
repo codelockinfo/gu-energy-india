@@ -147,6 +147,29 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "1dd12c44-d458-4018-b30f-48bbc8291f71": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "collection": "roctane-capsules",
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -157,6 +180,7 @@
     "c1e68a2a-4f32-4b45-9481-c293d79a5a90",
     "8cd72eb8-52e0-4d02-b3e9-d87b4a9b3390",
     "c94a75b6-98ae-43ac-8c74-ed6234bf16c2",
-    "6e24bb2a-3f80-4ab7-9540-6329e26606a2"
+    "6e24bb2a-3f80-4ab7-9540-6329e26606a2",
+    "1dd12c44-d458-4018-b30f-48bbc8291f71"
   ]
 }
