@@ -3,10 +3,35 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "f7156490-21e5-4159-9244-a01e6ddfaccc": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": true,
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Image with text",
+        "heading_size": "heading-template",
+        "richtext": "",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "f7156490-21e5-4159-9244-a01e6ddfaccc"
   ]
 }
