@@ -8,26 +8,43 @@
 </section>
 
 {% schema %}
-  {
-  "name": "threediv",
-  "class": "three",
-  "settings": [],
-  "blocks": [
+{
+  "name": "Slideshow",
+  "tag": "section",
+  "class": "slideshow",
+  "max_blocks": 5,
+  "settings": [
     {
-      "type": "image",
-      "name": "threediv",
-      "settings": [
+      "type": "text",
+      "id": "title",
+      "label": "Slideshow"
+    }
+  ],
+  "blocks": [
+     {
+       "name": "Slide",
+       "type": "slide",
+       "settings": [
+         {
+           "type": "image_picker",
+           "id": "image",
+           "label": "Image"
+         }
+       ]
+     }
+   ],
+  "presets": [
+    {
+      "name": "Slideshow",
+      "settings": {
+        "title": "Slideshow"
+      },
+      "blocks": [
         {
-          "type": "image_picker",
-          "id": "image-planing",
-          "label":"image-label"
-          
+          "type": "slide"
         },
         {
-          "type": "text",
-          "id": "text-planing",
-          "placeholder": "enter text for box",
-          "label":"text for box"
+          "type": "slide"
         }
       ]
     }
