@@ -1,18 +1,17 @@
 <section>
-  <div class="main-planning">
-    <div class="">
+    <div class="main-planning">
       <div class="display--flex">
-   {% for block in section.blocks %}  
-
-      <div class="image_box image-planning"> 
-      {{ block.settings.image | img_url: '450 x 250 px', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
-     <h2>VEGAN ENERGY FOR ATHLETES</h2>
+        <div class="image-planning">
+          {% for block in section.blocks %}
+          <div class="image_box">
+            {{ block.settings.image | img_url: '450 x 250 px', scale: 2 |
+            img_tag: block.settings.image.alt, 'logo-bar__image' }}
+            <h2>VEGAN ENERGY FOR ATHLETES</h2>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
     </div>
-</div>
-  {% endfor %}
-      
-    </div>
-  </div>
 </section>
 
 {% schema %}
