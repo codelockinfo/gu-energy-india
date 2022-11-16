@@ -158,7 +158,7 @@
       "type": "custom-liquid",
       "settings": {
         "title": "QUESTIONS FOR OUR IN-HOUSE NUTRITIONIST",
-        "custom_liquid": "<p>Roxanne is our in-house nutrition expert. In her free time, she's an avid mountaineer and likes to get to the top of really tall mountains!<\/p>\n<p>Have a question about nutrition and fueling as an athlete? Check out our \"Ask the GUru\" page, where our in-house sports nutritionist has answered frequently asked questions about diet and nutrition for athletes. If your question isn't covered, you can submit it in the form at the bottom of the page.<\/p>",
+        "custom_liquid": "<p class=\"text-center\">Roxanne is our in-house nutrition expert. In her free time, she's an avid mountaineer and likes to get to the top of really tall mountains!<\/p><br>\n<p>Have a question about nutrition and fueling as an athlete? Check out our \"Ask the GUru\" page, where our in-house sports nutritionist has answered frequently asked questions about diet and nutrition for athletes. If your question isn't covered, you can submit it in the form at the bottom of the page.<\/p>",
         "full_width": false,
         "color_scheme": "tertiary"
       }
