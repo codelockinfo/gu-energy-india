@@ -4320,3 +4320,6 @@ body {
 .main-planning{
      padding: 80px;
 }
+.display--flex{
+  display:flex;
+}
