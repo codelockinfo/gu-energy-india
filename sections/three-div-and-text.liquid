@@ -5,10 +5,10 @@
       <div class="image-planning">
   
       <div class="image_box"> 
-          {{ block.settings.image | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
+          {{ block.settings.testi-img | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
      <div class="clscenter">
        <h2>VEGAN ENERGY FOR ATHLETES</h2>
-       <h2>{{ section.settings.section_title | escape }}</h2>
+       <h2>{{ section.settings.testi-title | escape }}</h2>
         <button class="btnplaning">lerne more</button>
      </div>
         
@@ -34,13 +34,13 @@
             {
                "type":"text",
                "id":"testi-title",
-               "label":"Author",
+               "label":"text of image",
                "default":"mycodemagic"
             },
             {
                "type":"image_picker",
                "id":"testi-img",
-               "label":"Logo image"
+               "label":"image"
             }
          ]
       }
