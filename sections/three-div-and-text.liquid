@@ -8,6 +8,7 @@
           {{ block.settings.image | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
      <div class="clscenter">
        <h2>VEGAN ENERGY FOR ATHLETES</h2>
+       <h2>{{ section.settings.section_title | escape }}</h2>
         <button class="btnplaning">lerne more</button>
      </div>
         
@@ -21,52 +22,59 @@
 
 {% schema %}
 {
-  "name": {
-    "en": "Multi-hero"
-  },
-  "class": "index-section index-section--flush",
-  "max_blocks": 3,
-  "settings": [
-  ],
-  "blocks": [
-    {
-      "type": "image",
-      "name": {
-        "en": "Image"
-      },
-      "settings": [
-        {
-          "type": "image_picker",
-          "id": "image",
-          "label": {
-            "en": "Image"
-          }
-        }
-      ]
-    }
-  ],
-  "presets": [
-    {
-      "name": {
-        "en": "Multi-hero"
-      },
-      "category": {
-        "en": "Image"
-      },
-      "blocks": [
-        {
-          "type": "image"
-        },
-        {
-          "type": "image"
-        },
-        {
-          "type": "image"
-        }
-      ]
-    }
-  ]
+   "name":"Custom Testimonial",
+   "settings":[
+      {
+         "type":"text",
+         "id":"testi-title",
+         "label":"Testimonial Title",
+         "default":"Testimonial"
+      }
+   ],
+   "blocks":[
+      {
+         "type":"quote",
+         "name":"Testimonial",
+         "settings":[
+            {
+               "type":"text",
+               "id":"testi-title",
+               "label":"Author",
+               "default":"mycodemagic"
+            },
+            {
+               "type":"richtext",
+               "id":"testi-text",
+               "label":"Text",
+               "default":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>"
+            },
+            {
+               "type":"image_picker",
+               "id":"testi-img",
+               "label":"Logo image"
+            }
+         ]
+      }
+   ],
+   "presets":[
+      {
+         "name":"New Testimonials",
+         "category":"Text",
+         "blocks":[
+            {
+               "type":"quote"
+            },
+            {
+               "type":"quote"
+            },
+            {
+               "type":"quote"
+            }
+         ]
+      }
+   ]
 }
+
 {% endschema %}
 
 {% stylesheet %}
