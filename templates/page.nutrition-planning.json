@@ -46,12 +46,57 @@
         "full_width": false,
         "color_scheme": "tertiary"
       }
+    },
+    "a7786c52-4405-44ae-9d02-21b7bf291466": {
+      "type": "mixed-shape-product-grid",
+      "blocks": {
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-0": {
+          "type": "product",
+          "settings": {
+            "product": "gu-chews",
+            "image_shape": "default",
+            "rotate_image": 0
+          }
+        },
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "image_shape": "quatrefoil",
+            "rotate_image": 0
+          }
+        },
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "image_shape": "convex_square",
+            "rotate_image": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-0",
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-1",
+        "template--16016176578722__a7786c52-4405-44ae-9d02-21b7bf291466-16685776613a6a8142-2"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "main",
     "daf1c35c-3142-4e85-a356-a8a881f8bff7",
     "5c6ecb79-ba6f-47b9-9d79-e41fff855d60",
-    "02cfabdb-7e99-4299-8f4c-36c6091ac609"
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609",
+    "a7786c52-4405-44ae-9d02-21b7bf291466"
   ]
 }
