@@ -4310,6 +4310,7 @@ body {
 /* css for panning page cls014 */
 .image-planning{
   width:24%;
+      height: 418px;
 }
 .image-planning > img{
   width:100%;
