@@ -4314,13 +4314,13 @@ body {
 .image-planning > img{
   width:100%;
 }
-.image-planning > h2{
-  text-align: center;
-}
 .main-planning{
      padding: 80px;
 }
 .display--flex{
   display:flex;
   justify-content: space-around;
+}
+.image_box > h2{
+  text-align: center;
 }
