@@ -112,22 +112,34 @@
           "type": "quote",
           "settings": {
             "testi-title": "mycodemagic",
+            "testi-img": "shopify:\/\/shop_images\/DSC4530_Social-1024x682_1_600x_cbab79ba-bf92-46b5-8cc2-09f75bb28cb8.jpg",
             "btn-title": "Learn More",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-1": {
           "type": "quote",
           "settings": {
             "testi-title": "mycodemagic",
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-03_600x_dd891baa-ecc1-4bb7-a62d-3f8efb453f11.jpg",
             "btn-title": "Learn More",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-2": {
           "type": "quote",
           "settings": {
             "testi-title": "mycodemagic",
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-02_600x_a0b719cd-eb85-4775-af8b-548df2cee32d.jpg",
+            "btn-title": "Learn More",
+            "color_title": "#ffffff"
+          }
+        },
+        "526dd9aa-a72d-4a27-b625-6d2ef9f01b9f": {
+          "type": "quote",
+          "settings": {
+            "testi-title": "mycodemagic",
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-05_600x_ecf3c59c-4070-48f1-8356-bb86fe856659.jpg",
             "btn-title": "Learn More",
             "color_title": "#FFFFFF"
           }
@@ -136,7 +148,8 @@
       "block_order": [
         "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-0",
         "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-1",
-        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-2"
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-2",
+        "526dd9aa-a72d-4a27-b625-6d2ef9f01b9f"
       ],
       "settings": {
         "btnid": false
