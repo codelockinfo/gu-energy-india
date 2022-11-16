@@ -3,10 +3,34 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "3aad6af1-8401-43b0-aa71-9dc108a23614": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/053_GU-FINAL-SELECTS_MTRAPPE_DSC9806-1264x500_1_2400x_48fe84b8-2522-4f9f-9d01-80ff65351938.jpg",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "natural",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "ASK THE GURU",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "3aad6af1-8401-43b0-aa71-9dc108a23614"
   ]
 }
