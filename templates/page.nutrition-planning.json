@@ -11,7 +11,8 @@
     "f7156490-21e5-4159-9244-a01e6ddfaccc": {
       "type": "image-with-text",
       "settings": {
-        "display_on_card": true,
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/nutrition-planning-header-01-1680x360_1_2400x_82475553-62e6-447b-b273-8d998c21f53f.jpg",
         "crop": "",
         "image_shape": "default",
         "blob_type": 1,
