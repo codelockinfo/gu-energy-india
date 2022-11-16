@@ -4324,9 +4324,13 @@ body {
 /* .image_box > h2{
   text-align: center;
 } */
+.image_box{
+  position:relative;
+}
 .clscenter{
      position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
