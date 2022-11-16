@@ -25,7 +25,7 @@
         "cta_text": "Shop Now",
         "color_scheme": "primary",
         "use_gradient_background": false,
-        "text_overlay_color": "same_as_section"
+        "text_overlay_color": "white"
       }
     }
   },
