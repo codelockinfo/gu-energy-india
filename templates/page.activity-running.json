@@ -130,7 +130,7 @@
       "settings": {
         "title": "",
         "subheading": "",
-        "collection": "",
+        "collection": "drinks",
         "no_products": 2,
         "show_view_all": false,
         "enable_quick_buy": false,
@@ -144,7 +144,7 @@
         "autoscroll_mode": "1",
         "product_tiles_aspect_ratio": "",
         "image_shape": "",
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
