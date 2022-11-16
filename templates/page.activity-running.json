@@ -59,6 +59,29 @@
         "use_gradient_background": false
       }
     },
+    "c1e68a2a-4f32-4b45-9481-c293d79a5a90": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "collection": "gels",
+        "no_products": 2,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
     "8cd72eb8-52e0-4d02-b3e9-d87b4a9b3390": {
       "type": "image-with-text",
       "settings": {
@@ -124,29 +147,6 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
-    },
-    "c1e68a2a-4f32-4b45-9481-c293d79a5a90": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "subheading": "",
-        "collection": "gels",
-        "no_products": 2,
-        "show_view_all": false,
-        "enable_quick_buy": false,
-        "display_on_card": true,
-        "layout": "grid",
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "slideshow_focus": "center",
-        "mobile_slide_width": "three_fifths",
-        "desktop_slide_width": 40,
-        "autoscroll_mode": "1",
-        "product_tiles_aspect_ratio": "",
-        "image_shape": "",
-        "color_scheme": "tertiary",
-        "use_gradient_background": false
-      }
     }
   },
   "order": [
@@ -154,9 +154,9 @@
     "50355dc3-b72a-4ce1-9350-cecbca09a639",
     "fc99598a-21f3-4b4c-b8af-1996415a3625",
     "1f8629df-9d31-44ea-a05e-372749f7d35e",
+    "c1e68a2a-4f32-4b45-9481-c293d79a5a90",
     "8cd72eb8-52e0-4d02-b3e9-d87b4a9b3390",
     "c94a75b6-98ae-43ac-8c74-ed6234bf16c2",
-    "6e24bb2a-3f80-4ab7-9540-6329e26606a2",
-    "c1e68a2a-4f32-4b45-9481-c293d79a5a90"
+    "6e24bb2a-3f80-4ab7-9540-6329e26606a2"
   ]
 }
