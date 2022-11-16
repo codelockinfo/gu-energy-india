@@ -55,7 +55,8 @@
           "settings": {
             "testi-title": "VEGAN ENERGY FOR ATHLETES",
             "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
-            "color_title": "#FFFFFF"
+            "btn-title": "Learn More",
+            "color_title": "#ffffff"
           }
         },
         "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-1": {
@@ -63,7 +64,8 @@
           "settings": {
             "testi-title": "GLUTEN VS. GLUTEN-FREE",
             "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
-            "color_title": "#FFFFFF"
+            "btn-title": "Details",
+            "color_title": "#ffffff"
           }
         },
         "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-2": {
@@ -71,7 +73,8 @@
           "settings": {
             "testi-title": "WHY ATHLETES LOVE CAFFEINE",
             "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
-            "color_title": "#FFFFFF"
+            "btn-title": "details",
+            "color_title": "#ffffff"
           }
         }
       },
