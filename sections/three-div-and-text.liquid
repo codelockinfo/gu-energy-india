@@ -12,7 +12,7 @@
      <div class="clscenter">
        <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2>
         
-        <button class="btnplaning">lerne more</button>
+        <button class="btnplaning">{{ block.settings.testi-title | escape }}</button>
      </div>
         
         
@@ -45,6 +45,12 @@
                "type":"image_picker",
                "id":"testi-img",
                "label":"image"
+            },
+               {
+               "type":"text",
+               "id":"btn-title",
+               "label":"text of button",
+               "default":"Learn More"
             },
              {
       "type": "color",
