@@ -34,57 +34,64 @@
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-0": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "What should I eat while training and racing?",
+            "answer": "<p>Carbohydrates are the easiest energy to absorb and metabolize during endurance activities or high-intensity exercise. When you exercise, blood flow to your viscera (i.e., stomach, digestive tract) is redirected to your muscles to provide sufficient oxygen for muscular contractions. Reduced blood flow means reduced ability to digest and absorb nutrients. It’s not surprising that half of endurance athletes encounter GI issues during exercise!<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-1": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "What are BCAAs and why do they matter?",
+            "answer": "<p>Leucine, isoleucine, and valine are the three branched chain amino acids (BCAAs), named so because of their nonlinear (“branched”) carbon atom configuration. Amino acids are the building blocks of proteins, and proteins, as you probably know, make up the structure of the body. Amino acids are either produced in the body (termed, “nonessential”), or they must be supplied from the diet (termed, “essential”).<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-2": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "Can I eat too much while training or racing?",
+            "answer": "<p>Yes! While we know food is fuel, the reality is that our digestive tracts can only absorb so many nutrients at once. If you overload your system, you will likely end up with GI issues like nausea, bloating, cramps…or worse! So how much is too much? We recommend starting with 150-200 calories per hour of activity for races or training sessions over 60-90 minutes. It’s possible to train your body to absorb more calories, and some people can tolerate up to 400 calories per hour. More calories in means more energy to burn and less reliance on stored carbs (glycogen).<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-3": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "How do I train my body so that I can eat and drink more?",
+            "answer": "<p>Start small by eating (or drinking) 150-200 calories per hour for activities lasting longer than 90 minutes. Gradually increase your body’s ability to process food during long training sessions by adding 25-50 calories per hour. For long efforts, the more you can get in, the better. However, you will not be able to replace the energy you are burning during exercise and will be in a caloric deficit when you finish. As you experiment with different combinations of liquids, gels, or solids, remember to avoid protein, fat, and fiber.<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-4": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "How does staying hydrated help improve performance?",
+            "answer": "<p>When you lose body fluids during exercise (through sweat, respiration, etc.), your blood plasma volume decreases. Thicker blood is harder for the heart to pump, which leads to two things: reduced blood flow to your working muscles and less heat released through your skin. Dehydration can result in lower cardiac output, less blood flow to your skin, and decreased sweat production, all of which contribute to a rise in core body temperature! As you might guess, exercising in the heat exacerbates dehydration, which puts even more strain on your body. Hotter temperatures can even shift your body’s fuel preference to burn more carbohydrates, leading to early fatigue if muscle glycogen stores become depleted. These negative effects can be triggered by as little as 1-2% body weight loss! To make matters worse, exercise also feels harder when you’re dehydrated, as cognition and mood can be negatively affected by even a modest amount of dehydration.<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-5": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "How do I know if I'm drinking enough?",
+            "answer": "<p>Here’s an easy trick to determine whether or not you are drinking enough by calculating your sweat rate is: 1) Weigh yourself before you exercise 2) Weigh yourself after 1 hour of exercise (towel off any sweat first) 3) Record how much you drank during your workout 4) Calculate your hourly sweat rate with this formula: 16 x [(Starting Weight lbs) – (Weight lbs after 1 hour exercise)] + [fluids consumed during oz] = sweat loss in ounces per hour<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-6": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "How does the caffeine in GU products help me?",
+            "answer": "<p>Caffeine consumption during exercise improves performance in several ways: it sharpens focus and perks you up; but more importantly, it helps the body produce more power, reduce the pain of hard efforts, and may even tap fat for fuel during exercise. All of this prolongs your ability to exercise at a high intensity. We use just enough caffeine to jump start this benefit and no more.<\/p>"
           }
         },
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-7": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "Is it bad to snack at night before bed?",
+            "answer": "<p>Research shows that a small protein-rich snack before bed does not inhibit overnight fat breakdown and is a great way to boost muscle recovery and repair. Our favorite: Plain Greek yogurt with fresh berries and slivered almonds.<\/p>"
+          }
+        },
+        "ae448fed-d43d-46a0-a1c8-2aca06f62762": {
+          "type": "question",
+          "settings": {
+            "question": "Why don't we include magnesium as part of the electrolyte blend in our products?",
+            "answer": "<p>When it comes to electrolytes and GU products, we typically focus on sodium chloride (salt) replenishment above all else. Why do we do this? Well, when you look at the typical electrolyte concentration of adult sweat, you’ll see that the largest losses are from sodium and chloride, with magnesium losses only comprising a small amount (0-36 mg\/L of sweat). Since the average athlete loses about 1-3 liters of sweat per hour, it is far more important to replace the largest constituent electrolytes (sodium and chloride) than the lowest (magnesium). It is worth noting, however, that we include 9 mg magnesium per capsule in our Roctane Electrolyte Capsules. If athletes are concerned over heavy sweat losses incurred during hot\/humid conditions or very prolonged (&gt; 4 hours) exercise, they might consider adding electrolyte capsules to their nutrition strategy. The general recommendation there would be to take 1-2 capsules per hour of activity, in addition to sports drinks, gels, chews, etc. This would help offset losses of sodium, chloride, and magnesium simultaneously.<\/p>"
           }
         }
       },
@@ -96,7 +103,8 @@
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-4",
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-5",
         "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-6",
-        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-7"
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-7",
+        "ae448fed-d43d-46a0-a1c8-2aca06f62762"
       ],
       "settings": {
         "display_on_card": false,
