@@ -7,7 +7,7 @@
       <div class="image_box"> 
           {{ block.settings.testi-img | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
      <div class="clscenter">
-       <h2>{{ block.settings.testi-title | escape }}</h2>
+       <h2 style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2>
         <button class="btnplaning">lerne more</button>
      </div>
         
@@ -72,9 +72,7 @@
 {% endschema %}
 
 {% stylesheet %}
-  .clscenter h2{
-        color: {{ block.settings.color_title }};
-}
+
 {% endstylesheet %}
 
 {% javascript %}
