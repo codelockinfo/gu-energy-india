@@ -55,7 +55,29 @@
         "text_alignment": "text-left",
         "button_link": "",
         "button_label": "Shop Now",
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1e0303ff-2564-483f-90f9-fc05cf69d0a6": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/HourRecordShot_2.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "OUR MOTIVATION",
+        "heading_size": "heading-template",
+        "richtext": "<p>At GU, we are a company of athletes, adventurers, and weekend warriors. We are passionate about fueling human movement and want to produce the best nutrition products that empower people to live active lifestyles. Curiosity led to the innovation of the first GU Energy Gel, and it continues to drive our innovation process. By studying nutrition and human physiology, we can create better products to support our athlete community.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
@@ -64,6 +86,7 @@
     "main",
     "9dafa0cd-7a9c-4fb6-830c-38607ebc8239",
     "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868",
-    "06ecc565-8c17-4485-adf2-a5e313c75ce4"
+    "06ecc565-8c17-4485-adf2-a5e313c75ce4",
+    "1e0303ff-2564-483f-90f9-fc05cf69d0a6"
   ]
 }
