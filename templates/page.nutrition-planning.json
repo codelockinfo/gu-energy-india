@@ -102,6 +102,15 @@
         "use_gradient_background": false
       }
     },
+    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "PLAN BY SPORT",
+        "custom_liquid": "<p class=\"text-center\">Outline our nutrition plan based on your sport.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
+    },
     "f0205c74-9170-43a8-b880-85acf2b9a7a7": {
       "type": "three-div-and-text",
       "blocks": {
@@ -147,15 +156,6 @@
       "settings": {
         "btnid": false
       }
-    },
-    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6": {
-      "type": "custom-liquid",
-      "settings": {
-        "title": "PLAN BY SPORT",
-        "custom_liquid": "<p class=\"text-center\">Outline our nutrition plan based on your sport.<\/p>",
-        "full_width": false,
-        "color_scheme": "tertiary"
-      }
     }
   },
   "order": [
@@ -165,7 +165,7 @@
     "02cfabdb-7e99-4299-8f4c-36c6091ac609",
     "965cb8a1-9af7-4284-842c-21731159d460",
     "cb449300-88da-4237-9d8a-0758d23c0d6b",
-    "f0205c74-9170-43a8-b880-85acf2b9a7a7",
-    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6"
+    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6",
+    "f0205c74-9170-43a8-b880-85acf2b9a7a7"
   ]
 }
