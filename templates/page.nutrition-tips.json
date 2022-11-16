@@ -33,8 +33,8 @@
       "settings": {
         "display_on_card": false,
         "title": "",
-        "blog": "nutrition-tips",
-        "post_limit": 3,
+        "blog": "cla",
+        "post_limit": 9,
         "crop": "aspect-w-4 aspect-h-3",
         "image_shape": "default",
         "blog_show_author": false,
