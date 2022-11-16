@@ -88,7 +88,7 @@
     "cb449300-88da-4237-9d8a-0758d23c0d6b": {
       "type": "blog-posts",
       "settings": {
-        "display_on_card": false,
+        "display_on_card": true,
         "title": "",
         "blog": "nutrition-la",
         "post_limit": 3,
