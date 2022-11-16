@@ -1,0 +1,96 @@
+<div class="guide-nav">
+          <ul class="grantlex">
+      {% for block in section.blocks %}    
+        <li class="gudenumber" {% if forloop.fist%} grandactive {% endif %}>{{block.settings.grandtotal}}</a></li>
+    {% endfor %}
+</ul>
+  
+</div>
+
+
+<div class="mainflex">
+    {% for block in section.blocks %}
+    <div class="width50">
+      <div class="width100" >
+        {%  if block.settings.imagemain1!= blank %}
+         <img src="{{ block.settings.imagemain1 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+    <div class="width50">
+      <div class="width100 maintext">
+      <h1>{{ block.settings.heading }}</h1>
+      <p>{{ block.settings.text1 }}</p>
+      <div>
+        {%  if block.settings.imagemain3!= blank %}
+         <img src="{{ block.settings.imagemain3 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+    </div>
+    <div class="width50">
+      <div class="width100">
+        {%  if block.settings.imagemain2!= blank %}
+         <img src="{{ block.settings.imagemain2 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  
+  {% schema %}
+     {
+      "name": "guidetabbing",
+      "settings": [
+       
+      ],
+        "blocks":[
+      {
+      "name":"block",
+      "type":"block",
+      "settings":[
+      { 
+        "id" : "grandtotal",
+         "type" : "text",
+         "label" : "Title heading"
+     },
+        { 
+           "id" : "imagemain1",
+            "type" : "image_picker",
+            "label" : "main image"
+        },
+        { 
+           "id" : "heading",
+            "type" : "text",
+            "label" : "heading"
+        },
+        { 
+           "id" : "text1",
+            "type" : "text",
+            "label" : "text"
+        },
+        { 
+           "id" : "imagemain3",
+            "type" : "image_picker",
+            "label" : "text image"
+        },
+        { 
+           "id" : "imagemain2",
+            "type" : "image_picker",
+            "label" : "image"
+        }
+        
+        
+      ]
+      }
+      ],
+      "presets" : [
+        {
+          "name" : "guidetabbing"
+        }
+      ]
+    }
+    
+  {% endschema %}
+ 
+ 

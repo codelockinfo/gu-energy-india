@@ -4,7 +4,7 @@
 
 <section class="relative text-scheme-text bg-scheme-background overflow-hidden {% if section.settings.use_gradient_background %}bg-scheme-gradient{% endif %}" data-color-scheme="{{ section.settings.color_scheme | default: 'primary' }}">
   
-  <div class="section-content max-w-site mx-auto px-section relative z-10 py-section-vertical-spacing">
+  <div class="customfaq section-content max-w-site mx-auto px-section relative z-10 py-section-vertical-spacing">
     {% if section.settings.title != blank %}
       {%- assign block_heading_level = 'h3' -%}
       <h2 class="text-center font-heading  heading-base heading-style break-words {{ settings.heading_drop_shadow_style }}">
@@ -18,7 +18,7 @@
       </div>
     {% endif %}
 
-    <div class="{% if section.settings.title != '' or section.settings.richtext != blank %}section-content-top-margin{% endif %} {% unless section.settings.display_on_card %}border-scheme-text border-b-2{% endunless %} mx-auto grid grid-cols-1 gap-theme {% if section.settings.two_columns_desktop %}lg:grid-cols-2 max-w-7xl{% else %}max-w-2xl{% endif %}">
+    <div class="{% if section.settings.title != '' or section.settings.richtext != blank %}section-content-top-margin{% endif %} {% unless section.settings.display_on_card %}border-scheme-text border-b-2{% endunless %} mx-auto  grid-cols-1 gap-theme {% if section.settings.two_columns_desktop %}lg:grid-cols-2 max-w-7xl{% else %}max-w-2xl{% endif %}">
     {%- for block in section.blocks -%}
       {% if block.type == 'question' %}
         <div class="{% if section.settings.display_on_card %}card-container{% else %}{% endif %}" {{ block.shopify_attributes }}>
@@ -165,7 +165,7 @@
           "default": "Frequently asked question"
         },
         {
-          "type": "richtext",
+          "type": "textarea",
           "id": "answer",
           "label": "Answer",
           "default": "<p>Use this text to share the answer to the question with your customers.</p>"

@@ -4308,3 +4308,118 @@ body {
     }
 }
 
+/* cls 007 start */
+.customfaq  .card-container::after {
+  background-image: none;
+}
+.customfaq .inline-block.break-words.w-full {
+  color: #04bbd3;
+}
+.customfaq .card.p-4 {
+  border: 1px solid #000000;
+  margin-bottom: 20px;
+}
+.customfaq .gap-theme {
+  gap: 18px;
+}
+.customfaq .text-center.font-heading.heading-base.heading-style.break-words.none {
+  font-size: 38px;
+}
+.customfaq  .text-center.font-heading.heading-base.heading-style.break-words.full_shadow {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.rotengelcontain {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+span.clshr {
+  height: 6px;
+  background: #e42c1d;
+  width: 100%;
+  max-width: 58%;
+
+  display: inline-block;
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+span.clshr:before {
+  left: 0;
+  content: "";
+  display: block;
+  width: 33%;
+  background: #fdb522;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+span.clshr:after {
+  right: 0;
+  background: #04bbd3;
+  content: "";
+  display: block;
+  width: 33%;
+ 
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+.roctaintitle {
+  font-size: 48px;
+  font-weight: bold;
+}
+.trignleflex{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.tringleflex1{  
+  flex: 0 0 33.33%;
+  max-width: 25%;
+}
+.tringlediscrip {
+  text-align: center;
+  font-size: 20px;
+  line-height: 25px;
+}
+.allldiscrip {
+  margin: 35px 0px;
+  font-weight: 100;
+  font-size: 16px;
+}
+.gelltitle {
+  margin-bottom: 2.5%;
+}
+.customfaq .max-w-7xl {
+  max-width: 1120px;
+}
+.mainflex{
+      
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.width50{
+width: 30%;
+}
+.width100{
+width: 100%;
+}
+.maintext{
+  text-align: center;
+}
+.grantlex{
+  display: flex;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+}
+.gudenumber{
+  flex: 0 0 10%;
+  max-width: 10%;
+}
+/* cls 007 end */
+
+
