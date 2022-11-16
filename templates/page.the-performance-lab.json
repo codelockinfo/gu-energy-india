@@ -146,7 +146,7 @@
         "post_limit": 3,
         "crop": "aspect-w-4 aspect-h-3",
         "image_shape": "default",
-        "blog_show_author": false,
+        "blog_show_author": true,
         "blog_show_date": false,
         "show_post_excerpt": false,
         "show_view_all": true,
