@@ -80,6 +80,16 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "3709dc23-05cf-48af-affa-33c74167dc27": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Sign up for the GU Performance Lab Newsletter",
+        "richtext": "<p>The Performance Lab Newsletter will bring you along for the ride – so you can learn alongside us and gain insights into all areas of improving performance.<\/p>",
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -87,6 +97,7 @@
     "9dafa0cd-7a9c-4fb6-830c-38607ebc8239",
     "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868",
     "06ecc565-8c17-4485-adf2-a5e313c75ce4",
-    "1e0303ff-2564-483f-90f9-fc05cf69d0a6"
+    "1e0303ff-2564-483f-90f9-fc05cf69d0a6",
+    "3709dc23-05cf-48af-affa-33c74167dc27"
   ]
 }
