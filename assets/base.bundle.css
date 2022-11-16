@@ -4340,4 +4340,6 @@ body {
     padding: 10px 15px;
     text-transform: uppercase;
     font-weight: 700;
+        display: flex;
+    margin: auto;
   }
