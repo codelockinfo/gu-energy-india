@@ -1,8 +1,29 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
-  }
+  "name": "threediv",
+  "class": "three",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "image",
+      "name": "threediv",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image-planing",
+          "label":"image-label"
+          
+        },
+        {
+          "type": "text",
+          "id": "text-planing",
+          "placeholder": "enter text for box",
+          "label":"text for box"
+        }
+      ]
+    }
+  ]
+}
 {% endschema %}
 
 {% stylesheet %}
