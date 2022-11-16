@@ -27,10 +27,20 @@
         "use_gradient_background": false,
         "text_overlay_color": "same_as_section"
       }
+    },
+    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "INSIDE THE GU PERFORMANCE LAB",
+        "custom_liquid": "<p class=\"text-center\">The Performance Lab is where we research the effects of nutrition and training on the body and where we innovate and develop new products for athletes. Here at GU, we are motivated by a desire to help athletes get the most out of their bodies over months and years of training. After all, innovation, athleticism, and longevity are three of our core values.<\/p>\n<p>Inside the Performance Lab, we test our athletes’ metabolism and blood biochemistry, monitor training status and fatigue, track sleep and diet, even measure cognitive performance. While the equipment that makes up our lab has a physical home in our headquarters in Berkeley, we like to think that our lab exists anywhere in the world where our athletes are out there pushing their limits.<\/p>\n<p><\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
     }
   },
   "order": [
     "main",
-    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239"
+    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239",
+    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868"
   ]
 }
