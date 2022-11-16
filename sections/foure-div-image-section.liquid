@@ -1,0 +1,116 @@
+<section class="bac-color-white">
+  <div class="main-planning">
+    <div class="display--flex">
+       {% for block in section.blocks %}  
+      <div class="image-planning">
+
+      <div class="image_box"> 
+          
+          {{ block.settings.testi-img | img_url: 'master', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
+     <div class="background-overlay">
+             </div>
+     <div class="clscenter">
+       <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2>
+        
+     </div>
+        
+        
+    </div>
+     
+    </div>
+        {% endfor %}
+    </div>
+  </div>
+</section>
+
+<div>
+<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
+</div>
+
+{% schema %}
+{
+   "name":"foure div image section",
+   "settings":[
+     {
+"type": "checkbox",
+"id": "btnid",
+"label": "btn show or not",
+"default": false
+}
+    
+   ],
+   "blocks":[
+      {
+         "type":"quote",
+         "name":"image-text",
+         "settings":[
+            {
+               "type":"image_picker",
+               "id":"testi-img",
+               "label":"image"
+            },
+                    {
+               "type":"text",
+               "id":"testi-title",
+               "label":"text of image",
+               "default":"mycodemagic"
+            },
+             {
+      "type": "color",
+      "id": "color_title",
+      "label": "Heading color",
+      "default": "#FFFFFF"
+     } 
+         ]
+      }
+   ],
+   "presets":[
+      {
+         "name":"foure div image section",
+         "category":"Text",
+         "blocks":[
+            {
+               "type":"quote"
+            },
+            {
+               "type":"quote"
+            },
+            {
+               "type":"quote"
+            }
+         ]
+      }
+   ]
+}
+
+{% endschema %}
+
+{% stylesheet %}
+  .heading-planing{
+        text-align: center;
+    font-size: 24px;
+        font-weight: 800;
+        margin-bottom: 18px;
+}
+  .background-overlay{
+    background-color: #0000007a;
+    opacity: .7;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .bac-color-white{
+    background-color:#fff;
+  }
+{% endstylesheet %}
+
+{% javascript %}
+//   $(document).on('click','#btnid',function(){
+//     $('.btnplaning').hide();
+//     if($('#btnid').is('checked')){
+//         $('.btnplaning').show();
+//     }
+// })
+{% endjavascript %}

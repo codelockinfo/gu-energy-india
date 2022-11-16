@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "9c007782-8285-4b12-b0cc-6b5c0b026362": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC0502_1_2000x_8a323256-e6d4-44f9-b530-7ba3e2f53ad7.webp",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "pt-screen-height",
+        "place_content": "place-content-end-center",
+        "text_align": "text-center",
+        "title": "A NEW UPPER LIMIT FOR TOLERABLE CARB INTAKE?",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "white"
+      }
+    },
+    "b7d48de7-d13a-4911-80a6-3cd6454fe5ad": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "title": "",
+        "blog": "cla",
+        "post_limit": 9,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": true,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9c007782-8285-4b12-b0cc-6b5c0b026362",
+    "b7d48de7-d13a-4911-80a6-3cd6454fe5ad"
+  ]
+}

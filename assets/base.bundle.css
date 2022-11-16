@@ -4423,3 +4423,43 @@ width: 100%;
 /* cls 007 end */
 
 
+/* css for panning page cls014 */
+.image-planning{
+  width:24%;
+}
+.image-planning > img{
+  width:100%;
+}
+.main-planning{
+     padding: 80px;
+}
+.display--flex{
+  display:flex;
+  justify-content: space-around;
+}
+/* .image_box > h2{
+  text-align: center;
+} */
+.image_box{
+  position:relative;
+}
+.clscenter{
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+  .btnplaning{
+         background-color: aqua;
+      color: #fff;
+      font-size: 14px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+        display: flex;
+    margin: auto;
+  }
+.image_box img{
+      height: 418px;
+    object-fit: cover;
+}

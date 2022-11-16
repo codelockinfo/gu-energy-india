@@ -1,1 +1,1237 @@
-{"sections":{"f34c9d15-064b-4392-bda4-0d171f9c3b87":{"type":"hero-slideshow","disabled":true,"blocks":{"template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/GU_ENERGY_CHEWS_1.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}},"template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/DSC01211-Edit.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"place-content-center-end","text_align":"text-left","text_overlay_color":"black"}}},"block_order":["template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-0","template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-1"],"settings":{"style":"full","height":"pt-screen-height","display_on_card":true,"display_content_below_image_on_mobile":true,"auto_rotate":false,"slide_speed":"5000","place_content":"place-content-center-start","text_align":"text-left","heading_size":"heading-base","color_scheme":"primary","use_gradient_background":false}},"1650891033bae15b05":{"type":"image-with-text","blocks":{"fd63bf46-7b83-450b-9205-e98d3bb15657":{"type":"background_shape","settings":{"shape":"star_4","blob_type":1,"size":170,"opacity":70,"blur":0,"horizontal_position":80,"vertical_position":58,"rotate":-12,"enable_parallax":true,"parallax_speed":3,"color":"gradient","color_scheme":"same_as_section"}},"7de8f682-42c1-4705-b9ea-207f66e0c04e":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}},"175e66d3-20ec-47c8-b628-6580300f4f5f":{"type":"sticker","disabled":true,"settings":{"text":"Sticker","shape":"star_1","width":200,"sticker_font_size":"1.563rem","image":"shopify:\/\/shop_images\/GU-Icon-Logo-Navy.png","half_image_width_on_mobile":true,"horizontal_position":92,"vertical_position":77,"rotate":0,"show_sticker_on_mobile":true,"show_sticker_on_desktop":true,"rotation_animation":"rotate_when_scrolling","enable_parallax":true,"parallax_speed":6,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}},"140e7989-8375-45bf-b75f-61897a50b73a":{"type":"sticker","disabled":true,"settings":{"text":"Sticker","shape":"star_1","width":120,"sticker_font_size":"1.563rem","half_image_width_on_mobile":true,"horizontal_position":77,"vertical_position":21,"rotate":0,"show_sticker_on_mobile":true,"show_sticker_on_desktop":true,"rotation_animation":"rotate_when_scrolling","enable_parallax":true,"parallax_speed":8,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}}},"block_order":["fd63bf46-7b83-450b-9205-e98d3bb15657","7de8f682-42c1-4705-b9ea-207f66e0c04e","175e66d3-20ec-47c8-b628-6580300f4f5f","140e7989-8375-45bf-b75f-61897a50b73a"],"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/GU-Icon-Salty-The-Yeti.png","crop":"","image_shape":"default","blob_type":5,"rotate_image":2,"image_position":"right","image_size":"half","disable_media_style":true,"title":"PEACE OUT PLASTIC","heading_size":"heading-base","richtext":"<p>SAY HELLO TO THE GU X BIVO STAINLESS STEEL BOTTLE<br\/><\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/drinks","button_label":"Shop Now","color_scheme":"primary","use_gradient_background":true}},"16508912994a26e8bf":{"type":"rich-text","blocks":{"0a67b1dc-9897-4fc0-ab9e-cfd162628bae":{"type":"sticker","settings":{"text":"Sticker","shape":"star_1","width":150,"sticker_font_size":"1.563rem","image":"shopify:\/\/shop_images\/GU-Icon-Logo-White.png","half_image_width_on_mobile":true,"horizontal_position":8,"vertical_position":80,"rotate":0,"show_sticker_on_mobile":true,"show_sticker_on_desktop":true,"rotation_animation":"rotate_when_scrolling","enable_parallax":true,"parallax_speed":3,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}}},"block_order":["0a67b1dc-9897-4fc0-ab9e-cfd162628bae"],"settings":{"title":"ROCTANE ENERGY DRINK","heading_size":"heading-base","rich_text":"<p><br\/>                        FUEL FOR YOUR LONG DAYS<br\/>                      <\/p>","display_on_card":false,"content_width_desktop":"lg:w-2\/3","button_link":"","button_label":"Shop Now","color_scheme":"secondary","use_gradient_background":false}},"1650891303c44cb2d2":{"type":"icon-list","blocks":{"16508913039d58ab55-0":{"type":"icon","settings":{"icon":"alcohol_free","text":""}},"16508913039d58ab55-1":{"type":"icon","settings":{"icon":"no_additives","text":""}},"16508913039d58ab55-2":{"type":"icon","settings":{"icon":"no_artificial_colors","text":""}},"2d49c667-6651-4aec-9f2e-b5b01b310ecd":{"type":"icon","settings":{"icon":"organic","text":""}},"2eb4a361-85df-445d-a708-84d7e4173322":{"type":"icon","settings":{"icon":"gluten_free","text":""}},"eb42bfa2-e2b9-4bfe-8b67-b4e7b94efbf6":{"type":"icon","settings":{"icon":"check-mark","text":""}},"7f2265e7-4734-46f9-a3c4-cec407d5a2d3":{"type":"icon","settings":{"icon":"probiotic","text":""}},"f3086909-a9d2-48be-ab4f-01abd112ac9c":{"type":"icon","settings":{"icon":"low_carb","text":""}}},"block_order":["16508913039d58ab55-0","16508913039d58ab55-1","16508913039d58ab55-2","2d49c667-6651-4aec-9f2e-b5b01b310ecd","2eb4a361-85df-445d-a708-84d7e4173322","eb42bfa2-e2b9-4bfe-8b67-b4e7b94efbf6","7f2265e7-4734-46f9-a3c4-cec407d5a2d3","f3086909-a9d2-48be-ab4f-01abd112ac9c"],"settings":{"title":"","max_width":100,"text_style":"body","color_scheme":"secondary","use_gradient_background":false}},"7a035dd7-d03e-4711-ae2b-e632a2e4abd9":{"type":"image-with-text","blocks":{"18860502-08de-4830-b254-76df10c8a201":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":true,"enable_animation":false,"animation_direction":""}},"04325f76-0660-4dd3-9236-e98709b25264":{"type":"background_shape","settings":{"shape":"star_4","blob_type":1,"size":170,"opacity":70,"blur":0,"horizontal_position":80,"vertical_position":58,"rotate":-12,"enable_parallax":true,"parallax_speed":3,"color":"gradient","color_scheme":"same_as_section"}}},"block_order":["18860502-08de-4830-b254-76df10c8a201","04325f76-0660-4dd3-9236-e98709b25264"],"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/ENERGY-GEL-Espresso-Love-IND-PK.png","crop":"aspect-w-4 aspect-h-3","image_shape":"default","blob_type":5,"rotate_image":0,"image_position":"left","image_size":"half","disable_media_style":true,"title":"INSIDE THE ORIGINAL ENERGY GEL","heading_size":"heading-base","richtext":"<p>PORTABLE, TASTY PERFORMANCE<\/p>","text_alignment":"text-right","button_link":"shopify:\/\/collections\/gels","button_label":"Shop Now","color_scheme":"primary","use_gradient_background":false}},"9dcdb08d-b633-480f-9a24-e0d74362b3f2":{"type":"featured-collection-new","disabled":true,"blocks":{"146b03ee-6628-4ee2-8ec1-3078a08c5a0a":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"primary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}},"31b23d15-dc06-4b80-b7d5-06130560fc61":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"primary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":true,"enable_animation":false,"animation_direction":""}}},"block_order":["146b03ee-6628-4ee2-8ec1-3078a08c5a0a","31b23d15-dc06-4b80-b7d5-06130560fc61"],"settings":{"title":"Featured collection","subheading":"Use this text to share information about your collection.","collection":"hydration-drink-tabs","no_products":4,"show_view_all":false,"enable_quick_buy":false,"display_on_card":false,"layout":"carousel","products_per_row_mobile":"1","products_per_row_desktop":4,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":25,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"tertiary","use_gradient_background":false}},"1650891358fef95dd4":{"type":"featured-collection","blocks":{"8209e916-c921-4623-9436-a9902901970c":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"primary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":true,"enable_animation":false,"animation_direction":""}},"7261f40b-41bf-4b48-8953-041e29fe35e4":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"primary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["8209e916-c921-4623-9436-a9902901970c","7261f40b-41bf-4b48-8953-041e29fe35e4"],"settings":{"title":"Featured collection","subheading":"","collection":"gels","no_products":4,"show_view_all":false,"enable_quick_buy":false,"display_on_card":false,"layout":"carousel","products_per_row_mobile":"1","products_per_row_desktop":4,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":25,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"tertiary","use_gradient_background":false}},"5709d34f-de92-49d0-8ef1-b2f84392b55e":{"type":"collage","disabled":true,"blocks":{"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg","image_shape":"rounded_hexagon","rotate_image":0,"button_text":"","url":""}},"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Secondary_ImagesROC_PROTEIN_1.jpg","image_shape":"default","rotate_image":0,"button_text":"","url":""}},"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Secondary_ImagesROC_PROTEIN_2.jpg","image_shape":"default","rotate_image":0,"button_text":"","url":""}},"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-3":{"type":"image","disabled":true,"settings":{"image_shape":"default","rotate_image":0,"button_text":"","url":""}},"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-4":{"type":"image","disabled":true,"settings":{"image_shape":"default","rotate_image":0,"button_text":"","url":""}},"template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-5":{"type":"image","disabled":true,"settings":{"image_shape":"default","rotate_image":0,"button_text":"","url":""}},"62bde42c-846b-4188-b0b5-9549ff06f0b9":{"type":"shape_divider","disabled":true,"settings":{"target_section":"above","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-0","template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-1","template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-2","template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-3","template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-4","template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-5","62bde42c-846b-4188-b0b5-9549ff06f0b9"],"settings":{"title":"","first_large_image_position":"top_left","crop":"aspect-w-1 aspect-h-1","button_style":"push-btn-surface","show_buttons_on_mobile":false,"only_show_button_on_hover":true,"color_scheme":"primary","use_gradient_background":false}},"165089147572b58f85":{"type":"image-with-text-overlay","disabled":true,"blocks":{"e407a37c-5b97-486d-99d1-d1ff54c6cb41":{"type":"shape_divider","disabled":true,"settings":{"target_section":"above","target_section_color_scheme":"tertiary","style":"medium-waves_1200x43","flip_horizontal":false,"enable_animation":false,"animation_direction":""}},"d3fd69d6-0368-49b2-a1c4-1f8f4b2c46ba":{"type":"shape_divider","disabled":true,"settings":{"target_section":"below","target_section_color_scheme":"quaternary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["e407a37c-5b97-486d-99d1-d1ff54c6cb41","d3fd69d6-0368-49b2-a1c4-1f8f4b2c46ba"],"settings":{"image":"shopify:\/\/shop_images\/ORANGE_A.jpg","display_on_card":true,"display_content_below_image_on_mobile":true,"style":"full","height":"pt-screen-height","place_content":"place-content-center-end","text_align":"text-center","title":"Image with text overlay","heading_size":"heading-base","richtext":"","cta_url":"","cta_text":"Shop Now","color_scheme":"primary","use_gradient_background":false,"text_overlay_color":"same_as_section"}},"16508915343a7fad54":{"type":"text-columns-with-images","disabled":true,"blocks":{"1650891534cc32a736-0":{"type":"column","settings":{"show_image":false,"title":"","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"1650891534cc32a736-1":{"type":"column","settings":{"show_image":false,"title":"","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"1650891534cc32a736-2":{"type":"column","settings":{"show_image":false,"title":"","text":"<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}}},"block_order":["1650891534cc32a736-0","1650891534cc32a736-1","1650891534cc32a736-2"],"settings":{"display_on_card":false,"slideshow_on_mobile":false,"title":"","crop":"","image_shape":"default","show_index_on_blocks":false,"index_shape":"star_1","color_scheme":"quaternary","use_gradient_background":false}},"1650891590472e0352":{"type":"comparison-table","disabled":true,"blocks":{"1650891590fbd399df-0":{"type":"row","settings":{"title":"Label","column_1_icon":"check-mark","column_1_text":"","column_2_icon":"check_close","column_2_text":"","column_3_icon":"check_close","column_3_text":"","column_4_icon":"check_close","column_4_text":""}},"1650891590fbd399df-1":{"type":"row","settings":{"title":"Label","column_1_icon":"check-mark","column_1_text":"","column_2_icon":"check_close","column_2_text":"","column_3_icon":"check_close","column_3_text":"","column_4_icon":"check_close","column_4_text":""}},"1650891590fbd399df-2":{"type":"row","settings":{"title":"Label","column_1_icon":"check-mark","column_1_text":"","column_2_icon":"check_close","column_2_text":"","column_3_icon":"check_close","column_3_text":"","column_4_icon":"check_close","column_4_text":""}}},"block_order":["1650891590fbd399df-0","1650891590fbd399df-1","1650891590fbd399df-2"],"settings":{"display_on_card":true,"title":"","highlighted_column":"1","column_1_title":"Column 1","column_2_title":"Column 2","enable_column_3":true,"column_3_title":"Column 3","enable_column_4":true,"column_4_title":"Column 4","color_scheme":"primary","use_gradient_background":false}},"1650891615011511eb":{"type":"text-marquee","disabled":true,"settings":{"text":"Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.","repeat_text":true,"shape_between_text":"10_point_star","animate_shape_between_text":true,"link":"","font":"font-heading heading-secondary","apply_effects":false,"mobile_text_size":"text-3xl","desktop_text_size":"lg:text-7xl","speed":120,"direction":"","color_scheme":"quaternary","use_gradient_background":false}},"16508916022eba9802":{"type":"video-with-text-overlay","disabled":true,"blocks":{"04bdfe5f-8dda-41d5-bd4d-24e8aef65ec3":{"type":"sticker","disabled":true,"settings":{"text":"Sticker","shape":"star_1","width":150,"sticker_font_size":"1.563rem","half_image_width_on_mobile":true,"horizontal_position":80,"vertical_position":80,"rotate":0,"show_sticker_on_mobile":true,"show_sticker_on_desktop":true,"rotation_animation":"none","enable_parallax":false,"parallax_speed":3,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}},"2e1ffd70-4108-4e65-aec7-13605e4d141f":{"type":"shape_divider","disabled":true,"settings":{"target_section":"above","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["04bdfe5f-8dda-41d5-bd4d-24e8aef65ec3","2e1ffd70-4108-4e65-aec7-13605e4d141f"],"settings":{"video_url":"https:\/\/youtu.be\/CLa3PHHIxQE","crop":"full-screen","crop_desktop":"same","display_on_card":false,"style":"full","place_content":"place-content-center-center","text_align":"text-center","title":"","heading_size":"heading-base","richtext":"","cta_url":"","cta_text":"Shop Now","color_scheme":"primary","use_gradient_background":false,"text_overlay_color":"same_as_section"}},"16508916323f758a49":{"type":"testimonials","blocks":{"16508916326463ca2f-0":{"type":"testimonial","settings":{"rating":"4_stars","quote":"<p>BEST FUEL AVAILABLE<\/p><p>I have been using GU since 1995 3 times a week and competitions weekends (BMX\/Mtn)… you want the best….well you got the best! Stay True To GU!BRB524<\/p>","source":"Bill M"}},"16508916326463ca2f-1":{"type":"testimonial","settings":{"rating":"3_stars","quote":"<p>MULTI PACK<\/p><p>I’ll definitely be reordering this multi pack love all the flavors<\/p>","source":"Marlon R"}},"16508916326463ca2f-2":{"type":"testimonial","disabled":true,"settings":{"rating":"5_stars","quote":"<p>GEL<\/p><p>I’m a diabetic on a pump and have occasional lows that are not corrected by tablets. Tablets also burn my throat which GU does not. It works great to get me thru a low and gives me time to get some protein. It packs in your purse or even in your bra and it is easy to open even when you are shakey and you can’t think straight. It even tastes good so even if you’re not thinking straight you will still want to eat it. I love it and would recommend it highly.<\/p>","source":"June S."}},"eebb3a63-a165-4a2b-be61-c3aa09e2d2d9":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"tertiary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":true,"enable_animation":false,"animation_direction":""}},"931df1c8-19b6-4ad5-ab2e-fe569febf280":{"type":"testimonial","settings":{"rating":"4_stars","quote":"<p>GELS<\/p><p>I like these better than the Liquid gel ones.<\/p>","source":"Mark L"}},"743abcca-9258-44c8-b5ca-430a851874ec":{"type":"testimonial","settings":{"rating":"3_stars","quote":"<p>JUST SAVED MY RUN<\/p><p>I'm a long-time user of GU but today it was a run saver on an unusually hot, humid day. All I needed was 10 miles but after two miles I was hitting the wall. So I ate the salted chocolate serving I had with me and finished the run. Highly recommend GU to runners.<\/p>","source":"Kelli Anne B."}},"f664cb2e-7c06-422c-b297-523894767901":{"type":"testimonial","settings":{"rating":"5_stars","quote":"<p>BIRTHDAY CAKE EVERYDAY!<\/p><p>My go-to for any ride over 2 hours. I love birthday cake so much!<\/p>","source":"Micah L"}}},"block_order":["16508916326463ca2f-0","16508916326463ca2f-1","16508916326463ca2f-2","eebb3a63-a165-4a2b-be61-c3aa09e2d2d9","931df1c8-19b6-4ad5-ab2e-fe569febf280","743abcca-9258-44c8-b5ca-430a851874ec","f664cb2e-7c06-422c-b297-523894767901"],"settings":{"display_on_card":true,"title":"","max_width":100,"disable_media_style":false,"crop":"","image_shape":"default","desktop_slide_width":20,"autoscroll_mode":"1","color_scheme":"primary","use_gradient_background":false}},"bdda725e-3b26-4435-93f1-714426c39278":{"type":"featured-product-new-section","disabled":true,"blocks":{"template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-0":{"type":"title","settings":{"display_on_card":false,"text_align":"text-left"}},"template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-1":{"type":"price","settings":{"display_on_card":false,"show_on_sale_sticker":false,"text_align":"text-left"}},"template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-2":{"type":"variant_picker","settings":{"display_on_card":false,"option_style":"drop_down","hide_option_labels":true,"enable_color_swatches":false}},"template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-3":{"type":"buy_buttons","settings":{"display_on_card":false,"show_price":false,"enable_payment_button":true,"show_pickup_availability":true}},"0556f07a-eb82-4300-ba09-c75e3529e1dd":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"secondary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":true,"enable_animation":false,"animation_direction":""}}},"block_order":["template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-0","template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-1","template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-2","template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-3","0556f07a-eb82-4300-ba09-c75e3529e1dd"],"settings":{"title":"","product":"roctane-protein-recovery-drink-mixchocolate-smoothie","crop":"","image_shape":"default","media_mobile_width":"w-full","desktop_media_width":"lg:col-span-6_lg:col-span-6","enable_video_looping":true,"thumbnails_position":"left","thumbnail_crop":"aspect-w-1 aspect-h-1","thumbnail_shape":"default","hide_media_shadow":false,"thumbnail_size":"standard","show_thumbnails_on_mobile":false,"color_scheme":"tertiary","use_gradient_background":false}},"1650891638851a4ea4":{"type":"featured-product","blocks":{"1650891638bb403865-0":{"type":"title","settings":{"display_on_card":false,"text_align":"text-left"}},"1650891638bb403865-1":{"type":"price","settings":{"display_on_card":false,"show_on_sale_sticker":false,"text_align":"text-left"}},"1650891638bb403865-2":{"type":"variant_picker","settings":{"display_on_card":false,"option_style":"drop_down","hide_option_labels":true,"enable_color_swatches":false}},"1650891638bb403865-3":{"type":"buy_buttons","settings":{"display_on_card":false,"show_price":false,"enable_payment_button":true,"show_pickup_availability":true}},"860fa660-5733-403e-a417-b5be6f5cc786":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"secondary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":true,"enable_animation":false,"animation_direction":""}}},"block_order":["1650891638bb403865-0","1650891638bb403865-1","1650891638bb403865-2","1650891638bb403865-3","860fa660-5733-403e-a417-b5be6f5cc786"],"settings":{"title":"","product":"gu-hydration-drink-tablets","crop":"","image_shape":"default","media_mobile_width":"w-full","desktop_media_width":"lg:col-span-6_lg:col-span-6","enable_video_looping":true,"thumbnails_position":"left","thumbnail_crop":"aspect-w-1 aspect-h-1","thumbnail_shape":"default","hide_media_shadow":false,"thumbnail_size":"standard","show_thumbnails_on_mobile":false,"color_scheme":"tertiary","use_gradient_background":false}},"1650891682f199a493":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured collection","subheading":"Use this text to share information about your collection.","collection":"","no_products":3,"show_view_all":false,"enable_quick_buy":false,"display_on_card":false,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":3,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"wave_tear","color_scheme":"primary","use_gradient_background":false}},"1663673264818b0781":{"type":"image-with-text","disabled":true,"settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/stroop1.jpg","crop":"","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Image with text","heading_size":"heading-template","richtext":"","text_alignment":"text-left","button_link":"","button_label":"Shop Now","color_scheme":"primary","use_gradient_background":false}},"1650891804363a2769":{"type":"newsletter","settings":{"title":"Sign up to our newsletter","richtext":"<p>Receive special offers and first look at new products.<\/p>","display_on_card":false,"color_scheme":"secondary","use_gradient_background":false}},"165089168609b8f684":{"type":"blog-posts","blocks":{"821c67ed-463f-43b1-8388-52f9db81567a":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"secondary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["821c67ed-463f-43b1-8388-52f9db81567a"],"settings":{"display_on_card":false,"title":"Blog posts","blog":"hydration-drink-tabs","post_limit":3,"crop":"aspect-w-4 aspect-h-3","image_shape":"zig_zag_tear","blog_show_author":false,"blog_show_date":true,"show_post_excerpt":true,"show_view_all":true,"color_scheme":"tertiary","use_gradient_background":false}},"5a00275b-5936-45b0-975a-a49a4715d49b":{"type":"hero-slideshow","disabled":true,"blocks":{"template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/DSC00170.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}},"template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/DSC02468.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}},"d5151490-f7ca-4e46-aa2f-b8a5d1b37e17":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/GU_-_SWIMMING_7.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}},"09f36a28-6abd-473a-954f-1a609023124d":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/ENERGY_GELS2.jpg","title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}}},"block_order":["template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-0","template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-1","d5151490-f7ca-4e46-aa2f-b8a5d1b37e17","09f36a28-6abd-473a-954f-1a609023124d"],"settings":{"style":"full","height":"natural","display_on_card":true,"display_content_below_image_on_mobile":true,"auto_rotate":false,"slide_speed":"5000","place_content":"place-content-center-start","text_align":"text-left","heading_size":"heading-base","color_scheme":"primary","use_gradient_background":false}},"5bb59b85-2e03-4051-9b4a-be0b8500fab3":{"type":"blog-posts-new","disabled":true,"blocks":{"05b8ccb0-2ded-4742-84cb-29c20d011cc3":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"secondary","style":"tilt-1-asymmetrical_1440x101","flip_horizontal":false,"enable_animation":false,"animation_direction":""}}},"block_order":["05b8ccb0-2ded-4742-84cb-29c20d011cc3"],"settings":{"display_on_card":false,"title":"Blog posts","blog":"hydration-drink-tabs","post_limit":3,"crop":"aspect-w-4 aspect-h-3","image_shape":"default","blog_show_author":false,"blog_show_date":true,"show_post_excerpt":true,"show_view_all":true,"color_scheme":"primary","use_gradient_background":false}}},"order":["f34c9d15-064b-4392-bda4-0d171f9c3b87","1650891033bae15b05","16508912994a26e8bf","1650891303c44cb2d2","7a035dd7-d03e-4711-ae2b-e632a2e4abd9","9dcdb08d-b633-480f-9a24-e0d74362b3f2","1650891358fef95dd4","5709d34f-de92-49d0-8ef1-b2f84392b55e","165089147572b58f85","16508915343a7fad54","1650891590472e0352","1650891615011511eb","16508916022eba9802","16508916323f758a49","bdda725e-3b26-4435-93f1-714426c39278","1650891638851a4ea4","1650891682f199a493","1663673264818b0781","1650891804363a2769","165089168609b8f684","5a00275b-5936-45b0-975a-a49a4715d49b","5bb59b85-2e03-4051-9b4a-be0b8500fab3"]}
+{
+  "sections": {
+    "f34c9d15-064b-4392-bda4-0d171f9c3b87": {
+      "type": "hero-slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GU_ENERGY_CHEWS_1.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        },
+        "template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC01211-Edit.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "place-content-center-end",
+            "text_align": "text-left",
+            "text_overlay_color": "black"
+          }
+        }
+      },
+      "block_order": [
+        "template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-0",
+        "template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-1"
+      ],
+      "settings": {
+        "style": "full",
+        "height": "pt-screen-height",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": true,
+        "auto_rotate": false,
+        "slide_speed": "5000",
+        "place_content": "place-content-center-start",
+        "text_align": "text-left",
+        "heading_size": "heading-base",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891033bae15b05": {
+      "type": "image-with-text",
+      "blocks": {
+        "fd63bf46-7b83-450b-9205-e98d3bb15657": {
+          "type": "background_shape",
+          "settings": {
+            "shape": "star_4",
+            "blob_type": 1,
+            "size": 170,
+            "opacity": 70,
+            "blur": 0,
+            "horizontal_position": 80,
+            "vertical_position": 58,
+            "rotate": -12,
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color": "gradient",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "7de8f682-42c1-4705-b9ea-207f66e0c04e": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "175e66d3-20ec-47c8-b628-6580300f4f5f": {
+          "type": "sticker",
+          "disabled": true,
+          "settings": {
+            "text": "Sticker",
+            "shape": "star_1",
+            "width": 200,
+            "sticker_font_size": "1.563rem",
+            "image": "shopify:\/\/shop_images\/GU-Icon-Logo-Navy.png",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 92,
+            "vertical_position": 77,
+            "rotate": 0,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "rotate_when_scrolling",
+            "enable_parallax": true,
+            "parallax_speed": 6,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "140e7989-8375-45bf-b75f-61897a50b73a": {
+          "type": "sticker",
+          "disabled": true,
+          "settings": {
+            "text": "Sticker",
+            "shape": "star_1",
+            "width": 120,
+            "sticker_font_size": "1.563rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 77,
+            "vertical_position": 21,
+            "rotate": 0,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "rotate_when_scrolling",
+            "enable_parallax": true,
+            "parallax_speed": 8,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "fd63bf46-7b83-450b-9205-e98d3bb15657",
+        "7de8f682-42c1-4705-b9ea-207f66e0c04e",
+        "175e66d3-20ec-47c8-b628-6580300f4f5f",
+        "140e7989-8375-45bf-b75f-61897a50b73a"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/GU-Icon-Salty-The-Yeti.png",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 5,
+        "rotate_image": 2,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": true,
+        "title": "PEACE OUT PLASTIC",
+        "heading_size": "heading-base",
+        "richtext": "<p>SAY HELLO TO THE GU X BIVO STAINLESS STEEL BOTTLE<br\/><\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/drinks",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": true
+      }
+    },
+    "16508912994a26e8bf": {
+      "type": "rich-text",
+      "blocks": {
+        "0a67b1dc-9897-4fc0-ab9e-cfd162628bae": {
+          "type": "sticker",
+          "settings": {
+            "text": "Sticker",
+            "shape": "star_1",
+            "width": 150,
+            "sticker_font_size": "1.563rem",
+            "image": "shopify:\/\/shop_images\/GU-Icon-Logo-White.png",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 8,
+            "vertical_position": 80,
+            "rotate": 0,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "rotate_when_scrolling",
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "0a67b1dc-9897-4fc0-ab9e-cfd162628bae"
+      ],
+      "settings": {
+        "title": "ROCTANE ENERGY DRINK",
+        "heading_size": "heading-base",
+        "rich_text": "<p><br\/>                        FUEL FOR YOUR LONG DAYS<br\/>                      <\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891303c44cb2d2": {
+      "type": "icon-list",
+      "blocks": {
+        "16508913039d58ab55-0": {
+          "type": "icon",
+          "settings": {
+            "icon": "alcohol_free",
+            "text": ""
+          }
+        },
+        "16508913039d58ab55-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "no_additives",
+            "text": ""
+          }
+        },
+        "16508913039d58ab55-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "no_artificial_colors",
+            "text": ""
+          }
+        },
+        "2d49c667-6651-4aec-9f2e-b5b01b310ecd": {
+          "type": "icon",
+          "settings": {
+            "icon": "organic",
+            "text": ""
+          }
+        },
+        "2eb4a361-85df-445d-a708-84d7e4173322": {
+          "type": "icon",
+          "settings": {
+            "icon": "gluten_free",
+            "text": ""
+          }
+        },
+        "eb42bfa2-e2b9-4bfe-8b67-b4e7b94efbf6": {
+          "type": "icon",
+          "settings": {
+            "icon": "check-mark",
+            "text": ""
+          }
+        },
+        "7f2265e7-4734-46f9-a3c4-cec407d5a2d3": {
+          "type": "icon",
+          "settings": {
+            "icon": "probiotic",
+            "text": ""
+          }
+        },
+        "f3086909-a9d2-48be-ab4f-01abd112ac9c": {
+          "type": "icon",
+          "settings": {
+            "icon": "low_carb",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "16508913039d58ab55-0",
+        "16508913039d58ab55-1",
+        "16508913039d58ab55-2",
+        "2d49c667-6651-4aec-9f2e-b5b01b310ecd",
+        "2eb4a361-85df-445d-a708-84d7e4173322",
+        "eb42bfa2-e2b9-4bfe-8b67-b4e7b94efbf6",
+        "7f2265e7-4734-46f9-a3c4-cec407d5a2d3",
+        "f3086909-a9d2-48be-ab4f-01abd112ac9c"
+      ],
+      "settings": {
+        "title": "",
+        "max_width": 100,
+        "text_style": "body",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "7a035dd7-d03e-4711-ae2b-e632a2e4abd9": {
+      "type": "image-with-text",
+      "blocks": {
+        "18860502-08de-4830-b254-76df10c8a201": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "04325f76-0660-4dd3-9236-e98709b25264": {
+          "type": "background_shape",
+          "settings": {
+            "shape": "star_4",
+            "blob_type": 1,
+            "size": 170,
+            "opacity": 70,
+            "blur": 0,
+            "horizontal_position": 80,
+            "vertical_position": 58,
+            "rotate": -12,
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color": "gradient",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "18860502-08de-4830-b254-76df10c8a201",
+        "04325f76-0660-4dd3-9236-e98709b25264"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/ENERGY-GEL-Espresso-Love-IND-PK.png",
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blob_type": 5,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": true,
+        "title": "INSIDE THE ORIGINAL ENERGY GEL",
+        "heading_size": "heading-base",
+        "richtext": "<p>PORTABLE, TASTY PERFORMANCE<\/p>",
+        "text_alignment": "text-right",
+        "button_link": "shopify:\/\/collections\/gels",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "9dcdb08d-b633-480f-9a24-e0d74362b3f2": {
+      "type": "featured-collection-new",
+      "disabled": true,
+      "blocks": {
+        "146b03ee-6628-4ee2-8ec1-3078a08c5a0a": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "primary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "31b23d15-dc06-4b80-b7d5-06130560fc61": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "primary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "146b03ee-6628-4ee2-8ec1-3078a08c5a0a",
+        "31b23d15-dc06-4b80-b7d5-06130560fc61"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "subheading": "Use this text to share information about your collection.",
+        "collection": "hydration-drink-tabs",
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "layout": "carousel",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 25,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891358fef95dd4": {
+      "type": "featured-collection",
+      "blocks": {
+        "8209e916-c921-4623-9436-a9902901970c": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "primary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "7261f40b-41bf-4b48-8953-041e29fe35e4": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "primary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "8209e916-c921-4623-9436-a9902901970c",
+        "7261f40b-41bf-4b48-8953-041e29fe35e4"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "subheading": "",
+        "collection": "gels",
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "layout": "carousel",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 25,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "5709d34f-de92-49d0-8ef1-b2f84392b55e": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
+            "image_shape": "rounded_hexagon",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Secondary_ImagesROC_PROTEIN_1.jpg",
+            "image_shape": "default",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Secondary_ImagesROC_PROTEIN_2.jpg",
+            "image_shape": "default",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_shape": "default",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_shape": "default",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-5": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_shape": "default",
+            "rotate_image": 0,
+            "button_text": "",
+            "url": ""
+          }
+        },
+        "62bde42c-846b-4188-b0b5-9549ff06f0b9": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-0",
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-1",
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-2",
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-3",
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-4",
+        "template--16010042048674__5709d34f-de92-49d0-8ef1-b2f84392b55e-166814900997ab59cc-5",
+        "62bde42c-846b-4188-b0b5-9549ff06f0b9"
+      ],
+      "settings": {
+        "title": "",
+        "first_large_image_position": "top_left",
+        "crop": "aspect-w-1 aspect-h-1",
+        "button_style": "push-btn-surface",
+        "show_buttons_on_mobile": false,
+        "only_show_button_on_hover": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "165089147572b58f85": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "blocks": {
+        "e407a37c-5b97-486d-99d1-d1ff54c6cb41": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "tertiary",
+            "style": "medium-waves_1200x43",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "d3fd69d6-0368-49b2-a1c4-1f8f4b2c46ba": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "quaternary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "e407a37c-5b97-486d-99d1-d1ff54c6cb41",
+        "d3fd69d6-0368-49b2-a1c4-1f8f4b2c46ba"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ORANGE_A.jpg",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "pt-screen-height",
+        "place_content": "place-content-center-end",
+        "text_align": "text-center",
+        "title": "Image with text overlay",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
+    },
+    "16508915343a7fad54": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "1650891534cc32a736-0": {
+          "type": "column",
+          "settings": {
+            "show_image": false,
+            "title": "",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "1650891534cc32a736-1": {
+          "type": "column",
+          "settings": {
+            "show_image": false,
+            "title": "",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "1650891534cc32a736-2": {
+          "type": "column",
+          "settings": {
+            "show_image": false,
+            "title": "",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "1650891534cc32a736-0",
+        "1650891534cc32a736-1",
+        "1650891534cc32a736-2"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "slideshow_on_mobile": false,
+        "title": "",
+        "crop": "",
+        "image_shape": "default",
+        "show_index_on_blocks": false,
+        "index_shape": "star_1",
+        "color_scheme": "quaternary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891590472e0352": {
+      "type": "comparison-table",
+      "disabled": true,
+      "blocks": {
+        "1650891590fbd399df-0": {
+          "type": "row",
+          "settings": {
+            "title": "Label",
+            "column_1_icon": "check-mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        },
+        "1650891590fbd399df-1": {
+          "type": "row",
+          "settings": {
+            "title": "Label",
+            "column_1_icon": "check-mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        },
+        "1650891590fbd399df-2": {
+          "type": "row",
+          "settings": {
+            "title": "Label",
+            "column_1_icon": "check-mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650891590fbd399df-0",
+        "1650891590fbd399df-1",
+        "1650891590fbd399df-2"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "title": "",
+        "highlighted_column": "1",
+        "column_1_title": "Column 1",
+        "column_2_title": "Column 2",
+        "enable_column_3": true,
+        "column_3_title": "Column 3",
+        "enable_column_4": true,
+        "column_4_title": "Column 4",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891615011511eb": {
+      "type": "text-marquee",
+      "disabled": true,
+      "settings": {
+        "text": "Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.",
+        "repeat_text": true,
+        "shape_between_text": "10_point_star",
+        "animate_shape_between_text": true,
+        "link": "",
+        "font": "font-heading heading-secondary",
+        "apply_effects": false,
+        "mobile_text_size": "text-3xl",
+        "desktop_text_size": "lg:text-7xl",
+        "speed": 120,
+        "direction": "",
+        "color_scheme": "quaternary",
+        "use_gradient_background": false
+      }
+    },
+    "16508916022eba9802": {
+      "type": "video-with-text-overlay",
+      "disabled": true,
+      "blocks": {
+        "04bdfe5f-8dda-41d5-bd4d-24e8aef65ec3": {
+          "type": "sticker",
+          "disabled": true,
+          "settings": {
+            "text": "Sticker",
+            "shape": "star_1",
+            "width": 150,
+            "sticker_font_size": "1.563rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 80,
+            "vertical_position": 80,
+            "rotate": 0,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "2e1ffd70-4108-4e65-aec7-13605e4d141f": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "04bdfe5f-8dda-41d5-bd4d-24e8aef65ec3",
+        "2e1ffd70-4108-4e65-aec7-13605e4d141f"
+      ],
+      "settings": {
+        "video_url": "https:\/\/youtu.be\/CLa3PHHIxQE",
+        "crop": "full-screen",
+        "crop_desktop": "same",
+        "display_on_card": false,
+        "style": "full",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
+    },
+    "16508916323f758a49": {
+      "type": "testimonials",
+      "blocks": {
+        "16508916326463ca2f-0": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "4_stars",
+            "quote": "<p>BEST FUEL AVAILABLE<\/p><p>I have been using GU since 1995 3 times a week and competitions weekends (BMX\/Mtn)… you want the best….well you got the best! Stay True To GU!BRB524<\/p>",
+            "source": "Bill M"
+          }
+        },
+        "16508916326463ca2f-1": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "3_stars",
+            "quote": "<p>MULTI PACK<\/p><p>I’ll definitely be reordering this multi pack love all the flavors<\/p>",
+            "source": "Marlon R"
+          }
+        },
+        "16508916326463ca2f-2": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "rating": "5_stars",
+            "quote": "<p>GEL<\/p><p>I’m a diabetic on a pump and have occasional lows that are not corrected by tablets. Tablets also burn my throat which GU does not. It works great to get me thru a low and gives me time to get some protein. It packs in your purse or even in your bra and it is easy to open even when you are shakey and you can’t think straight. It even tastes good so even if you’re not thinking straight you will still want to eat it. I love it and would recommend it highly.<\/p>",
+            "source": "June S."
+          }
+        },
+        "eebb3a63-a165-4a2b-be61-c3aa09e2d2d9": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "tertiary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "931df1c8-19b6-4ad5-ab2e-fe569febf280": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "4_stars",
+            "quote": "<p>GELS<\/p><p>I like these better than the Liquid gel ones.<\/p>",
+            "source": "Mark L"
+          }
+        },
+        "743abcca-9258-44c8-b5ca-430a851874ec": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "3_stars",
+            "quote": "<p>JUST SAVED MY RUN<\/p><p>I'm a long-time user of GU but today it was a run saver on an unusually hot, humid day. All I needed was 10 miles but after two miles I was hitting the wall. So I ate the salted chocolate serving I had with me and finished the run. Highly recommend GU to runners.<\/p>",
+            "source": "Kelli Anne B."
+          }
+        },
+        "f664cb2e-7c06-422c-b297-523894767901": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "5_stars",
+            "quote": "<p>BIRTHDAY CAKE EVERYDAY!<\/p><p>My go-to for any ride over 2 hours. I love birthday cake so much!<\/p>",
+            "source": "Micah L"
+          }
+        }
+      },
+      "block_order": [
+        "16508916326463ca2f-0",
+        "16508916326463ca2f-1",
+        "16508916326463ca2f-2",
+        "eebb3a63-a165-4a2b-be61-c3aa09e2d2d9",
+        "931df1c8-19b6-4ad5-ab2e-fe569febf280",
+        "743abcca-9258-44c8-b5ca-430a851874ec",
+        "f664cb2e-7c06-422c-b297-523894767901"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "title": "",
+        "max_width": 100,
+        "disable_media_style": false,
+        "crop": "",
+        "image_shape": "default",
+        "desktop_slide_width": 20,
+        "autoscroll_mode": "1",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "bdda725e-3b26-4435-93f1-714426c39278": {
+      "type": "featured-product-new-section",
+      "disabled": true,
+      "blocks": {
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-0": {
+          "type": "title",
+          "settings": {
+            "display_on_card": false,
+            "text_align": "text-left"
+          }
+        },
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-1": {
+          "type": "price",
+          "settings": {
+            "display_on_card": false,
+            "show_on_sale_sticker": false,
+            "text_align": "text-left"
+          }
+        },
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-2": {
+          "type": "variant_picker",
+          "settings": {
+            "display_on_card": false,
+            "option_style": "drop_down",
+            "hide_option_labels": true,
+            "enable_color_swatches": false
+          }
+        },
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "display_on_card": false,
+            "show_price": false,
+            "enable_payment_button": true,
+            "show_pickup_availability": true
+          }
+        },
+        "0556f07a-eb82-4300-ba09-c75e3529e1dd": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "secondary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-0",
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-1",
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-2",
+        "template--16010042048674__bdda725e-3b26-4435-93f1-714426c39278-1668226427601c4084-3",
+        "0556f07a-eb82-4300-ba09-c75e3529e1dd"
+      ],
+      "settings": {
+        "title": "",
+        "product": "roctane-protein-recovery-drink-mixchocolate-smoothie",
+        "crop": "",
+        "image_shape": "default",
+        "media_mobile_width": "w-full",
+        "desktop_media_width": "lg:col-span-6_lg:col-span-6",
+        "enable_video_looping": true,
+        "thumbnails_position": "left",
+        "thumbnail_crop": "aspect-w-1 aspect-h-1",
+        "thumbnail_shape": "default",
+        "hide_media_shadow": false,
+        "thumbnail_size": "standard",
+        "show_thumbnails_on_mobile": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891638851a4ea4": {
+      "type": "featured-product",
+      "blocks": {
+        "1650891638bb403865-0": {
+          "type": "title",
+          "settings": {
+            "display_on_card": false,
+            "text_align": "text-left"
+          }
+        },
+        "1650891638bb403865-1": {
+          "type": "price",
+          "settings": {
+            "display_on_card": false,
+            "show_on_sale_sticker": false,
+            "text_align": "text-left"
+          }
+        },
+        "1650891638bb403865-2": {
+          "type": "variant_picker",
+          "settings": {
+            "display_on_card": false,
+            "option_style": "drop_down",
+            "hide_option_labels": true,
+            "enable_color_swatches": false
+          }
+        },
+        "1650891638bb403865-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "display_on_card": false,
+            "show_price": false,
+            "enable_payment_button": true,
+            "show_pickup_availability": true
+          }
+        },
+        "860fa660-5733-403e-a417-b5be6f5cc786": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "secondary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650891638bb403865-0",
+        "1650891638bb403865-1",
+        "1650891638bb403865-2",
+        "1650891638bb403865-3",
+        "860fa660-5733-403e-a417-b5be6f5cc786"
+      ],
+      "settings": {
+        "title": "",
+        "product": "gu-hydration-drink-tablets",
+        "crop": "",
+        "image_shape": "default",
+        "media_mobile_width": "w-full",
+        "desktop_media_width": "lg:col-span-6_lg:col-span-6",
+        "enable_video_looping": true,
+        "thumbnails_position": "left",
+        "thumbnail_crop": "aspect-w-1 aspect-h-1",
+        "thumbnail_shape": "default",
+        "hide_media_shadow": false,
+        "thumbnail_size": "standard",
+        "show_thumbnails_on_mobile": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891682f199a493": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "subheading": "Use this text to share information about your collection.",
+        "collection": "",
+        "no_products": 3,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "wave_tear",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1663673264818b0781": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/stroop1.jpg",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Image with text",
+        "heading_size": "heading-template",
+        "richtext": "",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1650891804363a2769": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Sign up to our newsletter",
+        "richtext": "<p>Receive special offers and first look at new products.<\/p>",
+        "display_on_card": false,
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "165089168609b8f684": {
+      "type": "blog-posts",
+      "blocks": {
+        "821c67ed-463f-43b1-8388-52f9db81567a": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "secondary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "821c67ed-463f-43b1-8388-52f9db81567a"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "title": "Blog posts",
+        "blog": "hydration-drink-tabs",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "zig_zag_tear",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_post_excerpt": true,
+        "show_view_all": true,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "5a00275b-5936-45b0-975a-a49a4715d49b": {
+      "type": "hero-slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC00170.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        },
+        "template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02468.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        },
+        "d5151490-f7ca-4e46-aa2f-b8a5d1b37e17": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GU_-_SWIMMING_7.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        },
+        "09f36a28-6abd-473a-954f-1a609023124d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ENERGY_GELS2.jpg",
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-0",
+        "template--16010042048674__5a00275b-5936-45b0-975a-a49a4715d49b-16680925683cda4e31-1",
+        "d5151490-f7ca-4e46-aa2f-b8a5d1b37e17",
+        "09f36a28-6abd-473a-954f-1a609023124d"
+      ],
+      "settings": {
+        "style": "full",
+        "height": "natural",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": true,
+        "auto_rotate": false,
+        "slide_speed": "5000",
+        "place_content": "place-content-center-start",
+        "text_align": "text-left",
+        "heading_size": "heading-base",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "5bb59b85-2e03-4051-9b4a-be0b8500fab3": {
+      "type": "blog-posts-new",
+      "disabled": true,
+      "blocks": {
+        "05b8ccb0-2ded-4742-84cb-29c20d011cc3": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "secondary",
+            "style": "tilt-1-asymmetrical_1440x101",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "05b8ccb0-2ded-4742-84cb-29c20d011cc3"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "title": "Blog posts",
+        "blog": "hydration-drink-tabs",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_post_excerpt": true,
+        "show_view_all": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "f34c9d15-064b-4392-bda4-0d171f9c3b87",
+    "1650891033bae15b05",
+    "16508912994a26e8bf",
+    "1650891303c44cb2d2",
+    "7a035dd7-d03e-4711-ae2b-e632a2e4abd9",
+    "9dcdb08d-b633-480f-9a24-e0d74362b3f2",
+    "1650891358fef95dd4",
+    "5709d34f-de92-49d0-8ef1-b2f84392b55e",
+    "165089147572b58f85",
+    "16508915343a7fad54",
+    "1650891590472e0352",
+    "1650891615011511eb",
+    "16508916022eba9802",
+    "16508916323f758a49",
+    "bdda725e-3b26-4435-93f1-714426c39278",
+    "1650891638851a4ea4",
+    "1650891682f199a493",
+    "1663673264818b0781",
+    "1650891804363a2769",
+    "165089168609b8f684",
+    "5a00275b-5936-45b0-975a-a49a4715d49b",
+    "5bb59b85-2e03-4051-9b4a-be0b8500fab3"
+  ]
+}
