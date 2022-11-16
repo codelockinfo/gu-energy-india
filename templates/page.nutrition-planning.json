@@ -63,11 +63,19 @@
             "image-planing": "shopify:\/\/shop_images\/ENERGY-GEL-Espresso-Love-IND-PK.png",
             "text-planing": "second"
           }
+        },
+        "d61c6b95-f83b-4ab9-98c2-8c9e2a44d956": {
+          "type": "image",
+          "settings": {
+            "image-planing": "shopify:\/\/shop_images\/ENERGY-GEL-Choc-Outrage-IND-PK.png",
+            "text-planing": "three"
+          }
         }
       },
       "block_order": [
         "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-0",
-        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-1"
+        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-1",
+        "d61c6b95-f83b-4ab9-98c2-8c9e2a44d956"
       ],
       "settings": {
         "title": "Slideshow"
