@@ -136,6 +136,23 @@
       "settings": {
         "btnid": false
       }
+    },
+    "99cccbd9-819a-4223-80f2-c83327b72b1d": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "title": "STORIES FROM THE LAB",
+        "blog": "nutrition-la",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": true,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -145,6 +162,7 @@
     "06ecc565-8c17-4485-adf2-a5e313c75ce4",
     "1e0303ff-2564-483f-90f9-fc05cf69d0a6",
     "3709dc23-05cf-48af-affa-33c74167dc27",
-    "8b3c66cc-b6fb-4dd0-944e-767bca58371b"
+    "8b3c66cc-b6fb-4dd0-944e-767bca58371b",
+    "99cccbd9-819a-4223-80f2-c83327b72b1d"
   ]
 }
