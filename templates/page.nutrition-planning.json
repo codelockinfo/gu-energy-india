@@ -46,12 +46,38 @@
         "full_width": false,
         "color_scheme": "tertiary"
       }
+    },
+    "915d39ce-1789-4fd9-bd41-bd4186cbf19a": {
+      "type": "three-div-and-text",
+      "blocks": {
+        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-0": {
+          "type": "image",
+          "settings": {
+            "image-planing": "shopify:\/\/shop_images\/Chai_Gu_Energy_Labs-5_1500x_e017e579-bee0-48c6-9459-ac89147d3709.webp",
+            "text-planing": "first"
+          }
+        },
+        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-1": {
+          "type": "image",
+          "settings": {
+            "text-planing": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-0",
+        "template--16016176578722__915d39ce-1789-4fd9-bd41-bd4186cbf19a-16685810611ff32350-1"
+      ],
+      "settings": {
+        "title": "Slideshow"
+      }
     }
   },
   "order": [
     "main",
     "daf1c35c-3142-4e85-a356-a8a881f8bff7",
     "5c6ecb79-ba6f-47b9-9d79-e41fff855d60",
-    "02cfabdb-7e99-4299-8f4c-36c6091ac609"
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609",
+    "915d39ce-1789-4fd9-bd41-bd4186cbf19a"
   ]
 }
