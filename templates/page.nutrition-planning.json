@@ -37,11 +37,21 @@
         "full_width": false,
         "color_scheme": "tertiary"
       }
+    },
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "“DON’T WASTE YOUR WORKOUT”",
+        "custom_liquid": "<p>This means giving your body the right nutrients at the right time, in sufficient amounts to maximize adaptations to your training. If you think about it, you spend a relatively small part of your day training, and the rest recovering and preparing for the next workout. Think of the rest of the day as an opportunity to train your nutrition. How you eat daily can profoundly impact your results in the gym, on the course, and in life.<\/p><br>\n<p>Sure, you can probably perform adequately with a sub-optimal diet, but don’t you want to excel? Eating is training is our holistic approach to nutrition with a focus on performance and recovery.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
     }
   },
   "order": [
     "main",
     "daf1c35c-3142-4e85-a356-a8a881f8bff7",
-    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60"
+    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60",
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609"
   ]
 }
