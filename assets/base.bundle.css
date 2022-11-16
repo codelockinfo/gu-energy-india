@@ -4317,4 +4317,6 @@ body {
 .image-planning > h2{
   text-align: center;
 }
-
+.main-planning{
+  max-width: 1820px;
+}
