@@ -32,16 +32,16 @@
       "type": "blog-posts",
       "settings": {
         "display_on_card": false,
-        "title": "Blog posts",
-        "blog": "news",
+        "title": "",
+        "blog": "nutrition-tips",
         "post_limit": 3,
         "crop": "aspect-w-4 aspect-h-3",
         "image_shape": "default",
         "blog_show_author": false,
-        "blog_show_date": true,
-        "show_post_excerpt": true,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
         "show_view_all": true,
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
