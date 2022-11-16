@@ -81,6 +81,7 @@
     },
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-0": {
           "type": "testimonial",
@@ -213,8 +214,8 @@
         "display_on_card": true,
         "heading_text_style": "body",
         "two_columns_desktop": true,
-        "title": "FAQ",
-        "richtext": "<p>Find the most frequently asked questions below.<\/p>",
+        "title": "FAQS",
+        "richtext": "",
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
