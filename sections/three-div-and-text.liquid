@@ -3,50 +3,54 @@
     <div class="image-planning">
         <img src="https://cdn.shopify.com/s/files/1/0621/9582/6850/files/ROCTANE_PROTEIN_RECOVERY1.jpg?v=1668152146" alt="">
       <h2>VEGAN ENERGY FOR ATHLETES</h2>
+
+      {% for block in image_blocks %}
+    <img src="{{ block.settings.image | img_url: 'master' }}">
+    
+  {% endfor %}
+      
     </div>
   </div>
 </section>
 
 {% schema %}
 {
-  "name": "Three div section",
-  "tag": "section",
-  "class": "threediv",
+  "name": {
+    "en": "Multi-hero"
+  },
+  "class": "index-section index-section--flush",
   "max_blocks": 3,
   "settings": [
-    {
-      "type": "text",
-      "id": "title",
-      "label": "Slideshow"
-    }
   ],
   "blocks": [
     {
       "type": "image",
-      "name": "threediv",
+      "name": {
+        "en": "Image"
+      },
       "settings": [
         {
           "type": "image_picker",
-          "id": "image-planing",
-          "label":"image-label"
-          
-        },
-        {
-          "type": "text",
-          "id": "text-planing",
-          "placeholder": "enter text for box",
-          "label":"text for box"
+          "id": "image",
+          "label": {
+            "en": "Image"
+          }
         }
       ]
     }
   ],
   "presets": [
     {
-      "name": "Three div section",
-      "settings": {
-        "title": "Slideshow"
+      "name": {
+        "en": "Multi-hero"
+      },
+      "category": {
+        "en": "Image"
       },
       "blocks": [
+        {
+          "type": "image"
+        },
         {
           "type": "image"
         },
