@@ -29,10 +29,31 @@
         "color_scheme": "primary",
         "use_gradient_background": false
       }
+    },
+    "daf1c35c-3142-4e85-a356-a8a881f8bff7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/nutrition-planning-header-01-1680x360_1_2400x_82475553-62e6-447b-b273-8d998c21f53f.jpg",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "natural",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Nutrition Planning",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
     }
   },
   "order": [
     "main",
-    "f7156490-21e5-4159-9244-a01e6ddfaccc"
+    "f7156490-21e5-4159-9244-a01e6ddfaccc",
+    "daf1c35c-3142-4e85-a356-a8a881f8bff7"
   ]
 }
