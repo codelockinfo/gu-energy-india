@@ -36,11 +36,34 @@
         "full_width": false,
         "color_scheme": "tertiary"
       }
+    },
+    "06ecc565-8c17-4485-adf2-a5e313c75ce4": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/DSC_0487_edit.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "OUR MISSION",
+        "heading_size": "heading-template",
+        "richtext": "<p>Through scientific inquiry, we seek to better understand human nutrition and how it influences athletic performance, recovery, and longevity. Additionally, we aim to:<\/p><p><\/p><p>-Test new and existing GU and ROCTANE products both in the lab and in real world settings<\/p><p><\/p><p>-Optimize nutrition and training protocols to facilitate breakthrough performances<\/p><p><\/p><p>-Support our athletes with special projects and case studies that present unique nutritional challenges<\/p><p><\/p><p>-Synthesize the results of our research and share them with our community so we can all perform better<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "main",
     "9dafa0cd-7a9c-4fb6-830c-38607ebc8239",
-    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868"
+    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868",
+    "06ecc565-8c17-4485-adf2-a5e313c75ce4"
   ]
 }
