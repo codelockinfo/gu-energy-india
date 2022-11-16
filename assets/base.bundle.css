@@ -4333,3 +4333,11 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);
 }
+  .btnplaning{
+         background-color: aqua;
+      color: #fff;
+      font-size: 14px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
