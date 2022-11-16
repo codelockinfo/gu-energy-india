@@ -27,10 +27,91 @@
         "use_gradient_background": false,
         "text_overlay_color": "same_as_section"
       }
+    },
+    "05fefe20-4761-4b6a-a63d-9765e92417b3": {
+      "type": "faq",
+      "blocks": {
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-0": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-1": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-2": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-3": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-4": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-5": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-6": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        },
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-7": {
+          "type": "question",
+          "settings": {
+            "question": "Frequently asked question",
+            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-0",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-1",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-2",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-3",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-4",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-5",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-6",
+        "template--16016460513442__05fefe20-4761-4b6a-a63d-9765e92417b3-1668597071b9be0c64-7"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "heading_text_style": "heading",
+        "two_columns_desktop": false,
+        "title": "",
+        "richtext": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "main",
-    "3aad6af1-8401-43b0-aa71-9dc108a23614"
+    "3aad6af1-8401-43b0-aa71-9dc108a23614",
+    "05fefe20-4761-4b6a-a63d-9765e92417b3"
   ]
 }
