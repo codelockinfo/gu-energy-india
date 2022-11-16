@@ -1,10 +1,10 @@
 <section>
   <div class="main-planning">
-    <div class="image-planning">
+    <div class="">
       
    {% for block in section.blocks %}  
 <div class="display--flex">
-      <div class="image_box"> 
+      <div class="image_box image-planning"> 
       {{ block.settings.image | img_url: '450 x 250 px', scale: 2 | img_tag: block.settings.image.alt, 'logo-bar__image' }}
      <h2>VEGAN ENERGY FOR ATHLETES</h2>
     </div>
