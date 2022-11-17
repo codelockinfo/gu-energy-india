@@ -319,6 +319,13 @@
             "question": "How will the added electrolytes and amino acids in ROCTANE Energy Gel benefit me?",
             "answer": "ROCTANE contains more sodium than the original GU Energy Gel and sodium is the main electrolyte lost in sweat. Supplementation with sodium can help prevent cramping as well as minimize the chances of hyponatremia.<br><br>\nThe additional amino acids in ROCTANE Energy Gel serve several important functions, including acting as a fuel source for working muscle, and helping promote muscle recovery following exercise. ROCTANE Energy Gel contains branched-chain amino acids that have been shown to help prevent central fatigue by competing with tryptophan for transport across the blood brain barrier. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine)."
           }
+        },
+        "c263dd8f-8b4d-4b0b-981b-8435d259eb3b": {
+          "type": "question",
+          "settings": {
+            "question": "Should I use ROCTANE Energy Gel differently on race-day?",
+            "answer": "chase with water approximately 5 minutes before the start. It is important to practice with what you plan to use during your race, too. Your gut adapts to digest and transport dietary carbohydrate if “trained” to do so by eating carbohydrate during your training sessions. So, rule of thumb, whatever you’re using during training, plan to race with the same thing to help optimize your personal performance on race day."
+          }
         }
       },
       "block_order": [
@@ -338,7 +345,8 @@
         "deef462c-cd9d-4134-89d3-4e02b7cd57af",
         "20838feb-7d6c-47ed-be60-c89100d047f0",
         "0b3772fe-b526-4c21-bb0b-e55b1afcf641",
-        "cfdca0af-fad4-4d50-9f2b-fc9fac856bd8"
+        "cfdca0af-fad4-4d50-9f2b-fc9fac856bd8",
+        "c263dd8f-8b4d-4b0b-981b-8435d259eb3b"
       ],
       "settings": {
         "display_on_card": true,
