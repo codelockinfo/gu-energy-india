@@ -16,7 +16,7 @@
         "display_content_below_image_on_mobile": true,
         "style": "full",
         "height": "pt-700",
-        "place_content": "place-content-center-center",
+        "place_content": "place-content-end-center",
         "text_align": "text-center",
         "title": "TRIATHLON NUTRITION PLAN",
         "heading_size": "heading-base",
