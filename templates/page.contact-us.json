@@ -1,12 +1,41 @@
 {
   "sections": {
+    "ae9764c8-2940-4a5a-ba4b-2cfeb61dbcfd": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "",
+        "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">HAVE A QUESTION? WE HOPE <br> WE CAN HELP!\n<\/h1>",
+        "full_width": false,
+        "color_scheme": "primary"
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "display_on_card": false,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "37eff4aa-b864-4ac9-8117-0f0ed23da800": {
+      "type": "rich-text",
+      "settings": {
+        "title": "",
+        "heading_size": "heading-base",
+        "rich_text": "<p>Here are some questions commonly received by our Customer Service Team:<\/p><p><strong>I placed an order through your online store, when will I receive it?<\/strong><\/p><p>You will receive an email notification with a tracking link as soon as your order ships. For more information about ship times please <a href=\"https:\/\/guenergy.com\/pages\/shipping-policy\">click here<\/a>.<\/p><p><strong>Is GU packaging recyclable?<\/strong><\/p><p>We have partnered with TerraCycle™ in an effort to keep as much sports nutrition packaging out of landfill as possible. TerraCycle is a highly-awarded, international upcycling and recycling company that collects difficult-to-recycle packaging and products and repurposes the material into affordable, innovative products. To find out more and to join the program please <a href=\"https:\/\/guenergy.com\/blogs\/blog\/join-the-brigade\">click here<\/a>.<\/p><p><strong>Have question about a specific product?<\/strong><\/p><p>You can head to the product page to see if your question is answered in the FAQ section there.<\/p><p><a href=\"https:\/\/guenergy.com\/products\/all-energy-gel\">Gels<\/a> | <a href=\"https:\/\/guenergy.com\/products\/energy-chews-for-runners-cyclists-triathletes\">Chews<\/a> | <a href=\"https:\/\/guenergy.com\/collections\/drinks\">Drinks<\/a> | <a href=\"https:\/\/guenergy.com\/products\/gu-energy-stroopwafel\">Waffles<\/a> | <a href=\"https:\/\/guenergy.com\/collections\/capsules\">Capsules<\/a><\/p><p><strong>Need more info?<\/strong>Address : 1609 4th St, Berkeley, California, USA 94710<br\/>Phone: 1-800-400-1995<br\/>Email: online@guenergy.com<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
       }
     }
   },
   "order": [
-    "main"
+    "ae9764c8-2940-4a5a-ba4b-2cfeb61dbcfd",
+    "main",
+    "37eff4aa-b864-4ac9-8117-0f0ed23da800"
   ]
 }
