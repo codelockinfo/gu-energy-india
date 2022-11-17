@@ -114,10 +114,12 @@
 {% endstylesheet %}
 
 {% javascript %}
-  $(document).on('click','#btnid',function(){
-    $('.btnplaning').hide();
-    if($('#btnid').is('checked')){
-        $('.btnplaning').show();
-    }
-})
+
+
+  $(document).ready(function () {
+     $('.btnplaning').hide();
+     $('#btnid').is('checked'){
+       $('.btnplaning').show();
+     }
+      });
 {% endjavascript %}
