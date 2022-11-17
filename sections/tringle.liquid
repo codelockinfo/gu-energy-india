@@ -1,0 +1,59 @@
+<div class="rotengelcontain tringlrcontainer">
+    <div class="trignleflex">
+            {% for block in section.blocks %}
+                <div class="tringleflex1">
+                    <div>
+                        {% if block.settings.kome!= blank %}
+                            <img src="{{block.settings.kome | img_url:'master'}}" class="tringlmg">
+                        {% endif %}
+                        <p class="tringlediscrip">{{block.settings.discr}}</p>
+                    </div>
+
+                </div>
+            {% endfor %}
+</div>
+<div>
+    <p class="allldiscrip">{{section.settings.discr2}}</p>
+</div>
+</div>
+
+{% schema %}
+{
+"name": "tringle",
+
+"settings": [
+{
+  "id" : "discr2",
+  "type" : "textarea",
+  "label" : "Discription"
+}
+
+],
+"blocks":[
+{
+"type" : "block",
+"name" : "block",
+"settings" : [
+    {
+ "id": "kome",
+ "type": "image_picker",
+  "label": "Tringle Image"
+ },
+ {
+    "id" : "discr",
+    "type" : "textarea",
+    "label" : "Discription"
+  }
+]
+}
+
+],
+"presets" : [
+{
+  "name" : "tringle",
+  "category" : "tringle"
+
+  }
+]
+}
+{% endschema %}
