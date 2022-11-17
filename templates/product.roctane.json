@@ -132,12 +132,19 @@
         "93408b3a-a97c-4522-9979-b66949720840": {
           "type": "title",
           "settings": {
-            "roctin": "Bonking Doesn’t Solve Itself"
+            "roctin": "<b>Bonking Doesn’t Solve Itself<\/b>"
+          }
+        },
+        "871c1b82-6fa2-4238-af8e-d7f49098bf12": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Roctane Energy Gels are crafted to supply both<b> energy<\/b> and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Our huge variety of delicious flavors will save you from flavor fatigue, so you can stick to your nutrition plan and keep going."
           }
         }
       },
       "block_order": [
-        "93408b3a-a97c-4522-9979-b66949720840"
+        "93408b3a-a97c-4522-9979-b66949720840",
+        "871c1b82-6fa2-4238-af8e-d7f49098bf12"
       ],
       "settings": {
         "gel": "GU ROCTANE ENERGY GEL"
