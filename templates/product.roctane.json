@@ -298,6 +298,13 @@
             "question": "How can I use ROCTANE Energy Gels with ROCTANE Energy Drink Mix?",
             "answer": "If you already use ROCTANE Energy Gels, you can substitute two-and-a-half ROCTANE Energy Gels for one serving of ROCTANE Energy Drink Mix. Remember, the body can typically handle around 120-240 calories per hour, so keep this in mind when combining the two. This will help tailor energy intake to your needs and provide the beneficial ingredients found in both the gel and drink. While many ingredients are similar in the two products (carbohydrates, BCAAs, and caffeine) each has unique ingredients which may also help improve performance. Therefore, using both products will help provide every nutritional advantage possible to athletes who demand the best from themselves and their nutrition."
           }
+        },
+        "20838feb-7d6c-47ed-be60-c89100d047f0": {
+          "type": "question",
+          "settings": {
+            "question": "Why does ROCTANE Energy Gel have the same number of calories as original GU Energy Gel?",
+            "answer": "You find 100 calories of carbohydrates in both ROCTANE Energy Gel and GU Energy Gel because there’s no reason to add more. The gut can only absorb so many calories at a time during exercise, especially when most of your blood is being delivered to your hard-working muscles. If you add too many calories during intense exercise, your body can’t send enough blood to your gut to digest the carbs, making your gut cramp, forcing you to slow down."
+          }
         }
       },
       "block_order": [
@@ -314,7 +321,8 @@
         "bc565988-8807-4982-9f99-3859392c779e",
         "8143e810-5750-4883-beb0-8a0cb36a225d",
         "0eecd6e5-2285-4fb2-9de7-df7c974a9dff",
-        "deef462c-cd9d-4134-89d3-4e02b7cd57af"
+        "deef462c-cd9d-4134-89d3-4e02b7cd57af",
+        "20838feb-7d6c-47ed-be60-c89100d047f0"
       ],
       "settings": {
         "display_on_card": true,
