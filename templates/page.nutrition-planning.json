@@ -2,11 +2,177 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "daf1c35c-3142-4e85-a356-a8a881f8bff7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/nutrition-planning-header-01-1680x360_1_2400x_82475553-62e6-447b-b273-8d998c21f53f.jpg",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "pt-two-thirds-screen-height",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Nutrition Planning",
+        "heading_size": "heading-template",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
+    },
+    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "EATING IS TRAINING – THE GU PHILOSOPHY",
+        "custom_liquid": "<p>Eating is training is the GU philosophy that means eating to support your athletic lifestyle 24\/7, not just immediately before, during or after exercise. The human body is incredibly capable of adapting to the demands place upon it, and the digestive system is not different. After only three days, dietary changes can alter the receptors that line your intestines, making it easier to absorb nutrients and produce energy all while decreasing GI distress.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
+    },
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "“DON’T WASTE YOUR WORKOUT”",
+        "custom_liquid": "<p>This means giving your body the right nutrients at the right time, in sufficient amounts to maximize adaptations to your training. If you think about it, you spend a relatively small part of your day training, and the rest recovering and preparing for the next workout. Think of the rest of the day as an opportunity to train your nutrition. How you eat daily can profoundly impact your results in the gym, on the course, and in life.<\/p><br>\n<p>Sure, you can probably perform adequately with a sub-optimal diet, but don’t you want to excel? Eating is training is our holistic approach to nutrition with a focus on performance and recovery.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
+    },
+    "965cb8a1-9af7-4284-842c-21731159d460": {
+      "type": "three-div-and-text",
+      "disabled": true,
+      "blocks": {
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
+            "btn-title": "Learn More",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
+            "btn-title": "Details",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/ROCTANE_PROTEIN_RECOVERY1.jpg",
+            "btn-title": "details",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-0",
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-1",
+        "template--16016176578722__965cb8a1-9af7-4284-842c-21731159d460-166858536330876a89-2"
+      ],
+      "settings": {
+        "btnid": false
+      }
+    },
+    "cb449300-88da-4237-9d8a-0758d23c0d6b": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "title": "",
+        "blog": "nutrition-la",
+        "post_limit": 3,
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": true,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "PLAN BY SPORT",
+        "custom_liquid": "<p class=\"text-center\">Outline our nutrition plan based on your sport.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
+    },
+    "f0205c74-9170-43a8-b880-85acf2b9a7a7": {
+      "type": "three-div-and-text",
+      "blocks": {
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/DSC4530_Social-1024x682_1_600x_cbab79ba-bf92-46b5-8cc2-09f75bb28cb8.jpg",
+            "btn-title": "Running",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/activity-running",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-03_600x_dd891baa-ecc1-4bb7-a62d-3f8efb453f11.jpg",
+            "btn-title": "Mountain Biking",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/activity-mountain-biking",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-02_600x_a0b719cd-eb85-4775-af8b-548df2cee32d.jpg",
+            "btn-title": "cycling",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/activity-cycling",
+            "color_title": "#ffffff"
+          }
+        },
+        "526dd9aa-a72d-4a27-b625-6d2ef9f01b9f": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/nutrition-planning-bottom-row-05_600x_ecf3c59c-4070-48f1-8356-bb86fe856659.jpg",
+            "btn-title": "Triathlon",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/triathlon-nutrition-plan",
+            "color_title": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-0",
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-1",
+        "template--16016176578722__f0205c74-9170-43a8-b880-85acf2b9a7a7-1668593215ed64ec51-2",
+        "526dd9aa-a72d-4a27-b625-6d2ef9f01b9f"
+      ],
+      "settings": {
+        "btnid": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "daf1c35c-3142-4e85-a356-a8a881f8bff7",
+    "5c6ecb79-ba6f-47b9-9d79-e41fff855d60",
+    "02cfabdb-7e99-4299-8f4c-36c6091ac609",
+    "965cb8a1-9af7-4284-842c-21731159d460",
+    "cb449300-88da-4237-9d8a-0758d23c0d6b",
+    "254530c1-7798-4726-b9c2-2bf8c4d8b3b6",
+    "f0205c74-9170-43a8-b880-85acf2b9a7a7"
   ]
 }
