@@ -15,7 +15,7 @@
         "display_on_card": false,
         "display_content_below_image_on_mobile": true,
         "style": "full",
-        "height": "natural",
+        "height": "pt-700",
         "place_content": "place-content-center-center",
         "text_align": "text-center",
         "title": "MOUNTAIN BIKE NUTRITION",
