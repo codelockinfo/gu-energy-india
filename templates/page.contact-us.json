@@ -2,11 +2,25 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "display_on_card": false,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "cc558846-f140-4cdb-a359-7dbced118608": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "",
+        "custom_liquid": "<h1 style=\"text-align: center; font-size: 40px; margin: 62px 0px 0px 0px; font-weight: bold; \">HAVE A QUESTION? WE HOPE <br> WE CAN HELP!\n<\/h1>",
+        "full_width": false,
+        "color_scheme": "primary"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "cc558846-f140-4cdb-a359-7dbced118608"
   ]
 }
