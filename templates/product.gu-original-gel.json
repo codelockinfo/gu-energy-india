@@ -126,6 +126,12 @@
         "use_gradient_background": false
       }
     },
+    "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3": {
+      "type": "geldiscription",
+      "settings": {
+        "gel": "GU ENERGY GEL"
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -304,6 +310,7 @@
   "order": [
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
+    "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3",
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
   ]
