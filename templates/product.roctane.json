@@ -416,11 +416,22 @@
             "text1": "When exercising for more than an hour, it's important to refuel along the way.  Eat one Energy Gel five-minutes before every 45 minutes along the way. Hydrate with 32 oz of water to help your body process your foods and keep your muscles fueled.",
             "imagemain2": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large1_large_cdefa728-28c8-43df-867f-4519b1d717fa.jpg"
           }
+        },
+        "b87e9e62-3732-4ee6-996e-9eca037b50d1": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2-3Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_33d0408b-8f34-487c-b39a-85657308ca2c.webp",
+            "heading": "2 - 3 Hours of effort",
+            "text1": "As you increase duration, your body needs more. Eat an Energy Gel five-minutes before and every 45 minutes along the way. Grab a ROCTANE Energy Gel to add more BCAAs for your muscles and more electrolytes for hydration. Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours.",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_44f6fcd6-c49f-41c1-b4d6-ba0f56a8fb8a.webp"
+          }
         }
       },
       "block_order": [
         "56674d86-adae-4f41-90d5-6631d5fbd5f9",
-        "0de66507-1328-44cf-8a6a-30c86d389a46"
+        "0de66507-1328-44cf-8a6a-30c86d389a46",
+        "b87e9e62-3732-4ee6-996e-9eca037b50d1"
       ],
       "settings": {
         "komet": "GUIDES",
