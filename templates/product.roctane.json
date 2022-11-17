@@ -126,6 +126,12 @@
         "use_gradient_background": false
       }
     },
+    "fb34a68e-011e-440c-b0e1-b4a96c4cc300": {
+      "type": "geldiscription",
+      "settings": {
+        "gel": "GU ROCTANE ENERGY GEL"
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -224,6 +230,7 @@
   "order": [
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
+    "fb34a68e-011e-440c-b0e1-b4a96c4cc300",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations"
   ]
