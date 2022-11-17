@@ -258,8 +258,9 @@
         "a2b657b4-0859-4b5c-b73c-bc2943ae7b84": {
           "type": "quote",
           "settings": {
-            "testi-title": "name of text",
-            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "testi-img": "shopify:\/\/shop_images\/endurance-03_2000x_e99f6a29-51ab-4b05-9339-f5435e8ab2f0.png",
+            "testi-title": "WHAT IS VO2 MAX",
+            "btn-url": "What is VO2 Max: GU Endurance Lab - YouTube",
             "color_title": "#FDB71D"
           }
         }
