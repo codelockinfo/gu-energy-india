@@ -22,11 +22,26 @@
       "type": "gu-tabel",
       "settings": {
       }
+    },
+    "e7e6b785-ef27-4869-ac07-aae9e4250611": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Heading",
+        "heading_size": "heading-base",
+        "rich_text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "shopify:\/\/pages\/glossary",
+        "button_label": "16845",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "b2a7c9b9-aead-496c-aea8-338decbb68d2",
     "main",
-    "ebc625cd-5922-411a-92aa-190c29bc30f7"
+    "ebc625cd-5922-411a-92aa-190c29bc30f7",
+    "e7e6b785-ef27-4869-ac07-aae9e4250611"
   ]
 }

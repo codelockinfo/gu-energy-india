@@ -154,13 +154,18 @@
         "use_gradient_background": false
       }
     },
-    "eac0dd84-4616-4d25-ac23-1f4ba305ca04": {
-      "type": "custom-liquid",
+    "526d0514-f71c-4eb1-be0c-a561218ad74f": {
+      "type": "rich-text",
       "settings": {
         "title": "QUESTIONS FOR OUR IN-HOUSE NUTRITIONIST",
-        "custom_liquid": "<p class=\"text-center\">Roxanne is our in-house nutrition expert. In her free time, she's an avid mountaineer and likes to get to the top of really tall mountains!<\/p><br>\n<p class=\"text-center\">Have a question about nutrition and fueling as an athlete? Check out our \"Ask the GUru\" page, where our in-house sports nutritionist has answered frequently asked questions about diet and nutrition for athletes. If your question isn't covered, you can submit it in the form at the bottom of the page.<\/p>",
-        "full_width": false,
-        "color_scheme": "tertiary"
+        "heading_size": "heading-base",
+        "rich_text": "<p>Roxanne is our in-house nutrition expert. In her free time, she's an avid mountaineer and likes to get to the top of really tall mountains!<\/p><p>Have a question about nutrition and fueling as an athlete? Check out our \"Ask the GUru\" page, where our in-house sports nutritionist has answered frequently asked questions about diet and nutrition for athletes. If your question isn't covered, you can submit it in the form at the bottom of the page.<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "shopify:\/\/pages\/ask-the-guru",
+        "button_label": "ASK THE GURU",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
       }
     },
     "0ae9c7f9-a75b-445d-bade-bc4a918ededa": {
@@ -172,7 +177,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
             "testi-title": "A PASSION FOR INNOVATION",
             "btn-url": "A Passion for Innovation: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         },
         "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-1": {
@@ -181,7 +186,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
             "testi-title": "EXAMINING THE BONK",
             "btn-url": "Examining the Bonk: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         },
         "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-2": {
@@ -190,7 +195,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-05_2000x_fd8f4962-3f47-4753-8852-4c86f8d2860d.jpg",
             "testi-title": "PEAK POWER",
             "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         },
         "b2d5eec0-9aff-47f5-ba78-725a65159765": {
@@ -199,7 +204,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-06_2000x_b4fa8db0-85b7-436d-bfa4-b3290d2b544d.jpg",
             "testi-title": "TRAINING ADAPTATIONS",
             "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         },
         "f6257562-24b7-43bb-8f6b-dc082f35a713": {
@@ -208,7 +213,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-04_2000x_0d90e004-127e-4e7b-8e17-e630689c5c97.jpg",
             "testi-title": "LACTATE THRESHOLD AND TRAINING",
             "btn-url": "Lactate Threshold and Training: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         },
         "a2b657b4-0859-4b5c-b73c-bc2943ae7b84": {
@@ -217,7 +222,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-03_2000x_e99f6a29-51ab-4b05-9339-f5435e8ab2f0.png",
             "testi-title": "WHAT IS VO2 MAX",
             "btn-url": "What is VO2 Max: GU Endurance Lab - YouTube",
-            "color_title": "#FDB71D"
+            "color_title": "#fdb71d"
           }
         }
       },
@@ -230,7 +235,6 @@
         "a2b657b4-0859-4b5c-b73c-bc2943ae7b84"
       ],
       "settings": {
-        "btnid": false
       }
     },
     "1545ec79-5c2a-4553-a694-e73ea74e9dd5": {
@@ -287,7 +291,7 @@
     "3709dc23-05cf-48af-affa-33c74167dc27",
     "8b3c66cc-b6fb-4dd0-944e-767bca58371b",
     "99cccbd9-819a-4223-80f2-c83327b72b1d",
-    "eac0dd84-4616-4d25-ac23-1f4ba305ca04",
+    "526d0514-f71c-4eb1-be0c-a561218ad74f",
     "0ae9c7f9-a75b-445d-bade-bc4a918ededa",
     "1545ec79-5c2a-4553-a694-e73ea74e9dd5",
     "14ce44a6-1510-4db8-88cd-2f158d843d4d"
