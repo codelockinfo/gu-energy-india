@@ -407,6 +407,17 @@
         "color_scheme": "secondary",
         "use_gradient_background": false
       }
+    },
+    "720b0dac-5a01-4fbd-91c5-195f22359586": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CLa3PHHIxQE&ab_channel=GUEnergyLabs",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -416,6 +427,7 @@
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "75d7a99b-c412-4db9-81e9-9d5d3bf7b287",
-    "d5793c6d-275b-4872-bc42-e71031c8e63e"
+    "d5793c6d-275b-4872-bc42-e71031c8e63e",
+    "720b0dac-5a01-4fbd-91c5-195f22359586"
   ]
 }
