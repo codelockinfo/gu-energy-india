@@ -263,6 +263,13 @@
             "question": "Do GU Energy Gels freeze?",
             "answer": "Yes, but well below zero. They will thicken in cold weather, so keep your Energy Gels close to your body to keep it warm."
           }
+        },
+        "35414957-a274-4b2e-a219-bc5694a96c8f": {
+          "type": "question",
+          "settings": {
+            "question": "How long does an Energy Gel take to work?",
+            "answer": "Right away! The fructose converts quickly into an energy molecule that your muscles can tap within minutes. The maltodextrin, which makes up 70-80% of the carbohydrate blend (depending on flavor), takes several minutes longer. Because of this delay, your muscles enjoy a steady stream of energy instead of one gigantic sugar rush and a corresponding crash."
+          }
         }
       },
       "block_order": [
@@ -274,7 +281,8 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-5",
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-6",
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-7",
-        "6f0c7fff-aabe-40b8-b7d2-e8a7fe1ecdc0"
+        "6f0c7fff-aabe-40b8-b7d2-e8a7fe1ecdc0",
+        "35414957-a274-4b2e-a219-bc5694a96c8f"
       ],
       "settings": {
         "display_on_card": true,
