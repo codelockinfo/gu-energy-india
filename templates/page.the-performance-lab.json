@@ -240,8 +240,9 @@
         "b2d5eec0-9aff-47f5-ba78-725a65159765": {
           "type": "quote",
           "settings": {
-            "testi-title": "name of text",
-            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "testi-img": "shopify:\/\/shop_images\/endurance-06_2000x_b4fa8db0-85b7-436d-bfa4-b3290d2b544d.jpg",
+            "testi-title": "TRAINING ADAPTATIONS",
+            "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
             "color_title": "#FDB71D"
           }
         },
