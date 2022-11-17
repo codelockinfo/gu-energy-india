@@ -3,10 +3,297 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_0627_edit.webp",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": true,
+        "style": "full",
+        "height": "pt-700",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "",
+        "heading_size": "heading-base",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
+    },
+    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "INSIDE THE GU PERFORMANCE LAB",
+        "custom_liquid": "<p class=\"text-center\">The Performance Lab is where we research the effects of nutrition and training on the body and where we innovate and develop new products for athletes. Here at GU, we are motivated by a desire to help athletes get the most out of their bodies over months and years of training. After all, innovation, athleticism, and longevity are three of our core values.<\/p><br>\n<p>Inside the Performance Lab, we test our athletes’ metabolism and blood biochemistry, monitor training status and fatigue, track sleep and diet, even measure cognitive performance. While the equipment that makes up our lab has a physical home in our headquarters in Berkeley, we like to think that our lab exists anywhere in the world where our athletes are out there pushing their limits.<\/p><br>\n<p>Whether on a track or trail, on the field or on a mountain, we go wherever the research takes us to get our questions answered.<\/p>",
+        "full_width": false,
+        "color_scheme": "tertiary"
+      }
+    },
+    "06ecc565-8c17-4485-adf2-a5e313c75ce4": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/DSC_0487_edit.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "OUR MISSION",
+        "heading_size": "heading-template",
+        "richtext": "<p>Through scientific inquiry, we seek to better understand human nutrition and how it influences athletic performance, recovery, and longevity. Additionally, we aim to:<\/p><p><\/p><p>-Test new and existing GU and ROCTANE products both in the lab and in real world settings<\/p><p><\/p><p>-Optimize nutrition and training protocols to facilitate breakthrough performances<\/p><p><\/p><p>-Support our athletes with special projects and case studies that present unique nutritional challenges<\/p><p><\/p><p>-Synthesize the results of our research and share them with our community so we can all perform better<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1e0303ff-2564-483f-90f9-fc05cf69d0a6": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/HourRecordShot_2.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "OUR MOTIVATION",
+        "heading_size": "heading-template",
+        "richtext": "<p>At GU, we are a company of athletes, adventurers, and weekend warriors. We are passionate about fueling human movement and want to produce the best nutrition products that empower people to live active lifestyles. Curiosity led to the innovation of the first GU Energy Gel, and it continues to drive our innovation process. By studying nutrition and human physiology, we can create better products to support our athlete community.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "3709dc23-05cf-48af-affa-33c74167dc27": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Sign up for the GU Performance Lab Newsletter",
+        "richtext": "<p>The Performance Lab Newsletter will bring you along for the ride – so you can learn alongside us and gain insights into all areas of improving performance.<\/p>",
+        "display_on_card": false,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "8b3c66cc-b6fb-4dd0-944e-767bca58371b": {
+      "type": "foure-div-image-section",
+      "blocks": {
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/DSC4530_Social-1024x682_1_600x_cbab79ba-bf92-46b5-8cc2-09f75bb28cb8.jpg",
+            "testi-title": "WHY ELECTROLYTES",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/i-dDtfBnJ-X3_edit_600x_549dbb23-fd11-4583-9a5d-c5c9568fb09f.png",
+            "testi-title": "TO GLUTEN OR NOT",
+            "color_title": "#ffffff"
+          }
+        },
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/InnerAge_9a1ee1cc-56e8-4a31-b866-f67f57e76276.png",
+            "testi-title": "THE AGELESS ATHLETE PROJECT",
+            "color_title": "#ffffff"
+          }
+        },
+        "a289d4c0-18b2-4674-bdda-b3787f7c334e": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/013_GU-FINAL-SELECTS_MTrappe_DSC7827-e1487719252943_1_1024x1024_8de4ff08-771a-4bf0-89cf-e6f4d5c77936.jpg",
+            "testi-title": "BENEFITS OF BCAAS",
+            "color_title": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-0",
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-1",
+        "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-2",
+        "a289d4c0-18b2-4674-bdda-b3787f7c334e"
+      ],
+      "settings": {
+        "btnid": false
+      }
+    },
+    "99cccbd9-819a-4223-80f2-c83327b72b1d": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "title": "STORIES FROM THE LAB",
+        "blog": "cla",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": true,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": true,
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "526d0514-f71c-4eb1-be0c-a561218ad74f": {
+      "type": "rich-text",
+      "settings": {
+        "title": "QUESTIONS FOR OUR IN-HOUSE NUTRITIONIST",
+        "heading_size": "heading-base",
+        "rich_text": "<p>Roxanne is our in-house nutrition expert. In her free time, she's an avid mountaineer and likes to get to the top of really tall mountains!<\/p><p>Have a question about nutrition and fueling as an athlete? Check out our \"Ask the GUru\" page, where our in-house sports nutritionist has answered frequently asked questions about diet and nutrition for athletes. If your question isn't covered, you can submit it in the form at the bottom of the page.<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "shopify:\/\/pages\/ask-the-guru",
+        "button_label": "ASK THE GURU",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "0ae9c7f9-a75b-445d-bade-bc4a918ededa": {
+      "type": "multi-video-section",
+      "blocks": {
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
+            "testi-title": "A PASSION FOR INNOVATION",
+            "btn-url": "A Passion for Innovation: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        },
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
+            "testi-title": "EXAMINING THE BONK",
+            "btn-url": "Examining the Bonk: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        },
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-05_2000x_fd8f4962-3f47-4753-8852-4c86f8d2860d.jpg",
+            "testi-title": "PEAK POWER",
+            "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        },
+        "b2d5eec0-9aff-47f5-ba78-725a65159765": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-06_2000x_b4fa8db0-85b7-436d-bfa4-b3290d2b544d.jpg",
+            "testi-title": "TRAINING ADAPTATIONS",
+            "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        },
+        "f6257562-24b7-43bb-8f6b-dc082f35a713": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-04_2000x_0d90e004-127e-4e7b-8e17-e630689c5c97.jpg",
+            "testi-title": "LACTATE THRESHOLD AND TRAINING",
+            "btn-url": "Lactate Threshold and Training: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        },
+        "a2b657b4-0859-4b5c-b73c-bc2943ae7b84": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-03_2000x_e99f6a29-51ab-4b05-9339-f5435e8ab2f0.png",
+            "testi-title": "WHAT IS VO2 MAX",
+            "btn-url": "What is VO2 Max: GU Endurance Lab - YouTube",
+            "color_title": "#fdb71d"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-0",
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-1",
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-2",
+        "b2d5eec0-9aff-47f5-ba78-725a65159765",
+        "f6257562-24b7-43bb-8f6b-dc082f35a713",
+        "a2b657b4-0859-4b5c-b73c-bc2943ae7b84"
+      ],
+      "settings": {
+      }
+    },
+    "1545ec79-5c2a-4553-a694-e73ea74e9dd5": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/20190430-132230_MO1_8363_-_Roxanne_Vogel_GU_Mount_Everest__2_800x_5e583b65-2d6c-4a54-9a37-ade57c193c58.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "ROXANNE VOGEL, PHD(C)",
+        "heading_size": "heading-template",
+        "richtext": "<p>Roxanne Vogel, MS, is the Nutrition and Performance Research Manager at GU. She runs the Performance Lab and works with our athlete team to test and refine new and existing GU products. She’s a doctoral candidate at Southern Cross in Australia, where her research focuses on helping athletes perform better in extreme environmental conditions (heat, cold, high altitude, etc.) through nutrition and training interventions. She is a certified<a href=\"https:\/\/www.acsm.org\/get-stay-certified\/get-certified\/health-fitness-certifications\/exercise-physiologist\">Exercise Physiologist<\/a>,<a href=\"https:\/\/www.nsca.com\/certification\/cscs\/\">Strength and Conditioning Specialist<\/a>, and Sports Nutritionist with a Master’s degree in Exercise and Sports Nutrition.<\/p><p><\/p><p>As a mountain athlete, Roxanne enjoys trail running and competes in ultra-marathons to help prepare for climbing high and fast...including a record-setting 14 day Everest expedition in May 2019. She recently returned from a five-week expedition to Antarctica, where she completed the Seven Summits, skied to the South Pole, and climbed the most remote peak in the world. Her passion for knowledge and adventure has taken her to every continent on earth and she’s not done yet!<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "14ce44a6-1510-4db8-88cd-2f158d843d4d": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/magda-boulet-fitness-tips-1-768x768_800x_7cb19f08-8aef-4b71-84c7-73860e3e9d03.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "MAGDA BOULET, VP OF INNOVATION, R&D",
+        "heading_size": "heading-template",
+        "richtext": "<p>Magda Boulet, MS, is the VP of Innovation, R&D at GU. Magda leads all efforts related to the innovation and development of quality products that feed the need to move.  Magda holds a Bachelors degree in Human Biodynamics from the University of California at Berkeley, and Masters degree in Exercise Physiology with the emphasis on Sports Nutrition from California State University, East Bay.   <\/p><p><\/p><p>As an athlete, Magda started her athletic career as a youth swimmer and quickly found her way to running.  She competed in middle distances at UC Berkeley and eventually moved up to the marathon distance in post college years. In 2008, Magda took 2nd at the US marathon Olympic trials and earning a spot on the Olympic Team.  She went on to lower her personal best to 2:26:22, finishing 2nd at the 2010 Rotterdam Marathon, which nationally ranked her #1 in the marathon by Track and Field News for the year. She started running Ultramarathons in 2013 and in 2015, she won the prestigious Western States 100 Endurance Run, and was named the North American Ultra Runner of the Year.  Since then she has been enjoying racing on trails all over the world and staying curious on ways to extend longevity, health and wellness as an aging athlete.  <\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "9dafa0cd-7a9c-4fb6-830c-38607ebc8239",
+    "6b425bbd-d3f1-47f6-a0f6-29cd9d7d6868",
+    "06ecc565-8c17-4485-adf2-a5e313c75ce4",
+    "1e0303ff-2564-483f-90f9-fc05cf69d0a6",
+    "3709dc23-05cf-48af-affa-33c74167dc27",
+    "8b3c66cc-b6fb-4dd0-944e-767bca58371b",
+    "99cccbd9-819a-4223-80f2-c83327b72b1d",
+    "526d0514-f71c-4eb1-be0c-a561218ad74f",
+    "0ae9c7f9-a75b-445d-bade-bc4a918ededa",
+    "1545ec79-5c2a-4553-a694-e73ea74e9dd5",
+    "14ce44a6-1510-4db8-88cd-2f158d843d4d"
   ]
 }
