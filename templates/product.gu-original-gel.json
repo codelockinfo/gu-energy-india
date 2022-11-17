@@ -10,6 +10,14 @@
             "text_align": "text-left"
           }
         },
+        "a17e90c4-acc9-4f1d-af84-828ae4cb2289": {
+          "type": "description",
+          "settings": {
+            "display_on_card": false,
+            "truncate_description": false,
+            "text_align": "text-left"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -29,9 +37,9 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "drop_down",
+            "option_style": "buttons",
             "hide_option_labels": false,
-            "enable_color_swatches": false
+            "enable_color_swatches": true
           }
         },
         "baf3083e-d14d-435d-bca3-100d6ac490ce": {
@@ -42,23 +50,15 @@
             "enable_payment_button": true,
             "show_pickup_availability": false
           }
-        },
-        "a17e90c4-acc9-4f1d-af84-828ae4cb2289": {
-          "type": "description",
-          "settings": {
-            "display_on_card": false,
-            "truncate_description": false,
-            "text_align": "text-left"
-          }
         }
       },
       "block_order": [
         "title",
+        "a17e90c4-acc9-4f1d-af84-828ae4cb2289",
         "price",
         "quantity_selector",
         "variant_picker",
-        "baf3083e-d14d-435d-bca3-100d6ac490ce",
-        "a17e90c4-acc9-4f1d-af84-828ae4cb2289"
+        "baf3083e-d14d-435d-bca3-100d6ac490ce"
       ],
       "settings": {
         "crop": "",
@@ -71,7 +71,7 @@
         "media_mobile_width": "w-full",
         "thumbnails_position": "left",
         "thumbnail_crop": "aspect-w-1 aspect-h-1",
-        "thumbnail_shape": "heptagon",
+        "thumbnail_shape": "default",
         "hide_media_shadow": false,
         "thumbnail_size": "large",
         "show_thumbnails_on_mobile": false,
@@ -126,6 +126,58 @@
         "use_gradient_background": false
       }
     },
+    "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3": {
+      "type": "geldiscription",
+      "blocks": {
+        "f0390680-b12c-4c57-ac70-51e62c7aa45b": {
+          "type": "title",
+          "settings": {
+            "roctin": "Bonking Doesn’t Solve Itself"
+          }
+        },
+        "6f44ac0c-0df7-4fb8-b213-60fd1fa74c51": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Energy Gels are crafted to supply both energy and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Our huge variety of delicious flavors will save you from flavor fatigue, so you can stick to your nutrition plan and keep goin"
+          }
+        },
+        "88c9b13f-a378-461d-af70-105cbe230aee": {
+          "type": "title",
+          "settings": {
+            "roctin": "The Original Energy Gel"
+          }
+        },
+        "d1d27806-84b2-4429-ac11-39b0694cb9e4": {
+          "type": "discription",
+          "settings": {
+            "discript": "Our Energy Gels delivery the ingredients you need packed in a form that’s tasty, portable, and easy-to-digest. It sounds simple, and it is for you. When you’re working out, you need easy-to-digest calories from carbohydrates that deliver immediate and sustained energy while reducing risk of stomach distress. When your fueled-up, you feel better and perform better"
+          }
+        },
+        "48c2675f-90ae-4149-8d6e-4044d443849c": {
+          "type": "title",
+          "settings": {
+            "roctin": "Family Owned & Made in Berkeley, CA"
+          }
+        },
+        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2": {
+          "type": "discription",
+          "settings": {
+            "discript": "Over 26 years ago, Dr. Bill Vaughan made the first Energy Gel to help his daughter, and ultramarathoner, get the fuel she needed for her long efforts through the mountains. We still make all our Energy Gels in our headquarters in Berkeley… if you’re ever in the neighborhood, come say hi!"
+          }
+        }
+      },
+      "block_order": [
+        "f0390680-b12c-4c57-ac70-51e62c7aa45b",
+        "6f44ac0c-0df7-4fb8-b213-60fd1fa74c51",
+        "88c9b13f-a378-461d-af70-105cbe230aee",
+        "d1d27806-84b2-4429-ac11-39b0694cb9e4",
+        "48c2675f-90ae-4149-8d6e-4044d443849c",
+        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2"
+      ],
+      "settings": {
+        "gel": "GU ENERGY GEL"
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -146,7 +198,7 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-0": {
           "type": "question",
           "settings": {
-            "question": "WHAT IS AN ENERGY GEL?",
+            "question": "WHAT IS AN ENERGY GEL?22313",
             "answer": "<p>Energy Gels provide portable and easy-to-digest calories from carbohydrates that deliver immediate and sustained energy without the stomach distress.<\/p><p>GU Energy Gels use a combination of simple and complex carbohydrates. Carbs become the main source of energy as our bodies transition from sedentary to an active state and exercise intensity increases.<\/p>"
           }
         },
@@ -161,7 +213,7 @@
           "type": "question",
           "settings": {
             "question": "HOW IS ROCTANE ENERGY GEL DIFFERENT?",
-            "answer": "<p>A ROCTANE Energy Gel contains 3x the branched chain amino acids (BCAA's) and 2x the electrolytes compared to our original Energy Gels. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine). ROCTANE Energy Gels deliver the same combination of carbohydrates and same number of calories. ROCTANE Energy Gels are a key tool for high-intensity or prolonged activity when nutrient depletion and muscle damage occurs rapidly.<\/p>"
+            "answer": "<p>A ROCTANE Energy Gel contains 3x the branched chain amino acids (BCAA's) and 2x the electrolytes compared to our original Energy Gels. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine). ROCTANE Energy Gels deliver the same combination of carbohydrates and same number of calories. ROCTANE Energy Gels are a key tool for high-intensity or prolonged activity when nutrient depletion and muscle damage occurs rapidly.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-3": {
@@ -188,14 +240,14 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-6": {
           "type": "question",
           "settings": {
-            "question": "CAN I USE AN ENERGY GEL FOR A STRENGTH WORKOUT OR YOGA? ",
+            "question": "CAN I USE AN ENERGY GEL FOR A STRENGTH WORKOUT OR YOGA? ",
             "answer": "<p>Sure! While GU Energy Gels were designed for endurance sports, they can be used anytime you need energy to fuel a workout, regardless of what type. Exercise is either aerobic or anaerobic, but you’re burning calories either way.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-7": {
           "type": "question",
           "settings": {
-            "question": "HOW DOES THE CAFFEINE IN GU ENERGY GELS HELP ME? ",
+            "question": "HOW DOES THE CAFFEINE IN GU ENERGY GELS HELP ME? ",
             "answer": "<p>GU Energy Gels and ROCTANE Energy Gels come in both caffeinated and non-caffeinated flavors. Caffeine is more than just a morning pick-me-up. Strategically adding caffeine to your nutrition plan before and during exercise can help keep your mind sharp, decrease perceived effort, boost your endurance, and delay fatigue<\/p>"
           }
         },
@@ -216,7 +268,7 @@
         "2ac8f77b-14da-4c16-87af-6c69d87d2dda": {
           "type": "question",
           "settings": {
-            "question": "ARE ENERGY GELS SAFE FOR CHILDREN? ",
+            "question": "ARE ENERGY GELS SAFE FOR CHILDREN? ",
             "answer": "<p>Yes, if they’re playing sports, on a hike, or active, GU Energy Gels can help kids just as much as they help you. You may want to keep them away from flavors that contain caffeine, though.<\/p>"
           }
         },
@@ -237,28 +289,28 @@
         "1c9d6314-4a5a-43bd-ba09-45e4fd5ae6da": {
           "type": "question",
           "settings": {
-            "question": "HOW CAN I USE ROCTANE ENERGY GELS WITH ROCTANE ENERGY DRINK MIX? ",
+            "question": "HOW CAN I USE ROCTANE ENERGY GELS WITH ROCTANE ENERGY DRINK MIX? ",
             "answer": "<p>If you already use ROCTANE Energy Gels, you can substitute two-and-a-half ROCTANE Energy Gels for one serving of ROCTANE Energy Drink Mix. Remember, the body can typically handle around 120-240 calories per hour, so keep this in mind when combining the two. This will help tailor energy intake to your needs and provide the beneficial ingredients found in both the gel and drink. While many ingredients are similar in the two products (carbohydrates, BCAAs, and caffeine) each has unique ingredients which may also help improve performance. Therefore, using both products will help provide every nutritional advantage possible to athletes who demand the best from themselves and their nutrition.<\/p>"
           }
         },
         "1dc840b5-6dc2-416d-935a-e1c0e3c755b2": {
           "type": "question",
           "settings": {
-            "question": "WHY DOES ROCTANE ENERGY GEL HAVE THE SAME NUMBER OF CALORIES AS ORIGINAL GU ENERGY GEL? ",
+            "question": "WHY DOES ROCTANE ENERGY GEL HAVE THE SAME NUMBER OF CALORIES AS ORIGINAL GU ENERGY GEL? ",
             "answer": "<p>You find 100 calories of carbohydrates in both ROCTANE Energy Gel and GU Energy Gel because there’s no reason to add more. The gut can only absorb so many calories at a time during exercise, especially when most of your blood is being delivered to your hard-working muscles. If you add too many calories during intense exercise, your body can’t send enough blood to your gut to digest the carbs, making your gut cramp, forcing you to slow down.<\/p>"
           }
         },
         "f8c42ae2-3634-437d-818d-d4dd77c748fd": {
           "type": "question",
           "settings": {
-            "question": "DOES ONE ROCTANE ENERGY GEL EQUAL TWO GU ENERGY GELS? ",
+            "question": "DOES ONE ROCTANE ENERGY GEL EQUAL TWO GU ENERGY GELS? ",
             "answer": "<p>No. ROCTANE Energy Gel is designed to help provide added nutritional support for prolonged exercise, which is why there are additional amino acids and sodium. However, they have the same number of calories (100) per gel as our original Energy Gel.<\/p>"
           }
         },
         "7cf91238-7b3b-42e5-8e35-1bdb783c4d0f": {
           "type": "question",
           "settings": {
-            "question": "HOW WILL THE ADDED ELECTROLYTES AND AMINO ACIDS IN ROCTANE ENERGY GEL BENEFIT ME? ",
+            "question": "HOW WILL THE ADDED ELECTROLYTES AND AMINO ACIDS IN ROCTANE ENERGY GEL BENEFIT ME? ",
             "answer": "<p>ROCTANE contains more sodium than the original GU Energy Gel and sodium is the main electrolyte lost in sweat. Supplementation with sodium can help prevent cramping as well as minimize the chances of hyponatremia.<\/p><p>The additional amino acids in ROCTANE Energy Gel serve several important functions, including acting as a fuel source for working muscle, and helping promote muscle recovery following exercise. ROCTANE Energy Gel contains branched-chain amino acids that have been shown to help prevent central fatigue by competing with tryptophan for transport across the blood brain barrier. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine).<\/p>"
           }
         },
@@ -299,12 +351,151 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287": {
+      "type": "tringle",
+      "blocks": {
+        "c8d01fba-b906-4912-9494-b4c194e6f0f2": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_043d1c30-8990-407e-bd51-9cdf819b9e49.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        },
+        "2e2506dd-e7a9-4a31-b1e4-a6b63f825e11": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_54ae7e06-38bd-4c92-bb72-acd1c11a74fc.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        },
+        "0f301e9a-fcba-43d6-89dc-8fb5eed90890": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-caffeine_2ec5a59c-1836-40fb-bb4f-28c4f84a77ed.png",
+            "discr": "Helps enhance performance by increasing focus and concentration while training or racing"
+          }
+        }
+      },
+      "block_order": [
+        "c8d01fba-b906-4912-9494-b4c194e6f0f2",
+        "2e2506dd-e7a9-4a31-b1e4-a6b63f825e11",
+        "0f301e9a-fcba-43d6-89dc-8fb5eed90890"
+      ],
+      "settings": {
+        "discr2": ""
+      }
+    },
+    "d5793c6d-275b-4872-bc42-e71031c8e63e": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Max_King_Banner_2000x_6631f082-901d-473b-8feb-642d87796278.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": true,
+        "title": "FEATURED ATHLETE",
+        "heading_size": "heading-template",
+        "richtext": "<p>MAX KING<\/p><p><a href=\"https:\/\/guenergy.com\/blogs\/team-roctane\/max-king\" target=\"_blank\">GET TO KNOW THEM<\/a><\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "1a0f1639-80cb-47d7-bac4-c3da9aac57a9": {
+      "type": "guidetabbing",
+      "blocks": {
+        "ea77aa02-cb39-4014-b3ec-454b5593a415": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "0-1 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_7c3819be-7555-406e-a46c-ed2a28dbf091.jpg",
+            "heading": "0 - 1 Hour of effort",
+            "text1": "When you're exercising for an hour or less, it's important to start your workout well hydrated and energized. Eat one Energy Gel five-minutes before you start to top off your energy stores. It's best to hydrate in the hours before you start, not right before you start. ",
+            "imagemain2": "shopify:\/\/shop_images\/IMG_2160-960x500_1_large_c656e328-792d-431c-b896-4239c293f807.jpg"
+          }
+        },
+        "b60e4d0b-145f-4fdb-9f62-308a8dbb36db": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "1-2 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/i-ML8rHWv-X2-1024x716_3_large_b00b2ab5-6a59-493f-a86e-cd5b1976dfbb.jpg",
+            "heading": "1 - 2 Hours of effort",
+            "text1": "When exercising for more than an hour, it's important to refuel along the way.  Eat one Energy Gel five-minutes before every 45 minutes along the way. Hydrate with 32 oz of water to help your body process your foods and keep your muscles fueled.",
+            "imagemain2": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large1_large_cdefa728-28c8-43df-867f-4519b1d717fa.jpg"
+          }
+        },
+        "fb51a8c7-c31e-44db-8d1c-34cf7bc0e94d": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2-3 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_33d0408b-8f34-487c-b39a-85657308ca2c.webp",
+            "heading": "2 - 3 Hours of effort",
+            "text1": "As you increase duration, your body needs more. Eat an Energy Gel five-minutes before and every 45 minutes along the way. Grab a ROCTANE Energy Gel to add more BCAAs for your muscles and more electrolytes for hydration. Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours.",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_44f6fcd6-c49f-41c1-b4d6-ba0f56a8fb8a.webp"
+          }
+        },
+        "11adc0d5-4fed-4e1d-b15a-caa8e73b7874": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3-4 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_69aef52d-9c3b-451c-906d-ed70df218791.webp",
+            "heading": "3 - 4 Hours of effort",
+            "text1": "During long efforts, it's impossible to replace everything you're burning, but you can maximize your performance by eating as much as your body can comfortably process. As a baseline, fuel with one ROCTANE Energy Gel five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. ",
+            "imagemain2": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large_large_b2319e66-1883-4417-90d9-d1d8beab22d0.webp"
+          }
+        },
+        "c522bb7a-350e-47a4-86eb-518fe053b59e": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "4-5 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/2017-Team-Every-Man-Jack-Las-Vegas-Training-Camp-for-Gu-Energy-Labs.-Photo-Myke-Hermsmeyer-40-of-428-1024x605_large_37a6cb21-77be-4bff-a871-a5be3c3b09b2.webp",
+            "heading": "4 - 5 Hours of effort",
+            "text1": "When you're exercising for five hours or more, consuming as much as your body can process can help maximize your performance. As a baseline, fuel with one ROCTANE Energy Gel five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. ",
+            "imagemain2": "shopify:\/\/shop_images\/Rebecca-Rybicki-e1548958456196_large_7f659029-3ea0-49f3-a464-d4e8619fe02c.webp"
+          }
+        }
+      },
+      "block_order": [
+        "ea77aa02-cb39-4014-b3ec-454b5593a415",
+        "b60e4d0b-145f-4fdb-9f62-308a8dbb36db",
+        "fb51a8c7-c31e-44db-8d1c-34cf7bc0e94d",
+        "11adc0d5-4fed-4e1d-b15a-caa8e73b7874",
+        "c522bb7a-350e-47a4-86eb-518fe053b59e"
+      ],
+      "settings": {
+        "komet": "",
+        "longdisc": ""
+      }
+    },
+    "720b0dac-5a01-4fbd-91c5-195f22359586": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "cover_image": "shopify:\/\/shop_images\/Max_King_Banner_2000x_6631f082-901d-473b-8feb-642d87796278.webp",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CLa3PHHIxQE&ab_channel=GUEnergyLabs",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
+    "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3",
     "product-recommendations",
-    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
+    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
+    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287",
+    "d5793c6d-275b-4872-bc42-e71031c8e63e",
+    "1a0f1639-80cb-47d7-bac4-c3da9aac57a9",
+    "720b0dac-5a01-4fbd-91c5-195f22359586"
   ]
 }
