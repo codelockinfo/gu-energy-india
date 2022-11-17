@@ -1,5 +1,5 @@
-<div>
-        <table>
+ <div>
+        <table class="maintable">
             <thead>
               <tr>
                 <th>Territory</th>
@@ -9,7 +9,7 @@
               </tr>
             </thead>
           
-            <tbody>
+            <tbody class="tablebody">
               <tr>
                 <td>Argentina</td>
                 <td>TJS SRL.</td>
@@ -288,25 +288,25 @@
 {% endschema %}
 
 {% stylesheet %}
-  table {
+ .maintable {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
-  
     border-collapse: separate;
     border-spacing: 0;
+    
   }
   
-  tbody tr:nth-child(odd) {
+  .tablebody tr:nth-child(odd) {
     background-color: #ececec;
   }
   
-  th, td {
+  .maintable th, td {
     padding: 0.75rem;
     font-size: 0.9375rem;
   }
   
-  th { 
+  .maintable th { 
     font-weight: 700;
     text-align: left;
     color: #272838;
@@ -316,10 +316,10 @@
     background-color: #F9F8F8;
   }
   
-  td { 
+  .tablebody td { 
     color: #000;
   }
-  td a{
+  .tablebody td a{
     color: #04bbd3;
   }
 {% endstylesheet %}
