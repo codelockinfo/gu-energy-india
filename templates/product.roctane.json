@@ -375,7 +375,7 @@
     "e493a8c4-c8cf-4849-9d93-966c075f4826": {
       "type": "image-with-text",
       "settings": {
-        "display_on_card": true,
+        "display_on_card": false,
         "image": "shopify:\/\/shop_images\/Mirinda_Carfrae_Banner_2000x_3495e181-4e26-4624-a971-ce4db13b942c.jpg",
         "crop": "",
         "image_shape": "default",
