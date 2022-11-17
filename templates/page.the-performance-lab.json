@@ -206,46 +206,6 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
-    },
-    "d4a18e80-1204-4fff-904d-a2fb3c5a3c6e": {
-      "type": "three-div-and-text",
-      "blocks": {
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-0": {
-          "type": "quote",
-          "settings": {
-            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
-            "btn-title": "Learn More",
-            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
-          }
-        },
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-1": {
-          "type": "quote",
-          "settings": {
-            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
-            "btn-title": "Learn More",
-            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
-          }
-        },
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-2": {
-          "type": "quote",
-          "settings": {
-            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
-            "btn-title": "Learn More",
-            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
-          }
-        }
-      },
-      "block_order": [
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-0",
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-1",
-        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-2"
-      ],
-      "settings": {
-        "btnid": false
-      }
     }
   },
   "order": [
@@ -259,7 +219,6 @@
     "99cccbd9-819a-4223-80f2-c83327b72b1d",
     "eac0dd84-4616-4d25-ac23-1f4ba305ca04",
     "1545ec79-5c2a-4553-a694-e73ea74e9dd5",
-    "14ce44a6-1510-4db8-88cd-2f158d843d4d",
-    "d4a18e80-1204-4fff-904d-a2fb3c5a3c6e"
+    "14ce44a6-1510-4db8-88cd-2f158d843d4d"
   ]
 }
