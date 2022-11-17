@@ -4559,5 +4559,8 @@ p.longdisc {
   .image-planning{
   width:100%;
 }
+  .main-planning{
+     padding: 24px;
+}
 }
 
