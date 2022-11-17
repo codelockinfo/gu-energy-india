@@ -173,10 +173,26 @@
             "kome": "shopify:\/\/shop_images\/nutr-amino_043d1c30-8990-407e-bd51-9cdf819b9e49.png",
             "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
           }
+        },
+        "aa3ff863-139f-4a85-b5f2-9bdfdea75451": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_54ae7e06-38bd-4c92-bb72-acd1c11a74fc.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        },
+        "4baa8e51-d912-407a-aa42-6ef2f41a3f3b": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-caffeine_2ec5a59c-1836-40fb-bb4f-28c4f84a77ed.png",
+            "discr": "Helps enhance performance by increasing focus and concentration while training or racing"
+          }
         }
       },
       "block_order": [
-        "40751f12-ca90-4800-b9c7-12026d26ad03"
+        "40751f12-ca90-4800-b9c7-12026d26ad03",
+        "aa3ff863-139f-4a85-b5f2-9bdfdea75451",
+        "4baa8e51-d912-407a-aa42-6ef2f41a3f3b"
       ],
       "settings": {
         "discr2": "✝ These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. * Some flavors with caffeine, some flavors without added caffeine"
