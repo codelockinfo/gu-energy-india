@@ -1,0 +1,71 @@
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Job</th>
+      <th>Salary</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Olivia Saturday</td>
+      <td>Senior Data Engineer</td>
+      <td>$320,000</td>
+    </tr>
+  </tbody>
+</table>
+{% schema %}
+  {
+    "name": "Section name",
+    "settings": [],
+    "presets" : [
+    {
+      "name" : "gu table"
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+  table {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #ECE9E9;
+}
+
+th, td {
+  padding: 0.75rem;
+  font-size: 0.9375rem;
+}
+
+th {
+  font-weight: 700;
+  text-align: left;
+  color: #272838;
+  border-bottom: 2px solid #EB9486;
+
+  position: sticky;
+  top: 0;
+  background-color: #F9F8F8;
+}
+
+td { 
+  color: #7E7F9A;
+}
+
+body {
+  padding: 6rem 2rem;
+  background-color: #F9F8F8;
+}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -12,7 +12,7 @@
      <div class="clscenter">
 <!--        <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2> -->
         
-        <button class="btnplaning">{{ block.settings.btn-title | escape }}</button>
+        <a href="{{ block.settings.btn-url }}" class="btnplaning">{{ block.settings.btn-title | escape }}</a>
      </div>
         
         
@@ -55,6 +55,12 @@
                "id":"btn-title",
                "label":"text of button",
                "default":"Learn More"
+            },
+            {
+               "type":"text",
+               "id":"btn-url",
+               "label":"button url",
+               "default":"https://gu-energy-india.myshopify.com/pages/nutrition-tips"
             },
              {
       "type": "color",
