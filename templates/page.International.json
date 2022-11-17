@@ -1,5 +1,14 @@
 {
   "sections": {
+    "b2a7c9b9-aead-496c-aea8-338decbb68d2": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "",
+        "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">INTERNATIONAL DEALERS",
+        "full_width": false,
+        "color_scheme": "primary"
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -13,20 +22,11 @@
       "type": "gu-tabel",
       "settings": {
       }
-    },
-    "b2a7c9b9-aead-496c-aea8-338decbb68d2": {
-      "type": "custom-liquid",
-      "settings": {
-        "title": "Custom liquid",
-        "custom_liquid": "",
-        "full_width": false,
-        "color_scheme": "primary"
-      }
     }
   },
   "order": [
+    "b2a7c9b9-aead-496c-aea8-338decbb68d2",
     "main",
-    "ebc625cd-5922-411a-92aa-190c29bc30f7",
-    "b2a7c9b9-aead-496c-aea8-338decbb68d2"
+    "ebc625cd-5922-411a-92aa-190c29bc30f7"
   ]
 }
