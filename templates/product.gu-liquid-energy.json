@@ -192,6 +192,40 @@
         "gel": "GU LIQUID ENERGY GEL"
       }
     },
+    "561fda6f-cdda-48f7-acaf-d2599bc58dcc": {
+      "type": "tringle",
+      "blocks": {
+        "0e1129c6-8001-4f87-89ad-a09bf931e254": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_043d1c30-8990-407e-bd51-9cdf819b9e49.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        },
+        "a67a3207-305f-43d4-bdc3-0e081a0994ab": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_54ae7e06-38bd-4c92-bb72-acd1c11a74fc.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        },
+        "d4134a4b-a0c5-4eca-a18a-ca809a84214f": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-caffeine_2ec5a59c-1836-40fb-bb4f-28c4f84a77ed.png",
+            "discr": "Helps enhance performance by increasing focus and concentration while training or racing"
+          }
+        }
+      },
+      "block_order": [
+        "0e1129c6-8001-4f87-89ad-a09bf931e254",
+        "a67a3207-305f-43d4-bdc3-0e081a0994ab",
+        "d4134a4b-a0c5-4eca-a18a-ca809a84214f"
+      ],
+      "settings": {
+        "discr2": ""
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -358,6 +392,7 @@
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
     "d327ff17-c658-422b-98aa-e801aab5a5c0",
+    "561fda6f-cdda-48f7-acaf-d2599bc58dcc",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
   ]
 }
