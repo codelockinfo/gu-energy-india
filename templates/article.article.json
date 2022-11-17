@@ -5,7 +5,7 @@
       "settings": {
         "style": "full",
         "height": "pt-two-thirds-screen-height",
-        "color_scheme": "tertiary",
+        "color_scheme": "primary",
         "use_gradient_background": false
       }
     },
@@ -14,10 +14,10 @@
       "settings": {
         "display_on_card": true,
         "show_image": false,
-        "show_author": false,
+        "show_author": true,
         "show_date": false,
-        "show_share_links": false,
-        "show_tags": false,
+        "show_share_links": true,
+        "show_tags": true,
         "show_next_previous_links": true,
         "color_scheme": "tertiary",
         "use_gradient_background": false
