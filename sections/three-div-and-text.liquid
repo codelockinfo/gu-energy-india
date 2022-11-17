@@ -1,4 +1,7 @@
 <section class="bac-color-white">
+  <div>
+<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
+</div>
   <div class="main-planning">
     <div class="display--flex">
        {% for block in section.blocks %}  
@@ -23,10 +26,6 @@
     </div>
   </div>
 </section>
-
-<div>
-<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
-</div>
 
 {% schema %}
 {
