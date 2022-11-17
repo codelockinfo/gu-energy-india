@@ -4507,12 +4507,6 @@ p.longdisc {
     justify-content: center;
 }
 }
-@media (max-width: 414px) {
-  .gudenumber {
-    flex: 0 0 50%;
-    max-width: 45%;
-}
-}
 /* cls 007 end */
 
 
@@ -4556,5 +4550,14 @@ p.longdisc {
 .image_box img{
       height: 418px;
     object-fit: cover;
+}
+@media (max-width: 414px) {
+  .gudenumber {
+    flex: 0 0 50%;
+    max-width: 45%;
+}
+  .image-planning{
+  width:100%;
+}
 }
 
