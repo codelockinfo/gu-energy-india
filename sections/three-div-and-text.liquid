@@ -1,5 +1,4 @@
 <section class="bac-color-white">
-
   <div class="main-planning">
     <div class="display--flex">
        {% for block in section.blocks %}  
@@ -12,9 +11,7 @@
              </div>
      <div class="clscenter">
 <!--        <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2> -->
-          <div>
-<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
-</div>
+        
         <a href="{{ block.settings.btn-url }}" class="btnplaning">{{ block.settings.btn-title | escape }}</a>
      </div>
         
@@ -27,10 +24,20 @@
   </div>
 </section>
 
+<div>
+<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
+</div>
+
 {% schema %}
 {
    "name":"text-image",
    "settings":[
+     {
+"type": "checkbox",
+"id": "btnid",
+"label": "btn show or not",
+"default": false
+}
     
    ],
    "blocks":[
@@ -55,12 +62,6 @@
                "label":"button url",
                "default":"https://gu-energy-india.myshopify.com/pages/nutrition-tips"
             },
-                {
-"type": "checkbox",
-"id": "btnid",
-"label": "btn show or not",
-"default": false
-},
              {
       "type": "color",
       "id": "color_title",
