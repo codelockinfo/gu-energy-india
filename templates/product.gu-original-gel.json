@@ -385,6 +385,28 @@
       "settings": {
         "discr2": ""
       }
+    },
+    "d5793c6d-275b-4872-bc42-e71031c8e63e": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Max_King_Banner_2000x_6631f082-901d-473b-8feb-642d87796278.webp",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": true,
+        "title": "FEATURED ATHLETE",
+        "heading_size": "heading-template",
+        "richtext": "<p>MAX KING<\/p><p><a href=\"https:\/\/guenergy.com\/blogs\/team-roctane\/max-king\" target=\"_blank\">GET TO KNOW THEM<\/a><\/p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -393,6 +415,7 @@
     "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3",
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287"
+    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287",
+    "d5793c6d-275b-4872-bc42-e71031c8e63e"
   ]
 }
