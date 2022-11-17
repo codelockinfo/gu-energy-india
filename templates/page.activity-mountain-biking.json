@@ -31,8 +31,8 @@
     "fc99598a-21f3-4b4c-b8af-1996415a3625": {
       "type": "custom-liquid",
       "settings": {
-        "title": "CREATED FOR ANYONE THAT MOVES",
-        "custom_liquid": "<p class=\"text-center\">Every runner knows that a jostling stomach is the enemy of a good run or race, which is why great tasting, easy to eat and digest energy and hydration is key to great performance. For those susceptible to an upset stomach or dehydration, try Roctane Electrolyte Capsules, which deliver ginger to calm an upset stomach while providing a large volume of electrolytes quickly.<\/p>",
+        "title": "EFFECTIVE FAT TIRE FUEL",
+        "custom_liquid": "<p class=\"text-center\">Make sure your hydration bladder is doing double duty by delivering effective hydration AND energy with Roctane Energy Drink, so you can focus on nailing your line. And when you’re enjoying the view at the top, reward yourself with a snack that tastes great and gives you the fuel you need to get back down.<\/p>",
         "full_width": false,
         "color_scheme": "tertiary"
       }
@@ -41,7 +41,7 @@
       "type": "image-with-text",
       "settings": {
         "display_on_card": false,
-        "image": "shopify:\/\/shop_images\/Our-Name_800x_8a526420-9451-4f9e-8968-89e09675e9f9.jpg",
+        "image": "shopify:\/\/shop_images\/MTBNutritionBefore_800x_6d384802-9538-45fa-9c7e-3a7798616174.jpg",
         "crop": "",
         "image_shape": "default",
         "blob_type": 1,
