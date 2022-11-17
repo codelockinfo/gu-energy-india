@@ -10,7 +10,6 @@
      <div class="background-overlay">
              </div>
      <div class="clscenter">
-<!--        <h2 class="heading-planing" style=" color: {{ block.settings.color_title }}">{{ block.settings.testi-title | escape }}</h2> -->
         
         <a href="{{ block.settings.btn-url }}" class="btnplaning">{{ block.settings.btn-title | escape }}</a>
      </div>
@@ -24,20 +23,10 @@
   </div>
 </section>
 
-<div>
-<input type="hidden" name="attributes[exclude invoice]" id="btnid" value="1" unchecked="unchecked" />
-</div>
-
 {% schema %}
 {
    "name":"text-image",
    "settings":[
-     {
-"type": "checkbox",
-"id": "btnid",
-"label": "btn show or not",
-"default": false
-}
     
    ],
    "blocks":[
@@ -114,10 +103,4 @@
 {% endstylesheet %}
 
 {% javascript %}
-//   $(document).on('click','#btnid',function(){
-//     $('.btnplaning').hide();
-//     if($('#btnid').is('checked')){
-//         $('.btnplaning').show();
-//     }
-// })
 {% endjavascript %}
