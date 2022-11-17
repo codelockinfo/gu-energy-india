@@ -388,7 +388,7 @@
         "heading_size": "heading-template",
         "richtext": "<p>MIRINDA CARFRAE<\/p>",
         "text_alignment": "text-left",
-        "button_link": "",
+        "button_link": "#",
         "button_label": "Get to Know Them",
         "color_scheme": "secondary",
         "use_gradient_background": false
