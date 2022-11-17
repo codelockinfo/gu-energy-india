@@ -29,9 +29,9 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "drop_down",
+            "option_style": "buttons",
             "hide_option_labels": false,
-            "enable_color_swatches": false
+            "enable_color_swatches": true
           }
         },
         "baf3083e-d14d-435d-bca3-100d6ac490ce": {
