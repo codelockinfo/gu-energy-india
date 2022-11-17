@@ -4335,7 +4335,7 @@ body {
   margin: 0 auto;
   padding: 0 15px;
 }
-span.clshr {
+/* span.clshr {
   height: 6px;
   background: #e42c1d;
   width: 100%;
@@ -4366,7 +4366,7 @@ span.clshr:after {
   position: absolute;
   top: 0;
   bottom: 0;
-}
+} */
 .roctaintitle {
   font-size: 48px;
   font-weight: bold;
