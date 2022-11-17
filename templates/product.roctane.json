@@ -426,6 +426,18 @@
         "komet": "GUIDES",
         "longdisc": "HOW LONG ARE YOU GOING"
       }
+    },
+    "41c90fbb-3a00-42ad-bceb-df1a0017b814": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "cover_image": "shopify:\/\/shop_images\/endurance-05_2000x_fd8f4962-3f47-4753-8852-4c86f8d2860d.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=JT_A6Qj22yk",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -436,6 +448,7 @@
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations",
     "e493a8c4-c8cf-4849-9d93-966c075f4826",
-    "e628e597-8621-4580-bd60-7acb4097b543"
+    "e628e597-8621-4580-bd60-7acb4097b543",
+    "41c90fbb-3a00-42ad-bceb-df1a0017b814"
   ]
 }
