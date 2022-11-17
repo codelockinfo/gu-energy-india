@@ -4552,6 +4552,7 @@ p.longdisc {
     font-weight: 700;
         display: flex;
     margin: auto;
+    text-align: center;
   }
 .image_box img{
       height: 418px;
