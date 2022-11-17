@@ -164,6 +164,24 @@
         "gel": "GU ROCTANE ENERGY GEL"
       }
     },
+    "550e7f3e-9f7c-4ea9-a82d-a2f552920dea": {
+      "type": "tringle",
+      "blocks": {
+        "40751f12-ca90-4800-b9c7-12026d26ad03": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_043d1c30-8990-407e-bd51-9cdf819b9e49.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        }
+      },
+      "block_order": [
+        "40751f12-ca90-4800-b9c7-12026d26ad03"
+      ],
+      "settings": {
+        "discr2": "✝ These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. * Some flavors with caffeine, some flavors without added caffeine"
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -263,6 +281,7 @@
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "fb34a68e-011e-440c-b0e1-b4a96c4cc300",
+    "550e7f3e-9f7c-4ea9-a82d-a2f552920dea",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations"
   ]
