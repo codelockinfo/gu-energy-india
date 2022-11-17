@@ -31,8 +31,8 @@
     "fc99598a-21f3-4b4c-b8af-1996415a3625": {
       "type": "custom-liquid",
       "settings": {
-        "title": "CREATED FOR ANYONE THAT MOVES",
-        "custom_liquid": "<p class=\"text-center\">Every runner knows that a jostling stomach is the enemy of a good run or race, which is why great tasting, easy to eat and digest energy and hydration is key to great performance. For those susceptible to an upset stomach or dehydration, try Roctane Electrolyte Capsules, which deliver ginger to calm an upset stomach while providing a large volume of electrolytes quickly.<\/p>",
+        "title": "THE FOURTH DISCIPLINE",
+        "custom_liquid": "<p class=\"text-center\">Nutrition is the fourth discipline of a triathlon and it needs just as much attention as your training plan. Our Triathlon Nutrition plan has high levels of BCAAs and energy-packed calories in a variety of great tasting forms to help ensure you’re getting key nutrients for training and racing.<\/p>",
         "full_width": false,
         "color_scheme": "tertiary"
       }
@@ -41,7 +41,7 @@
       "type": "image-with-text",
       "settings": {
         "display_on_card": false,
-        "image": "shopify:\/\/shop_images\/Our-Name_800x_8a526420-9451-4f9e-8968-89e09675e9f9.jpg",
+        "image": "shopify:\/\/shop_images\/2019_IM_Boulder_Sunday_Quick_Samples_Photo_Myke_Hermsmeyer_18_of_131_800x_b9968a3a-cf5e-4d8f-b025-02ae726333e8.webp",
         "crop": "",
         "image_shape": "default",
         "blob_type": 1,
@@ -49,9 +49,9 @@
         "image_position": "right",
         "image_size": "half",
         "disable_media_style": false,
-        "title": "BEFORE YOU GO",
+        "title": "PRE-WORKOUT\/RACE",
         "heading_size": "heading-template",
-        "richtext": "<p>For runners, hydration is a full-time-job. Plan ahead and sip on fluids with light electrolytes throughout the day. (Don’t procrastinate and wait to chug water right before going for a run.) Depending on your training load and environment, runners should drink between two to four liters of water over a 24-hour period.<\/p><p><\/p><p>Carbs are a runner’s best friend. It’s always a good idea to top off your energy stores before a run with a source of easily digestible carbohydrates. Avoid fiber and protein close to a run – they are harder to digest – and stick to the simple stuff like an Energy Stroopwafel 30- minutes before or an Energy Gel five-minutes before you get rolling.<\/p>",
+        "richtext": "<p>As a triathlete, you already have a lot on your plate with three disciplines to train for, but a little extra nutrition planning will pay dividends.<\/p><p><\/p><p>HYRDRATE: Sip on fluids with light electrolytes throughout the day. Don’t procrastinate and wait to chug water right before your workout or race. Depending on your training load and environment, triathletes should drink 2-4 liters of water over a 24-hour period.<\/p><p><\/p><p>FUEL: Carbs are a triathlete’s best friend. It’s always a good idea to top off your energy stores before a swim, ride, or run with a source of easily digestible carbohydrates. Avoid fiber and protein close to a workout – they are harder to digest – and stick to the simple stuff like an Energy Stroopwafel 30 minutes before or an Energy Gel five minutes before your training session.<\/p>",
         "text_alignment": "text-left",
         "button_link": "",
         "button_label": "Shop Now",
@@ -65,7 +65,7 @@
         "title": "",
         "subheading": "",
         "collection": "gels",
-        "no_products": 2,
+        "no_products": 3,
         "show_view_all": false,
         "enable_quick_buy": false,
         "display_on_card": true,
