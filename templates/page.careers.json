@@ -1,5 +1,14 @@
 {
   "sections": {
+    "1079592d-c585-4a74-bd26-731d278583a1": {
+      "type": "custom-liquid",
+      "settings": {
+        "title": "",
+        "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">CAREERS\n<\/h1>",
+        "full_width": false,
+        "color_scheme": "primary"
+      }
+    },
     "9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae": {
       "type": "three-div-and-text",
       "blocks": {
@@ -83,21 +92,12 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
-    },
-    "1079592d-c585-4a74-bd26-731d278583a1": {
-      "type": "custom-liquid",
-      "settings": {
-        "title": "",
-        "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold; \">CAREERS\n<\/h1>",
-        "full_width": false,
-        "color_scheme": "primary"
-      }
     }
   },
   "order": [
+    "1079592d-c585-4a74-bd26-731d278583a1",
     "9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae",
     "495f2a55-adac-4982-bf6b-1edf1c238745",
-    "main",
-    "1079592d-c585-4a74-bd26-731d278583a1"
+    "main"
   ]
 }
