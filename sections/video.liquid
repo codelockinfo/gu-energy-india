@@ -2,7 +2,7 @@
   assign ratio = section.settings.aspect_ratio | split: ':'
   assign ratio = ratio[1] | plus: 0.0 | divided_by: ratio[0] | plus: 0.0 | times: 100.0
 -%}
-<section class="customvedio relative grid text-scheme-text bg-scheme-background {% if section.settings.use_gradient_background %}bg-scheme-gradient{% endif %} overflow-hidden" data-color-scheme="{{ section.settings.color_scheme | default: 'primary' }}" >
+<section class="relative grid text-scheme-text bg-scheme-background {% if section.settings.use_gradient_background %}bg-scheme-gradient{% endif %} overflow-hidden" data-color-scheme="{{ section.settings.color_scheme | default: 'primary' }}" >
   
   <div class="section-content  {% if section.settings.style == 'inset' %}py-section-vertical-spacing{% endif %}">
     {% if section.settings.title != '' %}
