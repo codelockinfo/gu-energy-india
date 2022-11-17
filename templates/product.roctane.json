@@ -270,6 +270,13 @@
             "question": "How long does an Energy Gel take to work?",
             "answer": "Right away! The fructose converts quickly into an energy molecule that your muscles can tap within minutes. The maltodextrin, which makes up 70-80% of the carbohydrate blend (depending on flavor), takes several minutes longer. Because of this delay, your muscles enjoy a steady stream of energy instead of one gigantic sugar rush and a corresponding crash."
           }
+        },
+        "bc565988-8807-4982-9f99-3859392c779e": {
+          "type": "question",
+          "settings": {
+            "question": "Are Energy Gels safe for children?",
+            "answer": "Yes, if they’re playing sports, on a hike, or active, GU Energy Gels can help kids just as much as they help you. You may want to keep them away from flavors that contain caffeine, though."
+          }
         }
       },
       "block_order": [
@@ -282,7 +289,8 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-6",
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-7",
         "6f0c7fff-aabe-40b8-b7d2-e8a7fe1ecdc0",
-        "35414957-a274-4b2e-a219-bc5694a96c8f"
+        "35414957-a274-4b2e-a219-bc5694a96c8f",
+        "bc565988-8807-4982-9f99-3859392c779e"
       ],
       "settings": {
         "display_on_card": true,
