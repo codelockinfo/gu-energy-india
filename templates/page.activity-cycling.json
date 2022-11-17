@@ -11,7 +11,7 @@
     "50355dc3-b72a-4ce1-9350-cecbca09a639": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/running-01-1680x500_1_2400x_a96e9bdc-4115-4282-9fd3-98df45dbe29b.webp",
+        "image": "shopify:\/\/shop_images\/Mirinda-Carfrae-1-1-e1479151255288-1074x500_1_2400x_d53aa4e2-81b9-4809-8ca5-7002619e3214.webp",
         "display_on_card": false,
         "display_content_below_image_on_mobile": true,
         "style": "full",
@@ -23,7 +23,7 @@
         "richtext": "",
         "cta_url": "",
         "cta_text": "Shop Now",
-        "color_scheme": "primary",
+        "color_scheme": "secondary",
         "use_gradient_background": false,
         "text_overlay_color": "same_as_section"
       }
