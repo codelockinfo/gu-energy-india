@@ -4420,6 +4420,9 @@ width: 100%;
   flex: 0 0 10%;
   max-width: 10%;
 }
+.customguheader .opacity-100 {
+    opacity: 0;
+}
 /* cls 007 end */
 
 
