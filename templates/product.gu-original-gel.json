@@ -408,17 +408,6 @@
         "use_gradient_background": false
       }
     },
-    "720b0dac-5a01-4fbd-91c5-195f22359586": {
-      "type": "video",
-      "settings": {
-        "title": "",
-        "style": "full",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=CLa3PHHIxQE&ab_channel=GUEnergyLabs",
-        "aspect_ratio": "16:9",
-        "color_scheme": "primary",
-        "use_gradient_background": false
-      }
-    },
     "1a0f1639-80cb-47d7-bac4-c3da9aac57a9": {
       "type": "guidetabbing",
       "blocks": {
@@ -466,8 +455,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "4-5 Hours",
-            "heading": "",
-            "text1": ""
+            "imagemain1": "shopify:\/\/shop_images\/2017-Team-Every-Man-Jack-Las-Vegas-Training-Camp-for-Gu-Energy-Labs.-Photo-Myke-Hermsmeyer-40-of-428-1024x605_large_37a6cb21-77be-4bff-a871-a5be3c3b09b2.webp",
+            "heading": "4 - 5 Hours of effort",
+            "text1": "When you're exercising for five hours or more, consuming as much as your body can process can help maximize your performance. As a baseline, fuel with one ROCTANE Energy Gel five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. ",
+            "imagemain2": "shopify:\/\/shop_images\/Rebecca-Rybicki-e1548958456196_large_7f659029-3ea0-49f3-a464-d4e8619fe02c.webp"
           }
         }
       },
@@ -482,6 +473,17 @@
         "komet": "",
         "longdisc": ""
       }
+    },
+    "720b0dac-5a01-4fbd-91c5-195f22359586": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CLa3PHHIxQE&ab_channel=GUEnergyLabs",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -492,7 +494,7 @@
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "75d7a99b-c412-4db9-81e9-9d5d3bf7b287",
     "d5793c6d-275b-4872-bc42-e71031c8e63e",
-    "720b0dac-5a01-4fbd-91c5-195f22359586",
-    "1a0f1639-80cb-47d7-bac4-c3da9aac57a9"
+    "1a0f1639-80cb-47d7-bac4-c3da9aac57a9",
+    "720b0dac-5a01-4fbd-91c5-195f22359586"
   ]
 }
