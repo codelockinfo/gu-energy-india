@@ -4570,3 +4570,16 @@ p.longdisc {
 }
   
 }
+@media (min-width: 768px) and (max-width: 1023px) {
+   .image-planning{
+  width:100%;
+}
+    .image-planning{
+  width:100%;
+    margin-top:20px
+}
+  .main-planning{
+     padding: 24px;
+}
+  
+}
