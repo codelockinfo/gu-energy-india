@@ -1,0 +1,128 @@
+<div class="guidecontain">
+  <div class="guidetitle">
+      <h2 class="gudtabtitle">{{section.settings.komet}}</h2>
+      <p class="longdisc">{{section.settings.longdisc}}</p>
+  </div>
+
+
+<div class="guide-nav">
+          <ul class="grantlex">
+      {% for block in section.blocks %}    
+        <li class="gudenumber {% if forloop.first%} grandactive {% endif %}" data-tab="tab{{forloop.index}}">{{block.settings.grandtotal}}</a></li>
+    {% endfor %}
+</ul>
+
+</div>
+
+
+<div class="effortcontain">
+    {% for block in section.blocks %}
+    <div  class="mainflex  {% if forloop.first%} discriptactive {% endif %}"  id="tab{{forloop.index}}">
+    <div class="tabidotsflex">
+    <div class="width50">
+      <div class="width100" >
+        {%  if block.settings.imagemain1!= blank %}
+         <img src="{{ block.settings.imagemain1 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+    <div class="width50">
+      <div class="width100 maintext">
+      <h2>{{ block.settings.heading }}</h2>
+      <p>{{ block.settings.text1 }}</p>
+      <div>
+        {%  if block.settings.imagemain3!= blank %}
+         <img src="{{ block.settings.imagemain3 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+    </div>
+    <div class="width50">
+      <div class="width100">
+        {%  if block.settings.imagemain2!= blank %}
+         <img src="{{ block.settings.imagemain2 | img_url:'master'}}">
+         {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+    {% endfor %}
+  </div>
+</div>
+  {% schema %}
+     {
+      "name": "guidetabbing",
+      "settings": [
+      { 
+        "id" : "komet",
+         "type" : "text",
+         "label" : "Title"
+     },
+     { 
+      "id" : "longdisc",
+       "type" : "text",
+       "label" : "Sub Title"
+   }
+      ],
+        "blocks":[
+      {
+      "name":"block",
+      "type":"block",
+      "settings":[
+      { 
+        "id" : "grandtotal",
+         "type" : "text",
+         "label" : "Title heading"
+     },
+        { 
+           "id" : "imagemain1",
+            "type" : "image_picker",
+            "label" : "main image"
+        },
+        { 
+           "id" : "heading",
+            "type" : "text",
+            "label" : "heading"
+        },
+        { 
+           "id" : "text1",
+            "type" : "text",
+            "label" : "text"
+        },
+        { 
+           "id" : "imagemain3",
+            "type" : "image_picker",
+            "label" : "text image"
+        },
+        { 
+           "id" : "imagemain2",
+            "type" : "image_picker",
+            "label" : "image"
+        }
+
+
+      ]
+      }
+      ],
+      "presets" : [
+        {
+          "name" : "guidetabbing"
+        }
+      ]
+    }
+
+  {% endschema %}
+
+  <script>
+    $('.grantlex li ').click(function(f){
+      f.preventDefault();
+      console.log('hello');
+       var value = $(this).attr('data-tab');
+  
+    $('.mainflex.discriptactive').removeClass('discriptactive');
+  $("#"+value).addClass('discriptactive');
+  
+  $('.gudenumber.grandactive').removeClass('grandactive');
+   $(this).addClass('grandactive');
+   });
+  </script>
