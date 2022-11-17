@@ -140,11 +140,18 @@
           "settings": {
             "discript": "GU Roctane Energy Gels are crafted to supply both<b> energy<\/b> and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Our huge variety of delicious flavors will save you from flavor fatigue, so you can stick to your nutrition plan and keep going."
           }
+        },
+        "327368a0-fc14-4510-ad9e-1359dbb02c67": {
+          "type": "discription",
+          "settings": {
+            "discript": "<b>What’s the ROCTANE difference?<\/b> In short, ROCTANE Energy Gels are designed for long-duration and high-intensity activities, when you’re trying to up your mileage or push yourself further. But what does that really mean? It means that ROCTANE Energy Gels are packed with up to three times as much sodium (depending on the flavor), and three times as many branched-chain amino acids as compared to our original Energy Gels."
+          }
         }
       },
       "block_order": [
         "93408b3a-a97c-4522-9979-b66949720840",
-        "871c1b82-6fa2-4238-af8e-d7f49098bf12"
+        "871c1b82-6fa2-4238-af8e-d7f49098bf12",
+        "327368a0-fc14-4510-ad9e-1359dbb02c67"
       ],
       "settings": {
         "gel": "GU ROCTANE ENERGY GEL"
