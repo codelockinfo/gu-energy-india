@@ -4396,8 +4396,8 @@ span.clshr:after {
 .customfaq .max-w-7xl {
   max-width: 1120px;
 }
-.mainflex{
-      
+.tabidotsflex{
+  align-items: center;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -4413,15 +4413,105 @@ width: 100%;
 }
 .grantlex{
   display: flex;
-  /* justify-content: space-around; */
+  justify-content: center;
   flex-wrap: wrap;
+  margin: 3% 0;
 }
 .gudenumber{
   flex: 0 0 10%;
   max-width: 10%;
+  text-align: center;
+  border: 1px solid #1c1630;
+  margin: 0 10px;
+  padding: 9px 0px;
 }
 .customguheader .opacity-100 {
     opacity: 0;
+}
+.guidecontain {
+  max-width: 1500px;
+  margin: 5% auto;
+  padding: 0 15px;
+  width: 100%;
+  cursor: pointer;
+}
+.guidetitle {
+  text-align: center;
+ }
+ .gudtabtitle {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 45px;
+  margin-bottom: 12px;
+}
+.gudenumber.grandactive {
+  background-color: #1c1630;
+  color: #ffffff;
+}
+p.longdisc {
+  font-size: 16px;
+  color: #04bbd3;
+  line-height: 25px;
+}
+.width100.maintext h2 {
+  font-size: 24px;
+  line-height: 30px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+.width100.maintext p {
+  font-weight: normal;
+ }
+ .mainflex{
+  display: none;
+ }
+ .mainflex.discriptactive{
+  display: block;
+ }
+.customvedio{
+  max-width: 1400px;
+  margin: 0 auto 3%;
+}
+ @media (max-width: 1100px) {
+  .gudenumber {
+    flex: 0 0 15%;
+    max-width: 15%;
+  }
+
+ }
+ @media (max-width: 768px) {
+  .width50 {
+    width: 100%;
+  }
+  .width100 img {
+    margin: 0 auto;
+}
+.maintext{
+  margin: 5% 0px;
+}
+.gudenumber {
+  flex: 0 0 24%;
+  max-width: 20%;
+  margin-bottom: 10px;
+}
+.grantlex{
+  justify-content: flex-start;
+}
+}
+@media (max-width: 540px) {
+  .gudenumber {
+    flex: 0 0 30%;
+    max-width: 28%;
+  }
+  .grantlex {
+    justify-content: center;
+}
+}
+@media (max-width: 414px) {
+  .gudenumber {
+    flex: 0 0 50%;
+    max-width: 45%;
+}
 }
 /* cls 007 end */
 
@@ -4466,3 +4556,4 @@ width: 100%;
       height: 418px;
     object-fit: cover;
 }
+
