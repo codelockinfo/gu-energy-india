@@ -128,6 +128,52 @@
     },
     "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3": {
       "type": "geldiscription",
+      "blocks": {
+        "f0390680-b12c-4c57-ac70-51e62c7aa45b": {
+          "type": "title",
+          "settings": {
+            "roctin": "Bonking Doesn’t Solve Itself"
+          }
+        },
+        "6f44ac0c-0df7-4fb8-b213-60fd1fa74c51": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Energy Gels are crafted to supply both energy and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Our huge variety of delicious flavors will save you from flavor fatigue, so you can stick to your nutrition plan and keep goin"
+          }
+        },
+        "88c9b13f-a378-461d-af70-105cbe230aee": {
+          "type": "title",
+          "settings": {
+            "roctin": "The Original Energy Gel"
+          }
+        },
+        "d1d27806-84b2-4429-ac11-39b0694cb9e4": {
+          "type": "discription",
+          "settings": {
+            "discript": "Our Energy Gels delivery the ingredients you need packed in a form that’s tasty, portable, and easy-to-digest. It sounds simple, and it is for you. When you’re working out, you need easy-to-digest calories from carbohydrates that deliver immediate and sustained energy while reducing risk of stomach distress. When your fueled-up, you feel better and perform better"
+          }
+        },
+        "48c2675f-90ae-4149-8d6e-4044d443849c": {
+          "type": "title",
+          "settings": {
+            "roctin": "Family Owned & Made in Berkeley, CA"
+          }
+        },
+        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2": {
+          "type": "discription",
+          "settings": {
+            "discript": "Over 26 years ago, Dr. Bill Vaughan made the first Energy Gel to help his daughter, and ultramarathoner, get the fuel she needed for her long efforts through the mountains. We still make all our Energy Gels in our headquarters in Berkeley… if you’re ever in the neighborhood, come say hi!"
+          }
+        }
+      },
+      "block_order": [
+        "f0390680-b12c-4c57-ac70-51e62c7aa45b",
+        "6f44ac0c-0df7-4fb8-b213-60fd1fa74c51",
+        "88c9b13f-a378-461d-af70-105cbe230aee",
+        "d1d27806-84b2-4429-ac11-39b0694cb9e4",
+        "48c2675f-90ae-4149-8d6e-4044d443849c",
+        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2"
+      ],
       "settings": {
         "gel": "GU ENERGY GEL"
       }
@@ -305,6 +351,40 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287": {
+      "type": "tringle",
+      "blocks": {
+        "c8d01fba-b906-4912-9494-b4c194e6f0f2": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_043d1c30-8990-407e-bd51-9cdf819b9e49.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        },
+        "2e2506dd-e7a9-4a31-b1e4-a6b63f825e11": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_54ae7e06-38bd-4c92-bb72-acd1c11a74fc.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        },
+        "0f301e9a-fcba-43d6-89dc-8fb5eed90890": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-caffeine_2ec5a59c-1836-40fb-bb4f-28c4f84a77ed.png",
+            "discr": "Helps enhance performance by increasing focus and concentration while training or racing"
+          }
+        }
+      },
+      "block_order": [
+        "c8d01fba-b906-4912-9494-b4c194e6f0f2",
+        "2e2506dd-e7a9-4a31-b1e4-a6b63f825e11",
+        "0f301e9a-fcba-43d6-89dc-8fb5eed90890"
+      ],
+      "settings": {
+        "discr2": ""
+      }
     }
   },
   "order": [
@@ -312,6 +392,7 @@
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "4ec4c5bb-7c62-4f8d-bb52-bbff3724cba3",
     "product-recommendations",
-    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
+    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
+    "75d7a99b-c412-4db9-81e9-9d5d3bf7b287"
   ]
 }
