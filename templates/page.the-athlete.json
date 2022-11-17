@@ -1,1 +1,24 @@
-{"sections":{"30893da7-3ef4-40af-a7f4-6317827e1f0c":{"type":"blog-posts-new","settings":{"display_on_card":false,"title":"Blog posts","blog":"cla","post_limit":3,"crop":"aspect-w-4 aspect-h-3","image_shape":"default","blog_show_author":false,"blog_show_date":false,"show_post_excerpt":false,"show_view_all":false,"color_scheme":"primary","use_gradient_background":false}}},"order":["30893da7-3ef4-40af-a7f4-6317827e1f0c"]}
+{
+  "sections": {
+    "30893da7-3ef4-40af-a7f4-6317827e1f0c": {
+      "type": "blog-posts-new",
+      "settings": {
+        "display_on_card": false,
+        "title": "Blog posts",
+        "blog": "cla",
+        "post_limit": 3,
+        "crop": "aspect-w-4 aspect-h-3",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": false,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "30893da7-3ef4-40af-a7f4-6317827e1f0c"
+  ]
+}
