@@ -312,6 +312,13 @@
             "question": "Does one ROCTANE Energy Gel equal two GU Energy Gels?",
             "answer": "No. ROCTANE Energy Gel is designed to help provide added nutritional support for prolonged exercise, which is why there are additional amino acids and sodium. However, they have the same number of calories (100) per gel as our original Energy Gel."
           }
+        },
+        "cfdca0af-fad4-4d50-9f2b-fc9fac856bd8": {
+          "type": "question",
+          "settings": {
+            "question": "How will the added electrolytes and amino acids in ROCTANE Energy Gel benefit me?",
+            "answer": "ROCTANE contains more sodium than the original GU Energy Gel and sodium is the main electrolyte lost in sweat. Supplementation with sodium can help prevent cramping as well as minimize the chances of hyponatremia.<br><br>\nThe additional amino acids in ROCTANE Energy Gel serve several important functions, including acting as a fuel source for working muscle, and helping promote muscle recovery following exercise. ROCTANE Energy Gel contains branched-chain amino acids that have been shown to help prevent central fatigue by competing with tryptophan for transport across the blood brain barrier. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine)."
+          }
         }
       },
       "block_order": [
@@ -330,7 +337,8 @@
         "0eecd6e5-2285-4fb2-9de7-df7c974a9dff",
         "deef462c-cd9d-4134-89d3-4e02b7cd57af",
         "20838feb-7d6c-47ed-be60-c89100d047f0",
-        "0b3772fe-b526-4c21-bb0b-e55b1afcf641"
+        "0b3772fe-b526-4c21-bb0b-e55b1afcf641",
+        "cfdca0af-fad4-4d50-9f2b-fc9fac856bd8"
       ],
       "settings": {
         "display_on_card": true,
