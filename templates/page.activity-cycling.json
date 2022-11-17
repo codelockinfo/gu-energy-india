@@ -41,7 +41,7 @@
       "type": "image-with-text",
       "settings": {
         "display_on_card": false,
-        "image": "shopify:\/\/shop_images\/Our-Name_800x_8a526420-9451-4f9e-8968-89e09675e9f9.jpg",
+        "image": "shopify:\/\/shop_images\/thumbnail_800x_635cdfe1-25fd-45ac-9c42-3f37524fd602.webp",
         "crop": "",
         "image_shape": "default",
         "blob_type": 1,
@@ -51,7 +51,7 @@
         "disable_media_style": false,
         "title": "BEFORE YOU GO",
         "heading_size": "heading-template",
-        "richtext": "<p>For runners, hydration is a full-time-job. Plan ahead and sip on fluids with light electrolytes throughout the day. (Don’t procrastinate and wait to chug water right before going for a run.) Depending on your training load and environment, runners should drink between two to four liters of water over a 24-hour period.<\/p><p><\/p><p>Carbs are a runner’s best friend. It’s always a good idea to top off your energy stores before a run with a source of easily digestible carbohydrates. Avoid fiber and protein close to a run – they are harder to digest – and stick to the simple stuff like an Energy Stroopwafel 30- minutes before or an Energy Gel five-minutes before you get rolling.<\/p>",
+        "richtext": "<p>If you're logging hours in the saddle every week, sipping on fluids with light electrolytes throughout the day can keep you feeling good when it’s time to ride. Depending on your effort level and environment, cyclists should drink between two to four liters of water over a 24-hour period.<\/p><p><\/p><p>Carbs are your friend before any ride. It’s always a good idea to top off your energy stores before you hit the roads with a source of easily digestible carbohydrates. Avoid fiber and protein close to a ride – they are harder to digest – and stick to the simple stuff like an Energy Stroopwafel 30-minutes before or an Energy Gel five-minutes before you get rolling.<\/p>",
         "text_alignment": "text-left",
         "button_link": "",
         "button_label": "Shop Now",
