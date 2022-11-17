@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "display_on_card": true,
+        "display_on_card": false,
         "color_scheme": "primary",
         "use_gradient_background": false
       }
