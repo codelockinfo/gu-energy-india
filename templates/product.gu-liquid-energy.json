@@ -140,13 +140,65 @@
         "use_gradient_background": false
       }
     },
+    "d327ff17-c658-422b-98aa-e801aab5a5c0": {
+      "type": "geldiscription",
+      "blocks": {
+        "a2205bc8-a792-4f30-969c-50a4c9bb58ad": {
+          "type": "title",
+          "settings": {
+            "roctin": "Bonking Doesn’t Solve Itself"
+          }
+        },
+        "1512f3f3-1973-45ff-895b-ed722b998f95": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Liquid Energy Gels deliver the same benefits as our Original Energy Gels with energy from a precise blend of complex and simple carbohydrates that will fuel you up, so you feel good, longer. Along with energy, Liquid Energy Gels also deliver key nutrients like electrolytes and amino acids to maintain proper hydration and keep you moving strong."
+          }
+        },
+        "472f78a8-a3eb-4dec-8d06-b56ed40792ef": {
+          "type": "title",
+          "settings": {
+            "roctin": "The GU You Can Gulp"
+          }
+        },
+        "d34e687b-e261-4c39-b9b2-7a6df1682ec6": {
+          "type": "discription",
+          "settings": {
+            "discript": "Our Liquid Energy Gels are just that – liquid! Mixing up your nutrition plan with different form factors can actually impact your performance. That’s because you’re more likely to keep fueling, especially in later stages of a longer effort, when you have multiple form factors to choose from."
+          }
+        },
+        "aca4436f-9ec9-4a42-a784-c93ad59342b6": {
+          "type": "title",
+          "settings": {
+            "roctin": "We Feed the Need to Move"
+          }
+        },
+        "c8e88b89-d9a5-4f64-bee9-5928e7becf38": {
+          "type": "discription",
+          "settings": {
+            "discript": "We believe movement, in any form, can make us feel alive, healthy, and connected. When you’re moving and working out, you need easy-to-digest calories from carbohydrates that deliver immediate and sustained energy while reducing the risk of stomach distress. When you're fueled-up, you feel better and perform better."
+          }
+        }
+      },
+      "block_order": [
+        "a2205bc8-a792-4f30-969c-50a4c9bb58ad",
+        "1512f3f3-1973-45ff-895b-ed722b998f95",
+        "472f78a8-a3eb-4dec-8d06-b56ed40792ef",
+        "d34e687b-e261-4c39-b9b2-7a6df1682ec6",
+        "aca4436f-9ec9-4a42-a784-c93ad59342b6",
+        "c8e88b89-d9a5-4f64-bee9-5928e7becf38"
+      ],
+      "settings": {
+        "gel": "GU LIQUID ENERGY GEL"
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-0": {
           "type": "question",
           "settings": {
-            "question": "WHAT IS AN ENERGY GEL?12315",
+            "question": "WHAT IS AN ENERGY GEL?",
             "answer": "<p>Energy Gels provide portable and easy-to-digest calories from carbohydrates that deliver immediate and sustained energy without the stomach distress.<\/p><p>GU Energy Gels use a combination of simple and complex carbohydrates. Carbs become the main source of energy as our bodies transition from sedentary to an active state and exercise intensity increases.<\/p>"
           }
         },
@@ -305,6 +357,7 @@
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
+    "d327ff17-c658-422b-98aa-e801aab5a5c0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
   ]
 }
