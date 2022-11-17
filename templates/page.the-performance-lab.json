@@ -206,6 +206,72 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "0ae9c7f9-a75b-445d-bade-bc4a918ededa": {
+      "type": "multi-video-section",
+      "blocks": {
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
+            "testi-title": "A PASSION FOR INNOVATION",
+            "btn-url": "A Passion for Innovation: GU Endurance Lab - YouTube",
+            "color_title": "#FDB71D"
+          }
+        },
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
+            "testi-title": "EXAMINING THE BONK",
+            "btn-url": "Examining the Bonk: GU Endurance Lab - YouTube",
+            "color_title": "#FDB71D"
+          }
+        },
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-2": {
+          "type": "quote",
+          "settings": {
+            "testi-title": "name of text",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FDB71D"
+          }
+        },
+        "b2d5eec0-9aff-47f5-ba78-725a65159765": {
+          "type": "quote",
+          "settings": {
+            "testi-title": "name of text",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FDB71D"
+          }
+        },
+        "f6257562-24b7-43bb-8f6b-dc082f35a713": {
+          "type": "quote",
+          "settings": {
+            "testi-title": "name of text",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FDB71D"
+          }
+        },
+        "a2b657b4-0859-4b5c-b73c-bc2943ae7b84": {
+          "type": "quote",
+          "settings": {
+            "testi-title": "name of text",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FDB71D"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-0",
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-1",
+        "template--16016460644514__0ae9c7f9-a75b-445d-bade-bc4a918ededa-16686713394049460b-2",
+        "b2d5eec0-9aff-47f5-ba78-725a65159765",
+        "f6257562-24b7-43bb-8f6b-dc082f35a713",
+        "a2b657b4-0859-4b5c-b73c-bc2943ae7b84"
+      ],
+      "settings": {
+        "btnid": false
+      }
     }
   },
   "order": [
@@ -219,6 +285,7 @@
     "99cccbd9-819a-4223-80f2-c83327b72b1d",
     "eac0dd84-4616-4d25-ac23-1f4ba305ca04",
     "1545ec79-5c2a-4553-a694-e73ea74e9dd5",
-    "14ce44a6-1510-4db8-88cd-2f158d843d4d"
+    "14ce44a6-1510-4db8-88cd-2f158d843d4d",
+    "0ae9c7f9-a75b-445d-bade-bc4a918ededa"
   ]
 }
