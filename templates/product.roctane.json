@@ -426,12 +426,32 @@
             "text1": "As you increase duration, your body needs more. Eat an Energy Gel five-minutes before and every 45 minutes along the way. Grab a ROCTANE Energy Gel to add more BCAAs for your muscles and more electrolytes for hydration. Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours.",
             "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_44f6fcd6-c49f-41c1-b4d6-ba0f56a8fb8a.webp"
           }
+        },
+        "21c262e4-2b66-4215-b14b-8464f4706f64": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3-4 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large_large_b2319e66-1883-4417-90d9-d1d8beab22d0.webp",
+            "heading": "3 - 4 Hours of effort",
+            "text1": "When you're exercising for an hour or less, it's important to start your workout well hydrated and energized. Eat one Energy Gel five-minutes before you start to top off your energy stores. It's best to hydrate in the hours before you start, not right before you start. ",
+            "imagemain2": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_69aef52d-9c3b-451c-906d-ed70df218791.webp"
+          }
+        },
+        "49b5ef3e-1539-43a5-a2e3-ecf1fa08c5f2": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "",
+            "heading": "",
+            "text1": ""
+          }
         }
       },
       "block_order": [
         "56674d86-adae-4f41-90d5-6631d5fbd5f9",
         "0de66507-1328-44cf-8a6a-30c86d389a46",
-        "b87e9e62-3732-4ee6-996e-9eca037b50d1"
+        "b87e9e62-3732-4ee6-996e-9eca037b50d1",
+        "21c262e4-2b66-4215-b14b-8464f4706f64",
+        "49b5ef3e-1539-43a5-a2e3-ecf1fa08c5f2"
       ],
       "settings": {
         "komet": "GUIDES",
