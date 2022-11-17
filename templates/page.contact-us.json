@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "settings": {
         "title": "",
-        "custom_liquid": "<h1 style=\"text-align: center; font-size: 40px; margin: 62px 0px 0px 0px; font-weight: bold; \">HAVE A QUESTION? WE HOPE <br> WE CAN HELP!\n<\/h1>",
+        "custom_liquid": "<h1 style=\"text-align: center; font-size: 40px; margin: 0px 0px 0px 0px; font-weight: bold; \">HAVE A QUESTION? WE HOPE <br> WE CAN HELP!\n<\/h1>",
         "full_width": false,
         "color_scheme": "primary"
       }
