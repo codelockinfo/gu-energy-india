@@ -99,7 +99,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/DSC4530_Social-1024x682_1_600x_cbab79ba-bf92-46b5-8cc2-09f75bb28cb8.jpg",
             "testi-title": "WHY ELECTROLYTES",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-1": {
@@ -107,7 +107,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/i-dDtfBnJ-X3_edit_600x_549dbb23-fd11-4583-9a5d-c5c9568fb09f.png",
             "testi-title": "TO GLUTEN OR NOT",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16016460644514__8b3c66cc-b6fb-4dd0-944e-767bca58371b-1668598665e9ded6bc-2": {
@@ -115,7 +115,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/InnerAge_9a1ee1cc-56e8-4a31-b866-f67f57e76276.png",
             "testi-title": "THE AGELESS ATHLETE PROJECT",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "a289d4c0-18b2-4674-bdda-b3787f7c334e": {
@@ -123,7 +123,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/013_GU-FINAL-SELECTS_MTrappe_DSC7827-e1487719252943_1_1024x1024_8de4ff08-771a-4bf0-89cf-e6f4d5c77936.jpg",
             "testi-title": "BENEFITS OF BCAAS",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         }
       },
@@ -206,6 +206,46 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "d4a18e80-1204-4fff-904d-a2fb3c5a3c6e": {
+      "type": "three-div-and-text",
+      "blocks": {
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-0": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
+            "btn-title": "Learn More",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-1": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
+            "btn-title": "Learn More",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FFFFFF"
+          }
+        },
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-2": {
+          "type": "quote",
+          "settings": {
+            "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
+            "btn-title": "Learn More",
+            "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
+            "color_title": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-0",
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-1",
+        "template--16016460644514__d4a18e80-1204-4fff-904d-a2fb3c5a3c6e-1668664394fd696c79-2"
+      ],
+      "settings": {
+        "btnid": false
+      }
     }
   },
   "order": [
@@ -219,6 +259,7 @@
     "99cccbd9-819a-4223-80f2-c83327b72b1d",
     "eac0dd84-4616-4d25-ac23-1f4ba305ca04",
     "1545ec79-5c2a-4553-a694-e73ea74e9dd5",
-    "14ce44a6-1510-4db8-88cd-2f158d843d4d"
+    "14ce44a6-1510-4db8-88cd-2f158d843d4d",
+    "d4a18e80-1204-4fff-904d-a2fb3c5a3c6e"
   ]
 }
