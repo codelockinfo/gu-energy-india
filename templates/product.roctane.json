@@ -382,7 +382,7 @@
     "63a45c08-ecbc-498d-b926-e6178b573bd6": {
       "type": "image-with-text",
       "settings": {
-        "display_on_card": true,
+        "display_on_card": false,
         "image": "shopify:\/\/shop_images\/Mirinda_Carfrae_Banner_2000x_38989d03-4a36-4b95-abde-fb29ea6622f9.jpg",
         "crop": "",
         "image_shape": "default",
@@ -395,9 +395,9 @@
         "heading_size": "heading-template",
         "richtext": "<p>MIRINDA CARFRAE<\/p>",
         "text_alignment": "text-left",
-        "button_link": "",
-        "button_label": "Shop Now",
-        "color_scheme": "primary",
+        "button_link": "#",
+        "button_label": "Get to Know Them",
+        "color_scheme": "secondary",
         "use_gradient_background": false
       }
     }
