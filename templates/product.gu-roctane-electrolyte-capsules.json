@@ -140,6 +140,52 @@
         "use_gradient_background": false
       }
     },
+    "03c30828-292f-43ec-be7f-b0f2c7b122de": {
+      "type": "geldiscription",
+      "blocks": {
+        "920b9b15-0216-4760-8746-e44e45ddc8b2": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "roctin": ""
+          }
+        },
+        "409bc4b6-4d53-4d3f-8c76-4e601168095e": {
+          "type": "discription",
+          "settings": {
+            "discript": "ROCTANE Electrolyte Capsules help replace what you lose when you sweat to keep you feeling strong and feeling good. Take 1-2 capsules per hour during high-intensity activity and consume with at least 3-4 oz of water as part of your hydration plan. (We recommend drinking at least 16 oz of fluids per hour during exercise.)"
+          }
+        },
+        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50": {
+          "type": "title",
+          "settings": {
+            "roctin": "Here’s what’s inside:"
+          }
+        },
+        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a": {
+          "type": "discription",
+          "settings": {
+            "discript": "- Electrolytes (sodium, magnesium, chloride) to aid in hydration by maintaining fluid balance and plasma volume.†<br>\n- Vitamin D, which is important for calcium absorption and bone health.†<br>\n- Vitamin B6 to help improve your energy metabolism."
+          }
+        },
+        "76622877-ad09-438d-9d9f-da72cea36ad9": {
+          "type": "discription",
+          "settings": {
+            "discript": "† These statements have not been evaluated by the Food and Drug Administration.  This product is not intended to diagnose, treat, cure or prevent any disease."
+          }
+        }
+      },
+      "block_order": [
+        "920b9b15-0216-4760-8746-e44e45ddc8b2",
+        "409bc4b6-4d53-4d3f-8c76-4e601168095e",
+        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50",
+        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a",
+        "76622877-ad09-438d-9d9f-da72cea36ad9"
+      ],
+      "settings": {
+        "gel": "LESS CRAMPING, BETTER PERFORMANCE"
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -220,50 +266,11 @@
         "use_gradient_background": false
       }
     },
-    "03c30828-292f-43ec-be7f-b0f2c7b122de": {
-      "type": "geldiscription",
-      "blocks": {
-        "920b9b15-0216-4760-8746-e44e45ddc8b2": {
-          "type": "title",
-          "disabled": true,
-          "settings": {
-            "roctin": ""
-          }
-        },
-        "409bc4b6-4d53-4d3f-8c76-4e601168095e": {
-          "type": "discription",
-          "settings": {
-            "discript": "ROCTANE Electrolyte Capsules help replace what you lose when you sweat to keep you feeling strong and feeling good. Take 1-2 capsules per hour during high-intensity activity and consume with at least 3-4 oz of water as part of your hydration plan. (We recommend drinking at least 16 oz of fluids per hour during exercise.)"
-          }
-        },
-        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50": {
-          "type": "title",
-          "settings": {
-            "roctin": "Here’s what’s inside:"
-          }
-        },
-        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a": {
-          "type": "discription",
-          "settings": {
-            "discript": "- Electrolytes (sodium, magnesium, chloride) to aid in hydration by maintaining fluid balance and plasma volume.†<br>\n- Vitamin D, which is important for calcium absorption and bone health.†<br>\n- Vitamin B6 to help improve your energy metabolism."
-          }
-        },
-        "76622877-ad09-438d-9d9f-da72cea36ad9": {
-          "type": "discription",
-          "settings": {
-            "discript": "† These statements have not been evaluated by the Food and Drug Administration.  This product is not intended to diagnose, treat, cure or prevent any disease."
-          }
-        }
-      },
-      "block_order": [
-        "920b9b15-0216-4760-8746-e44e45ddc8b2",
-        "409bc4b6-4d53-4d3f-8c76-4e601168095e",
-        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50",
-        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a",
-        "76622877-ad09-438d-9d9f-da72cea36ad9"
-      ],
+    "3b526477-492f-4813-b77d-aba12bd42bce": {
+      "type": "guidetabbing",
       "settings": {
-        "gel": "LESS CRAMPING, BETTER PERFORMANCE"
+        "komet": "GUIDES",
+        "longdisc": "HOW LONG ARE YOU GOING"
       }
     }
   },
@@ -271,7 +278,8 @@
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
+    "03c30828-292f-43ec-be7f-b0f2c7b122de",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "03c30828-292f-43ec-be7f-b0f2c7b122de"
+    "3b526477-492f-4813-b77d-aba12bd42bce"
   ]
 }
