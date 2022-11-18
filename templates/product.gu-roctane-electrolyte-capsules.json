@@ -29,7 +29,7 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "drop_down",
+            "option_style": "buttons",
             "hide_option_labels": false,
             "enable_color_swatches": false
           }
@@ -146,8 +146,8 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-0": {
           "type": "question",
           "settings": {
-            "question": "WHAT IS AN ENERGY GEL?",
-            "answer": "<p>Energy Gels provide portable and easy-to-digest calories from carbohydrates that deliver immediate and sustained energy without the stomach distress.<\/p><p>GU Energy Gels use a combination of simple and complex carbohydrates. Carbs become the main source of energy as our bodies transition from sedentary to an active state and exercise intensity increases.<\/p>"
+            "question": "WHAT WOULD WARRANT THE NEED FOR THIS PRODUCT? WHY WAS IT CREATED? ",
+            "answer": "<p>Created to supplement additional electrolyte replacement needs, GU ROCTANE Electrolyte Capsules provide added electrolyte support on top of our hydration-drink products.<\/p><p>Each bottle includes 50 capsules that are packed with electrolytes (sodium, magnesium, chloride) to aid in hydration by maintaining water balance and plasma volume.<\/p><p>Vitamin D is important for calcium absorption and bone health. Take GU ROCTANE Electrolyte Capsules before, during, or after exercise to replenish electrolyte levels from any energy-demanding activity resulting in sweat loss.<\/p><p>If you’re pushing yourself in hot or humid conditions, it’s easy to become dehydrated. When you’re dehydrated, your performance suffers, you become fatigued faster, and you can get cramps or headaches.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-1": {
