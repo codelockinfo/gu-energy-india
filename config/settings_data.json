@@ -64,7 +64,7 @@
     "media_border_radius": "0.375rem",
     "media_border_width": 2,
     "media_border_color": "color-scheme-text",
-    "media_drop_shadow_size": 6,
+    "media_drop_shadow_size": 0,
     "media_shadow_style": "full",
     "media_shadow_color": "color-scheme-gradient",
     "media_shadow_direction": "bottom",
