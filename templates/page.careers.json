@@ -6,7 +6,7 @@
         "title": "",
         "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">CAREERS\n<\/h1>",
         "full_width": false,
-        "color_scheme": "primary"
+        "color_scheme": "tertiary"
       }
     },
     "9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae": {
@@ -18,7 +18,7 @@
             "testi-img": "shopify:\/\/shop_images\/ezgif-1-75c6ce0fac.jpg",
             "btn-title": "Learn More",
             "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16017546117282__9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae-1668665954db3ce883-1": {
@@ -27,7 +27,7 @@
             "testi-img": "shopify:\/\/shop_images\/ezgif-1-c954c57b09.jpg",
             "btn-title": "Learn More",
             "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "template--16017546117282__9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae-1668665954db3ce883-2": {
@@ -36,7 +36,7 @@
             "testi-img": "shopify:\/\/shop_images\/ezgif-1-0e189cefa0.png",
             "btn-title": "Learn More",
             "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "48dfdca4-49c0-497c-a7f4-c86b5dee0e1c": {
@@ -45,7 +45,7 @@
             "testi-img": "shopify:\/\/shop_images\/ezgif-1-2716d3b549.jpg",
             "btn-title": "Learn More",
             "btn-url": "",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         },
         "e37bc9d0-2195-4df4-b3d9-5bbfdb29f5f2": {
@@ -55,7 +55,7 @@
             "testi-img": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
             "btn-title": "",
             "btn-url": "https:\/\/gu-energy-india.myshopify.com\/pages\/nutrition-tips",
-            "color_title": "#FFFFFF"
+            "color_title": "#ffffff"
           }
         }
       },
@@ -80,7 +80,7 @@
         "content_width_desktop": "lg:w-2\/3",
         "button_link": "",
         "button_label": "Shop Now",
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     },
