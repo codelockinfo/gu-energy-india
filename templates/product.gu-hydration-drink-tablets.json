@@ -302,6 +302,24 @@
     },
     "181d154b-8a7e-4535-b502-4962d48547f0": {
       "type": "geldiscription",
+      "blocks": {
+        "938cd65f-2d68-4ca6-87a0-0db0492e8c01": {
+          "type": "title",
+          "settings": {
+            "roctin": "Pop, Drop, & GO."
+          }
+        },
+        "4645f6d5-e730-4dde-8a61-3b8885de78be": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Hydration Drink Tabs are designed to keep you hydrated during any activity and in all conditions. Tablets are easily dissolved in 16 ounces of water, perfect for dropping into a sport bottle or bike bottle for hydration on-the-go. The light, effervescent tablets are also appropriate for everyday use, during training, travel, and hot weather, or anytime you need a hydration boost. The 12-tablet portable tubes easily fit in pockets, jerseys, and running belts. All flavors are caffeine-free and made with vegan ingredients."
+          }
+        }
+      },
+      "block_order": [
+        "938cd65f-2d68-4ca6-87a0-0db0492e8c01",
+        "4645f6d5-e730-4dde-8a61-3b8885de78be"
+      ],
       "settings": {
         "gel": "GU HYDRATION DRINK TABS"
       }
