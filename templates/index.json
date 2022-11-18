@@ -957,7 +957,7 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "drop_down",
+            "option_style": "buttons",
             "hide_option_labels": true,
             "enable_color_swatches": false
           }
