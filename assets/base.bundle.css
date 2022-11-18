@@ -4474,9 +4474,10 @@ p.longdisc {
     opacity: 0;
 }
 .clsroctain .customchild{
-      display: flex;
-    width: 50%;
+     display: flex;
+    width: 65%;
     margin: 0 auto;
+    justify-content: space-evenly;
 }
  @media (max-width: 1100px) {
   .gudenumber {
