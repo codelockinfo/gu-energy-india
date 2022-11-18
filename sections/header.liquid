@@ -139,7 +139,7 @@
                 <span class="inline-block w-2 h-2 align-middle svg-scale mr-1 transform origin-center rotate transition duration-150 ml-1" :class="{'rotate-180': menuOpen.menu{{ counter }}}">{% render 'icon-chevron-down' %}</span>
               </span>
             </button>
-            <div class="no-js-focus-container absolute left-0 bottom-0 w-full py-section-vertical-spacing px-section transform translate-y-[calc(100%-var(--drop-down-offset))] z-100 {% if layout contains 'navigation_center' %}text-center{% elsif layout contains 'navigation_right'%}text-right{% endif %} max-h-three-quarters-screen-height overflow-hidden overflow-y-auto {{ dropdown_background }}  {{ dropdown_text }}"
+            <div class="clsroctain no-js-focus-container absolute left-0 bottom-0 w-full py-section-vertical-spacing px-section transform translate-y-[calc(100%-var(--drop-down-offset))] z-100 {% if layout contains 'navigation_center' %}text-center{% elsif layout contains 'navigation_right'%}text-right{% endif %} max-h-three-quarters-screen-height overflow-hidden overflow-y-auto {{ dropdown_background }}  {{ dropdown_text }}"
                   id="menu{{ counter }}"
                   x-cloak
                   x-show="menuOpen.menu{{ counter }}"
