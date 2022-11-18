@@ -228,5 +228,12 @@
       {%- endif -%}
       {%- render 'static-sticker-defs' with shape: settings.metafield_badge_shape, id: 'metafield-badge' -%}
       {% comment %}theme-check-enable MissingTemplate{% endcomment %}
+
+
+      <script>
+        $("p").hover(function(){
+  alert("The paragraph was clicked.");
+});
+      </script>
     </body>
   </html>
