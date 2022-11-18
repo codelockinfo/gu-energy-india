@@ -186,7 +186,7 @@
                 endif
               %}
               {%- unless is_feature_collection_link %}
-              <ul class=" clsdv {{ list_class }} {% if layout contains 'navigation_center' %}text-center{% else %}text-left{% endif %}">
+              <ul class="{{ list_class }} {% if layout contains 'navigation_center' %}text-center{% else %}text-left{% endif %}">
 
                 {% comment %}theme-check-enable LiquidTag{% endcomment %}
                 {% for child_link in link.links %}
