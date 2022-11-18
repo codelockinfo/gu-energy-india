@@ -171,6 +171,12 @@
         "gel": ""
       }
     },
+    "57e96b3d-b0f5-4d83-b2a0-5ffca646dae7": {
+      "type": "tringle",
+      "settings": {
+        "discr2": ""
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -350,6 +356,7 @@
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "bdaedaf7-49a0-4922-997b-0c1f32c95b53",
+    "57e96b3d-b0f5-4d83-b2a0-5ffca646dae7",
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
   ]
