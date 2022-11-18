@@ -313,16 +313,20 @@
           "type": "block",
           "settings": {
             "grandtotal": "3-4Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large_large_251bd4ce-0abb-449b-ae6d-0697c1ef8027.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_7d755876-6834-42dc-a66a-8b389f90e668.jpg"
           }
         },
         "7b93fd3d-aa64-4771-8bd2-1f6652830bc9": {
           "type": "block",
           "settings": {
             "grandtotal": "4-5Hours",
+            "imagemain1": "shopify:\/\/shop_images\/2017-Team-Every-Man-Jack-Las-Vegas-Training-Camp-for-Gu-Energy-Labs.-Photo-Myke-Hermsmeyer-40-of-428-1024x605_large_a17987ab-f454-4f9c-8603-809dd2600bdd.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Rebecca-Rybicki-e1548958456196_large_b18471a4-cdd3-4ecc-97a4-c1feae17f7f5.jpg"
           }
         }
       },
