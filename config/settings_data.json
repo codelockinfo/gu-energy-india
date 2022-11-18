@@ -1,7 +1,7 @@
 {
   "current": {
     "color_primary_text": "#0e1732",
-    "color_primary_background": "#fd795b",
+    "color_primary_background": "#ffffff",
     "color_primary_accent": "#ff4f61",
     "color_primary_card": "#ffffff",
     "color_primary_gradient": "linear-gradient(180deg, rgba(221, 255, 119, 1) 10%, rgba(253, 116, 87, 1) 54%, rgba(239, 73, 90, 1) 92%)",
