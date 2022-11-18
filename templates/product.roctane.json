@@ -372,7 +372,7 @@
       "settings": {
         "display_on_card": false,
         "heading_text_style": "body",
-        "two_columns_desktop": false,
+        "two_columns_desktop": true,
         "title": "FAQ",
         "richtext": "<p>Find the most frequently asked questions below.<\/p>",
         "color_scheme": "tertiary",
