@@ -71,7 +71,7 @@
         "media_mobile_width": "w-full",
         "thumbnails_position": "left",
         "thumbnail_crop": "aspect-w-1 aspect-h-1",
-        "thumbnail_shape": "heptagon",
+        "thumbnail_shape": "default",
         "hide_media_shadow": false,
         "thumbnail_size": "large",
         "show_thumbnails_on_mobile": false,
