@@ -29,7 +29,7 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "buttons",
+            "option_style": "drop_down",
             "hide_option_labels": false,
             "enable_color_swatches": false
           }
@@ -71,7 +71,7 @@
         "media_mobile_width": "w-full",
         "thumbnails_position": "left",
         "thumbnail_crop": "aspect-w-1 aspect-h-1",
-        "thumbnail_shape": "default",
+        "thumbnail_shape": "heptagon",
         "hide_media_shadow": false,
         "thumbnail_size": "large",
         "show_thumbnails_on_mobile": false,
@@ -81,7 +81,6 @@
     },
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-0": {
           "type": "testimonial",
