@@ -340,8 +340,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "3-4Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large_large_251bd4ce-0abb-449b-ae6d-0697c1ef8027.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_7d755876-6834-42dc-a66a-8b389f90e668.jpg"
           }
         },
         "31e90730-4362-46bc-84cc-8ee715113501": {
