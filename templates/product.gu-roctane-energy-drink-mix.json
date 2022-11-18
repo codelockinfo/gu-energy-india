@@ -198,6 +198,23 @@
         "discr2": ""
       }
     },
+    "6a38422a-70a9-46b8-b75b-96d88597cde0": {
+      "type": "geldiscription",
+      "blocks": {
+        "f60866c4-65d4-48b3-b105-e6b80db12757": {
+          "type": "discription",
+          "settings": {
+            "discript": "✝ These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. * Some flavors with caffeine, some flavors without added caffeine"
+          }
+        }
+      },
+      "block_order": [
+        "f60866c4-65d4-48b3-b105-e6b80db12757"
+      ],
+      "settings": {
+        "gel": ""
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -365,6 +382,7 @@
     "product-recommendations",
     "73d55a79-2f2a-4d75-85fc-cea06db29791",
     "f6f53951-0004-4269-a9b9-ce278ceb8b43",
+    "6a38422a-70a9-46b8-b75b-96d88597cde0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
   ]
 }
