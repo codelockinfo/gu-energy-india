@@ -280,20 +280,6 @@
             "question": "Is ROCTANE Energy Drink gluten-free, vegan-friendly, and kosher certified?",
             "answer": "<p>Yes, to all of the above!                      <\/p>"
           }
-        },
-        "48a3ab3a-938b-447c-bbdd-54e70c1be370": {
-          "type": "question",
-          "settings": {
-            "question": "HOW LONG DOES AN ENERGY GEL TAKE TO WORK?",
-            "answer": "<p>Right away! The fructose converts quickly into an energy molecule that your muscles can tap within minutes. The maltodextrin, which makes up 70-80% of the carbohydrate blend (depending on flavor), takes several minutes longer. Because of this delay, your muscles enjoy a steady stream of energy instead of one gigantic sugar rush and a corresponding crash.<\/p>"
-          }
-        },
-        "6cd70032-fb2a-48e6-b27b-8b846910f967": {
-          "type": "question",
-          "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -305,9 +291,7 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-5",
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-6",
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-7",
-        "27f762fc-c580-4269-b289-da9d334708a4",
-        "48a3ab3a-938b-447c-bbdd-54e70c1be370",
-        "6cd70032-fb2a-48e6-b27b-8b846910f967"
+        "27f762fc-c580-4269-b289-da9d334708a4"
       ],
       "settings": {
         "display_on_card": true,
