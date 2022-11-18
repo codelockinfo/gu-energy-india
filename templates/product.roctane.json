@@ -173,6 +173,18 @@
     },
     "57e96b3d-b0f5-4d83-b2a0-5ffca646dae7": {
       "type": "tringle",
+      "blocks": {
+        "bbf86d00-ca9d-4de7-8580-aa28840f7b9b": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_f5534e8f-76ff-40b4-aba9-854ad1b9a255.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        }
+      },
+      "block_order": [
+        "bbf86d00-ca9d-4de7-8580-aa28840f7b9b"
+      ],
       "settings": {
         "discr2": ""
       }
