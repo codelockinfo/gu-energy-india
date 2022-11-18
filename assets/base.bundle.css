@@ -4500,7 +4500,9 @@ p.longdisc {
     font-size: 35px;
     line-height: 40px;
 }
-
+.sportmg {
+    margin: 0 auto;
+}
 
 
 /* media */
