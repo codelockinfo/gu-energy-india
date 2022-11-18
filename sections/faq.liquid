@@ -2,7 +2,7 @@
   assign block_heading_level = 'h2'
 -%}
 
-<section class="relative text-scheme-text bg-scheme-background overflow-hidden {% if section.settings.use_gradient_background %}bg-scheme-gradient{% endif %}" data-color-scheme="{{ section.settings.color_scheme | default: 'primary' }}">
+<section class="customfaq relative text-scheme-text bg-scheme-background overflow-hidden {% if section.settings.use_gradient_background %}bg-scheme-gradient{% endif %}" data-color-scheme="{{ section.settings.color_scheme | default: 'primary' }}">
   
   <div class="section-content max-w-site mx-auto px-section relative z-10 py-section-vertical-spacing">
     {% if section.settings.title != blank %}
