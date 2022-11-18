@@ -4318,6 +4318,7 @@ body {
   border: 1px solid #000000;
   margin-bottom: 20px;
       border-radius: 5px;
+      padding: 1rem;
 }
 .customfaq .gap-theme {
   gap: 18px;
