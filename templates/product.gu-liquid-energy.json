@@ -352,6 +352,40 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "478a1bb2-0fae-46bf-b574-91604f3615ed": {
+      "type": "tringle",
+      "blocks": {
+        "0fcd8d5a-6000-4956-8a48-6b79b1f1ad41": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_f5534e8f-76ff-40b4-aba9-854ad1b9a255.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        },
+        "09123e1e-070f-41c8-b229-43a16742860f": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_f71e5c3a-adc6-449a-ab79-a9fb6ae5ae73.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        },
+        "38fdc4a9-2faf-4452-b5c5-6649f0c36076": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-caffeine_b565abf4-37d5-445b-9d07-d4d600a2b7df.png",
+            "discr": "Helps enhance performance by increasing focus and concentration while training or racing"
+          }
+        }
+      },
+      "block_order": [
+        "0fcd8d5a-6000-4956-8a48-6b79b1f1ad41",
+        "09123e1e-070f-41c8-b229-43a16742860f",
+        "38fdc4a9-2faf-4452-b5c5-6649f0c36076"
+      ],
+      "settings": {
+        "discr2": ""
+      }
     }
   },
   "order": [
@@ -359,6 +393,7 @@
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
     "d327ff17-c658-422b-98aa-e801aab5a5c0",
-    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
+    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
+    "478a1bb2-0fae-46bf-b574-91604f3615ed"
   ]
 }
