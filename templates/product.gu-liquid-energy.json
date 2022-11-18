@@ -143,6 +143,12 @@
     "d327ff17-c658-422b-98aa-e801aab5a5c0": {
       "type": "geldiscription",
       "blocks": {
+        "c7033214-0278-40ec-aeda-943086e44d7a": {
+          "type": "image",
+          "settings": {
+            "gelmg": "shopify:\/\/shop_images\/Liquid_Energy_Announcement_Photos_Myke_Hermsmeyer-39_480x480_a3cb9608-905b-4763-af3d-602b9182083d.jpg"
+          }
+        },
         "a2205bc8-a792-4f30-969c-50a4c9bb58ad": {
           "type": "title",
           "settings": {
@@ -181,6 +187,7 @@
         }
       },
       "block_order": [
+        "c7033214-0278-40ec-aeda-943086e44d7a",
         "a2205bc8-a792-4f30-969c-50a4c9bb58ad",
         "1512f3f3-1973-45ff-895b-ed722b998f95",
         "472f78a8-a3eb-4dec-8d06-b56ed40792ef",
