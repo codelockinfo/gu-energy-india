@@ -164,6 +164,12 @@
           "settings": {
             "discript": "A refreshing take on our original gels crafted to help you fine-tune your nutrition planning. A tasty form factor that provides a refreshing alternative to power your strong finish-line kicks, or to simply complete a long training day with confidence. Mixing up your nutrition form factors will help keep you fueled and perform better."
           }
+        },
+        "512ee16c-8450-4c2b-b646-9528dc2c3dd8": {
+          "type": "title",
+          "settings": {
+            "roctin": "ROCTANE Energy Gel"
+          }
         }
       },
       "block_order": [
@@ -172,7 +178,8 @@
         "88c9b13f-a378-461d-af70-105cbe230aee",
         "d1d27806-84b2-4429-ac11-39b0694cb9e4",
         "48c2675f-90ae-4149-8d6e-4044d443849c",
-        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2"
+        "1e7f7b13-4873-4b11-9b00-aad9ce09b4e2",
+        "512ee16c-8450-4c2b-b646-9528dc2c3dd8"
       ],
       "settings": {
         "gel": "GU ENERGY GEL"
