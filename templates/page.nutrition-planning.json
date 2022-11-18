@@ -14,9 +14,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/nutrition-planning-header-01-1680x360_1_2400x_82475553-62e6-447b-b273-8d998c21f53f.jpg",
         "display_on_card": false,
-        "display_content_below_image_on_mobile": true,
+        "display_content_below_image_on_mobile": false,
         "style": "full",
-        "height": "pt-two-thirds-screen-height",
+        "height": "natural",
         "place_content": "place-content-center-center",
         "text_align": "text-center",
         "title": "Nutrition Planning",
