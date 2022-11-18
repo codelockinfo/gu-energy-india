@@ -146,12 +146,19 @@
           "settings": {
             "roctin": "What’s the ROCTANE difference?"
           }
+        },
+        "f535431c-e203-4109-88f8-f0b9efa67706": {
+          "type": "discription",
+          "settings": {
+            "discript": "In short, ROCTANE Energy Gels are designed for long-duration and high-intensity activities, when you’re trying to up your mileage or push yourself further. But what does that really mean? It means that ROCTANE Energy Gels are packed with up to three times as much sodium (depending on the flavor), and three times as many branched-chain amino acids as compared to our original Energy Gels."
+          }
         }
       },
       "block_order": [
         "cd02f08e-fa50-4928-a671-85452f9edcba",
         "be4fa549-0db1-4d0a-b03e-1396e1841b16",
-        "c299d2af-51e0-4a0b-a899-0e162db36075"
+        "c299d2af-51e0-4a0b-a899-0e162db36075",
+        "f535431c-e203-4109-88f8-f0b9efa67706"
       ],
       "settings": {
         "gel": ""
