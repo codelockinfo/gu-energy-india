@@ -331,6 +331,17 @@
         "komet": "GUIDES",
         "longdisc": "HOW LONG ARE YOU GOING"
       }
+    },
+    "f3373a00-abcd-40a7-8ded-a7ba96dcb128": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=3p5opLkOmCY&ab_channel=GUEnergyLabs",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -339,6 +350,7 @@
     "product-recommendations",
     "03c30828-292f-43ec-be7f-b0f2c7b122de",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "3b526477-492f-4813-b77d-aba12bd42bce"
+    "3b526477-492f-4813-b77d-aba12bd42bce",
+    "f3373a00-abcd-40a7-8ded-a7ba96dcb128"
   ]
 }
