@@ -303,6 +303,27 @@
         "use_gradient_background": false
       }
     },
+    "aaec2fe3-4ea1-4e4e-8587-2c9677104a73": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "third",
+        "disable_media_style": false,
+        "title": "FEATURED ATHLETE",
+        "heading_size": "heading-template",
+        "richtext": "",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/blogs\/cla\/the-gud-life-rocky-mountain-high",
+        "button_label": "GET TO KNOW THEM",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
     "12a7cf36-0c76-4411-b8c2-eda2be8f965f": {
       "type": "guidetabbing",
       "blocks": {
@@ -369,27 +390,6 @@
         "longdisc": ""
       }
     },
-    "aaec2fe3-4ea1-4e4e-8587-2c9677104a73": {
-      "type": "image-with-text",
-      "settings": {
-        "display_on_card": false,
-        "crop": "",
-        "image_shape": "default",
-        "blob_type": 1,
-        "rotate_image": 0,
-        "image_position": "left",
-        "image_size": "third",
-        "disable_media_style": false,
-        "title": "FEATURED ATHLETE",
-        "heading_size": "heading-template",
-        "richtext": "",
-        "text_alignment": "text-left",
-        "button_link": "shopify:\/\/blogs\/cla\/the-gud-life-rocky-mountain-high",
-        "button_label": "GET TO KNOW THEM",
-        "color_scheme": "secondary",
-        "use_gradient_background": false
-      }
-    },
     "45b07217-5aac-4b28-a185-5f5547ec1240": {
       "type": "video",
       "settings": {
@@ -410,8 +410,8 @@
     "f6f53951-0004-4269-a9b9-ce278ceb8b43",
     "6a38422a-70a9-46b8-b75b-96d88597cde0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "12a7cf36-0c76-4411-b8c2-eda2be8f965f",
     "aaec2fe3-4ea1-4e4e-8587-2c9677104a73",
+    "12a7cf36-0c76-4411-b8c2-eda2be8f965f",
     "45b07217-5aac-4b28-a185-5f5547ec1240"
   ]
 }
