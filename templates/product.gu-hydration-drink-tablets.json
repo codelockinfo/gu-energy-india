@@ -65,7 +65,7 @@
         "image_shape": "default",
         "desktop_media_width": "lg:col-span-7_lg:col-span-5",
         "show_slideshow_arrows_on_desktop": false,
-        "enable_image_zoom": false,
+        "enable_image_zoom": true,
         "enable_video_looping": true,
         "autoplay_videos_on_desktop": true,
         "media_mobile_width": "w-full",
@@ -347,9 +347,10 @@
       "settings": {
         "title": "",
         "style": "full",
+        "cover_image": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=LCML1GIMgKI&ab_channel=GUEnergyLabs",
         "aspect_ratio": "16:9",
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
