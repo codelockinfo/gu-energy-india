@@ -140,11 +140,18 @@
           "settings": {
             "discript": "GU Roctane Energy Gels are crafted to supply both <b>energy<\/b> and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Our huge variety of delicious flavors will save you from flavor fatigue, so you can stick to your nutrition plan and keep going."
           }
+        },
+        "c299d2af-51e0-4a0b-a899-0e162db36075": {
+          "type": "title",
+          "settings": {
+            "roctin": "What’s the ROCTANE difference?"
+          }
         }
       },
       "block_order": [
         "cd02f08e-fa50-4928-a671-85452f9edcba",
-        "be4fa549-0db1-4d0a-b03e-1396e1841b16"
+        "be4fa549-0db1-4d0a-b03e-1396e1841b16",
+        "c299d2af-51e0-4a0b-a899-0e162db36075"
       ],
       "settings": {
         "gel": ""
