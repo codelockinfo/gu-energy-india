@@ -17,6 +17,11 @@
         <div class="gelltitle">
             <p class="geltdicript">{{block.settings.discript}}</p>
         </div>
+
+           {% when 'image' %}
+        <div class="gellimage">
+            <img src="{{ block.settings.gelmg | img_url:'master'}}" class="sportmg">
+        </div>
         {% endcase %}
         {% endfor %}
     </div>
@@ -53,6 +58,17 @@
         "type": "textarea",
         "label": "Discription"
       } 
+    ]
+  },
+    {
+    "type": "image",
+    "name": "image",
+    "settings": [
+    {
+   "id": "gelmg",
+   "type": "image_picker",
+    "label": "Image"
+   }
     ]
   }
 
