@@ -10,6 +10,14 @@
             "text_align": "text-left"
           }
         },
+        "a17e90c4-acc9-4f1d-af84-828ae4cb2289": {
+          "type": "description",
+          "settings": {
+            "display_on_card": false,
+            "truncate_description": false,
+            "text_align": "text-left"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -29,9 +37,9 @@
           "type": "variant_picker",
           "settings": {
             "display_on_card": false,
-            "option_style": "drop_down",
-            "hide_option_labels": false,
-            "enable_color_swatches": false
+            "option_style": "buttons",
+            "hide_option_labels": true,
+            "enable_color_swatches": true
           }
         },
         "baf3083e-d14d-435d-bca3-100d6ac490ce": {
@@ -42,23 +50,15 @@
             "enable_payment_button": true,
             "show_pickup_availability": false
           }
-        },
-        "a17e90c4-acc9-4f1d-af84-828ae4cb2289": {
-          "type": "description",
-          "settings": {
-            "display_on_card": false,
-            "truncate_description": false,
-            "text_align": "text-left"
-          }
         }
       },
       "block_order": [
         "title",
+        "a17e90c4-acc9-4f1d-af84-828ae4cb2289",
         "price",
         "quantity_selector",
         "variant_picker",
-        "baf3083e-d14d-435d-bca3-100d6ac490ce",
-        "a17e90c4-acc9-4f1d-af84-828ae4cb2289"
+        "baf3083e-d14d-435d-bca3-100d6ac490ce"
       ],
       "settings": {
         "crop": "",
