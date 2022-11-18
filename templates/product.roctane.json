@@ -71,8 +71,8 @@
         "media_mobile_width": "w-full",
         "thumbnails_position": "left",
         "thumbnail_crop": "aspect-w-1 aspect-h-1",
-        "thumbnail_shape": "heptagon",
-        "hide_media_shadow": false,
+        "thumbnail_shape": "default",
+        "hide_media_shadow": true,
         "thumbnail_size": "large",
         "show_thumbnails_on_mobile": false,
         "color_scheme": "tertiary",
@@ -291,7 +291,7 @@
         "59332e8e-2dda-48f9-81cd-124f9a1ce472"
       ],
       "settings": {
-        "display_on_card": true,
+        "display_on_card": false,
         "heading_text_style": "body",
         "two_columns_desktop": true,
         "title": "FAQ",
