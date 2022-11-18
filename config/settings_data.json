@@ -71,7 +71,7 @@
     "media_show_border_on_shadow": false,
     "icon_thickness": 1.5,
     "product_tiles_show_vendor": false,
-    "product_tiles_second_image_on_hover": false,
+    "product_tiles_second_image_on_hover": true,
     "product_tiles_scatter": false,
     "product_tiles_aspect_ratio": "aspect-w-1 aspect-h-1",
     "product_tile_media_shape": "default",
