@@ -6,7 +6,7 @@
         "title": "",
         "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">HAVE A QUESTION? WE HOPE <br> WE CAN HELP!\n<\/h1>",
         "full_width": false,
-        "color_scheme": "primary"
+        "color_scheme": "tertiary"
       }
     },
     "main": {
@@ -28,7 +28,7 @@
         "content_width_desktop": "lg:w-2\/3",
         "button_link": "",
         "button_label": "Shop Now",
-        "color_scheme": "primary",
+        "color_scheme": "tertiary",
         "use_gradient_background": false
       }
     }
