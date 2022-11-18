@@ -403,6 +403,28 @@
     },
     "3dfa829a-4261-46b8-b604-f506e7d4b064": {
       "type": "guidetabbing",
+      "blocks": {
+        "6b753b9c-de9b-4d91-b650-ab1d73da04c8": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "0 - 1 Hour",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "ad001a75-1883-498c-b888-d7a94aa5a0d7": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "1 - 2 Hours",
+            "heading": "",
+            "text1": ""
+          }
+        }
+      },
+      "block_order": [
+        "6b753b9c-de9b-4d91-b650-ab1d73da04c8",
+        "ad001a75-1883-498c-b888-d7a94aa5a0d7"
+      ],
       "settings": {
         "komet": "GUIDES",
         "longdisc": "HOW LONG ARE YOU GOING"
