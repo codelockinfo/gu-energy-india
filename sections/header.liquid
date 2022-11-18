@@ -181,12 +181,12 @@
                   assign use_grid = true
                 endif
                 if use_grid
-                  assign list_class = 'customdrink grid grid-cols-1 lg:grid-cols-12 lg:gap-10 grid-flow-row-dense'
+                  assign list_class = ' grid grid-cols-1 lg:grid-cols-12 lg:gap-10 grid-flow-row-dense'
                   assign col_class = 'lg:col-span-2'
                 endif
               %}
               {%- unless is_feature_collection_link %}
-              <ul class="{{ list_class }} {% if layout contains 'navigation_center' %}text-center{% else %}text-left{% endif %}">
+              <ul class="customdrink {{ list_class }} {% if layout contains 'navigation_center' %}text-center{% else %}text-left{% endif %}">
 
                 {% comment %}theme-check-enable LiquidTag{% endcomment %}
                 {% for child_link in link.links %}
