@@ -330,8 +330,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "2-3Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_78a716a7-fcc2-40f2-9d63-0af991c03912.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_e1525e2e-4855-4eaa-b0e2-fb5b2e3ee0cf.jpg"
           }
         },
         "cfb00ae7-2630-447b-b220-2eddd714b557": {
