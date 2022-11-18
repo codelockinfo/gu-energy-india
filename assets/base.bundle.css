@@ -4473,7 +4473,7 @@ p.longdisc {
 .clsdrown .opacity-100 {
     opacity: 0;
 }
-.clsroctain ul{
+.clsroctain .customchild{
       display: flex;
     width: 50%;
     margin: 0 auto;
