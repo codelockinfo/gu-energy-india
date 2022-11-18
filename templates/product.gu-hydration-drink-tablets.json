@@ -140,6 +140,30 @@
         "use_gradient_background": false
       }
     },
+    "181d154b-8a7e-4535-b502-4962d48547f0": {
+      "type": "geldiscription",
+      "blocks": {
+        "938cd65f-2d68-4ca6-87a0-0db0492e8c01": {
+          "type": "title",
+          "settings": {
+            "roctin": "Pop, Drop, & GO."
+          }
+        },
+        "4645f6d5-e730-4dde-8a61-3b8885de78be": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Hydration Drink Tabs are designed to keep you hydrated during any activity and in all conditions. Tablets are easily dissolved in 16 ounces of water, perfect for dropping into a sport bottle or bike bottle for hydration on-the-go. The light, effervescent tablets are also appropriate for everyday use, during training, travel, and hot weather, or anytime you need a hydration boost. The 12-tablet portable tubes easily fit in pockets, jerseys, and running belts. All flavors are caffeine-free and made with vegan ingredients."
+          }
+        }
+      },
+      "block_order": [
+        "938cd65f-2d68-4ca6-87a0-0db0492e8c01",
+        "4645f6d5-e730-4dde-8a61-3b8885de78be"
+      ],
+      "settings": {
+        "gel": "GU HYDRATION DRINK TABS"
+      }
+    },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
       "blocks": {
@@ -252,28 +276,60 @@
         "use_gradient_background": false
       }
     },
-    "181d154b-8a7e-4535-b502-4962d48547f0": {
-      "type": "geldiscription",
+    "d6911ba5-03c2-422f-9a1b-30f9c4c915c8": {
+      "type": "guidetabbing",
       "blocks": {
-        "938cd65f-2d68-4ca6-87a0-0db0492e8c01": {
-          "type": "title",
+        "209631c2-8a83-44be-aff7-b484945b8c85": {
+          "type": "block",
           "settings": {
-            "roctin": "Pop, Drop, & GO."
+            "grandtotal": "0-1 Hours",
+            "heading": "",
+            "text1": ""
           }
         },
-        "4645f6d5-e730-4dde-8a61-3b8885de78be": {
-          "type": "discription",
+        "9924f884-9ad4-408f-99de-5a30f8edad13": {
+          "type": "block",
           "settings": {
-            "discript": "GU Hydration Drink Tabs are designed to keep you hydrated during any activity and in all conditions. Tablets are easily dissolved in 16 ounces of water, perfect for dropping into a sport bottle or bike bottle for hydration on-the-go. The light, effervescent tablets are also appropriate for everyday use, during training, travel, and hot weather, or anytime you need a hydration boost. The 12-tablet portable tubes easily fit in pockets, jerseys, and running belts. All flavors are caffeine-free and made with vegan ingredients."
+            "grandtotal": "1-2Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "b0722ba8-fa1d-47dc-b324-cf957b6dd239": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2-3Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "66390fb8-5bf0-4a8a-83e5-6dcb3906c44f": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3-4Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "7b93fd3d-aa64-4771-8bd2-1f6652830bc9": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "4-5Hours",
+            "heading": "",
+            "text1": ""
           }
         }
       },
       "block_order": [
-        "938cd65f-2d68-4ca6-87a0-0db0492e8c01",
-        "4645f6d5-e730-4dde-8a61-3b8885de78be"
+        "209631c2-8a83-44be-aff7-b484945b8c85",
+        "9924f884-9ad4-408f-99de-5a30f8edad13",
+        "b0722ba8-fa1d-47dc-b324-cf957b6dd239",
+        "66390fb8-5bf0-4a8a-83e5-6dcb3906c44f",
+        "7b93fd3d-aa64-4771-8bd2-1f6652830bc9"
       ],
       "settings": {
-        "gel": "GU HYDRATION DRINK TABS"
+        "komet": "",
+        "longdisc": ""
       }
     }
   },
@@ -281,7 +337,8 @@
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
+    "181d154b-8a7e-4535-b502-4962d48547f0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "181d154b-8a7e-4535-b502-4962d48547f0"
+    "d6911ba5-03c2-422f-9a1b-30f9c4c915c8"
   ]
 }
