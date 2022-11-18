@@ -5,7 +5,7 @@
       "settings": {
         "title": "",
         "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">CAREERS\n<\/h1>",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "tertiary"
       }
     },
