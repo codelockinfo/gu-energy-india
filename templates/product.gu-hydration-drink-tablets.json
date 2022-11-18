@@ -293,16 +293,20 @@
           "type": "block",
           "settings": {
             "grandtotal": "1-2Hours",
+            "imagemain1": "shopify:\/\/shop_images\/i-ML8rHWv-X2-1024x716_3_large_92a98db4-bf73-4e4e-a3ec-a5383299870b.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_9a84d348-b6d4-4d8a-a352-d11fbdfd84d5.jpg"
           }
         },
         "b0722ba8-fa1d-47dc-b324-cf957b6dd239": {
           "type": "block",
           "settings": {
             "grandtotal": "2-3Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_78a716a7-fcc2-40f2-9d63-0af991c03912.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_e1525e2e-4855-4eaa-b0e2-fb5b2e3ee0cf.jpg"
           }
         },
         "66390fb8-5bf0-4a8a-83e5-6dcb3906c44f": {
