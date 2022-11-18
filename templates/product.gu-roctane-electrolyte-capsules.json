@@ -272,14 +272,50 @@
         "2b4e97cc-c410-4359-af67-4f9e8a136109": {
           "type": "block",
           "settings": {
-            "grandtotal": "",
+            "grandtotal": "0-1Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "79b104e3-4029-4a97-a087-68b5c76f674f": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "1-2Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "1b7d3e8a-0f93-4cd9-9111-dee9f70d099a": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2-3Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "845fc386-4853-45bb-8ac1-318d5979203d": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3-4Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "15c1ad19-cb7b-4820-bb91-18c029c34cb5": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "4-5Hours",
             "heading": "",
             "text1": ""
           }
         }
       },
       "block_order": [
-        "2b4e97cc-c410-4359-af67-4f9e8a136109"
+        "2b4e97cc-c410-4359-af67-4f9e8a136109",
+        "79b104e3-4029-4a97-a087-68b5c76f674f",
+        "1b7d3e8a-0f93-4cd9-9111-dee9f70d099a",
+        "845fc386-4853-45bb-8ac1-318d5979203d",
+        "15c1ad19-cb7b-4820-bb91-18c029c34cb5"
       ],
       "settings": {
         "komet": "GUIDES",
