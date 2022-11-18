@@ -31,11 +31,18 @@
         "color_scheme": "primary",
         "use_gradient_background": false
       }
+    },
+    "6ee7e144-e4f0-4500-820f-e58dd8d1c88a": {
+      "type": "geldiscription",
+      "settings": {
+        "gel": ""
+      }
     }
   },
   "order": [
     "9b781d1b-dc12-4c5a-9abd-6b51661d17ae",
     "main",
-    "d703cf9a-2adb-482a-95d8-568c6641d361"
+    "d703cf9a-2adb-482a-95d8-568c6641d361",
+    "6ee7e144-e4f0-4500-820f-e58dd8d1c88a"
   ]
 }
