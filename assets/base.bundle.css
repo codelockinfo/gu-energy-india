@@ -4496,6 +4496,10 @@ p.longdisc {
 .cistomatlet .font-heading.heading-template.heading-style.none {
     font-size: 38px;
 }
+.customgold.font-heading.heading-template.text-left {
+    font-size: 35px;
+    line-height: 40px;
+}
 
 
 
