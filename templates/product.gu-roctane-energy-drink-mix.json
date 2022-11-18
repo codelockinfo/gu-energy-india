@@ -303,15 +303,60 @@
         "use_gradient_background": false
       }
     },
-    "45b07217-5aac-4b28-a185-5f5547ec1240": {
-      "type": "video",
+    "12a7cf36-0c76-4411-b8c2-eda2be8f965f": {
+      "type": "guidetabbing",
+      "blocks": {
+        "31d55a89-7745-4e93-b700-3515d143376b": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "0-1Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "1d73acbe-22e6-4cd4-8106-fb09e505e9de": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "1-2Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "1cf9aff1-b80b-400c-9b28-a022c4bc1bea": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2-3Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "cfb00ae7-2630-447b-b220-2eddd714b557": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3-4Hours",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "31e90730-4362-46bc-84cc-8ee715113501": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "4-5Hours",
+            "heading": "",
+            "text1": ""
+          }
+        }
+      },
+      "block_order": [
+        "31d55a89-7745-4e93-b700-3515d143376b",
+        "1d73acbe-22e6-4cd4-8106-fb09e505e9de",
+        "1cf9aff1-b80b-400c-9b28-a022c4bc1bea",
+        "cfb00ae7-2630-447b-b220-2eddd714b557",
+        "31e90730-4362-46bc-84cc-8ee715113501"
+      ],
       "settings": {
-        "title": "",
-        "style": "full",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "aspect_ratio": "16:9",
-        "color_scheme": "primary",
-        "use_gradient_background": false
+        "komet": "",
+        "longdisc": ""
       }
     },
     "aaec2fe3-4ea1-4e4e-8587-2c9677104a73": {
@@ -334,6 +379,17 @@
         "color_scheme": "secondary",
         "use_gradient_background": false
       }
+    },
+    "45b07217-5aac-4b28-a185-5f5547ec1240": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -344,7 +400,8 @@
     "f6f53951-0004-4269-a9b9-ce278ceb8b43",
     "6a38422a-70a9-46b8-b75b-96d88597cde0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "45b07217-5aac-4b28-a185-5f5547ec1240",
-    "aaec2fe3-4ea1-4e4e-8587-2c9677104a73"
+    "12a7cf36-0c76-4411-b8c2-eda2be8f965f",
+    "aaec2fe3-4ea1-4e4e-8587-2c9677104a73",
+    "45b07217-5aac-4b28-a185-5f5547ec1240"
   ]
 }
