@@ -278,6 +278,7 @@
     },
     "d6911ba5-03c2-422f-9a1b-30f9c4c915c8": {
       "type": "guidetabbing",
+      "disabled": true,
       "blocks": {
         "209631c2-8a83-44be-aff7-b484945b8c85": {
           "type": "block",
