@@ -283,8 +283,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "0-1 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_b2d09ddf-294d-4531-b670-1d321ccdcf5c.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/IMG_2160-960x500_1_large_b5dc2709-2260-4726-9293-ff8f8bcdb086.jpg"
           }
         },
         "9924f884-9ad4-408f-99de-5a30f8edad13": {
