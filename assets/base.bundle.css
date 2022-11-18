@@ -4317,6 +4317,7 @@ body {
 .customfaq .card.p-4, .customfaq .border-scheme-text.border-t-2.py-4 {
   border: 1px solid #000000;
   margin-bottom: 20px;
+      border-radius: 5px;
 }
 .customfaq .gap-theme {
   gap: 18px;
