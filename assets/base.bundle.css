@@ -4392,6 +4392,10 @@ span.clshr:after {
 .gelltitle {
   margin-bottom: 1.5%;
 }
+.geltdicript {
+    font-size: 15px;
+    line-height: 21px;
+}
 .customfaq .max-w-7xl {
   max-width: 1120px;
 }
