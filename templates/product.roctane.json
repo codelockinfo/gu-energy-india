@@ -438,8 +438,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "3 - 4 Hours",
-            "heading": "",
-            "text1": ""
+            "imagemain1": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large_large_251bd4ce-0abb-449b-ae6d-0697c1ef8027.jpg",
+            "heading": "3 - 4 Hours of effort",
+            "text1": "During long efforts, it's impossible to replace everything you're burning, but you can maximize your performance by eating as much as your body can comfortably process. As a baseline, fuel with one ROCTANE Energy Gel five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. ",
+            "imagemain2": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_7d755876-6834-42dc-a66a-8b389f90e668.jpg"
           }
         }
       },
