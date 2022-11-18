@@ -146,22 +146,22 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-0": {
           "type": "question",
           "settings": {
-            "question": "WHAT IS AN ENERGY GEL?",
-            "answer": "<p>Energy Gels provide portable and easy-to-digest calories from carbohydrates that deliver immediate and sustained energy without the stomach distress.<\/p><p>GU Energy Gels use a combination of simple and complex carbohydrates. Carbs become the main source of energy as our bodies transition from sedentary to an active state and exercise intensity increases.<\/p>"
+            "question": "WHAT IS HYDRATION? ",
+            "answer": "<p>Hydration is defined as the process of absorbing water. The human body is roughly 60% water, so hydration is crucial for everything you do daily, especially exercise. Without enough hydration, your body lacks the water levels necessary to function optimally, this is called dehydration.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-1": {
           "type": "question",
           "settings": {
-            "question": "WHY DO I NEED ENERGY GELS?",
-            "answer": "<p>The body does have a limited carbohydrate supply, but not enough to sustain higher intensity activity for long periods of time. Thus, as you deplete your carb supply, performance suffers. You need energy in the form of carbohydrates to keep going in longer, more intense efforts.<\/p>"
+            "question": "WHAT IS PROPER OR OPTIMAL HYDRATION? ",
+            "answer": "<p>Athletes should generally be supplementing water with electrolytes both DURING activity as well as throughout the day. Good hydration is always important, but particularly in the days and weeks before an event or after a hard workout. Use GU Hydration Drink Tabs whenever, wherever, and you'll see a boost in preparation, sustenance, as well as recovery.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-2": {
           "type": "question",
           "settings": {
-            "question": "HOW IS ROCTANE ENERGY GEL DIFFERENT?",
-            "answer": "<p>A ROCTANE Energy Gel contains 3x the branched chain amino acids (BCAA's) and 2x the electrolytes compared to our original Energy Gels. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine). ROCTANE Energy Gels deliver the same combination of carbohydrates and same number of calories. ROCTANE Energy Gels are a key tool for high-intensity or prolonged activity when nutrient depletion and muscle damage occurs rapidly.<\/p>"
+            "question": "HOW DO HYDRATION DRINK TABS WORK? ",
+            "answer": "<p>They provide a good balance of fluids and electrolytes. Fluids from water combined with the key electrolyte sodium in our Hydration Drink Tabs help your body hold onto hydration. If you drink water alone, the body will expel it quickly. If you drink water with sodium, the water will hang around longer in your body to help keep you hydrated and prevent dehydration.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-3": {
@@ -226,48 +226,6 @@
             "question": "ARE GU ENERGY GELS KOSHER, VEGAN-FRIENDLY AND GLUTEN-FREE?",
             "answer": "<p>GU Energy Gels and ROCTANE Energy Gels are both kosher certified, gluten-free and vegan-friendly.<\/p>"
           }
-        },
-        "2674c916-cbf6-44f1-a520-ac1073e338cf": {
-          "type": "question",
-          "settings": {
-            "question": "WHEN SHOULD I EAT ROCTANE ENERGY GELS?",
-            "answer": "<p>ROCTANE Energy Gels were designed to help provide nutritional support for prolonged and\/or more intense exercise. Therefore, you will find ROCTANE Energy Gels especially beneficial during exercise which requires extra recovery time and\/or where you need help with preventing fatigue, increasing concentration, focus, and decreasing perceived effort.<\/p><p>When you are going big or the workout is going to require more of you because of the weather, terrain, environment, intensity, etc.– use ROCTANE Energy Gels. During a more typical workout – use original GU Energy Gels.<\/p>"
-          }
-        },
-        "1c9d6314-4a5a-43bd-ba09-45e4fd5ae6da": {
-          "type": "question",
-          "settings": {
-            "question": "HOW CAN I USE ROCTANE ENERGY GELS WITH ROCTANE ENERGY DRINK MIX? ",
-            "answer": "<p>If you already use ROCTANE Energy Gels, you can substitute two-and-a-half ROCTANE Energy Gels for one serving of ROCTANE Energy Drink Mix. Remember, the body can typically handle around 120-240 calories per hour, so keep this in mind when combining the two. This will help tailor energy intake to your needs and provide the beneficial ingredients found in both the gel and drink. While many ingredients are similar in the two products (carbohydrates, BCAAs, and caffeine) each has unique ingredients which may also help improve performance. Therefore, using both products will help provide every nutritional advantage possible to athletes who demand the best from themselves and their nutrition.<\/p>"
-          }
-        },
-        "1dc840b5-6dc2-416d-935a-e1c0e3c755b2": {
-          "type": "question",
-          "settings": {
-            "question": "WHY DOES ROCTANE ENERGY GEL HAVE THE SAME NUMBER OF CALORIES AS ORIGINAL GU ENERGY GEL? ",
-            "answer": "<p>You find 100 calories of carbohydrates in both ROCTANE Energy Gel and GU Energy Gel because there’s no reason to add more. The gut can only absorb so many calories at a time during exercise, especially when most of your blood is being delivered to your hard-working muscles. If you add too many calories during intense exercise, your body can’t send enough blood to your gut to digest the carbs, making your gut cramp, forcing you to slow down.<\/p>"
-          }
-        },
-        "f8c42ae2-3634-437d-818d-d4dd77c748fd": {
-          "type": "question",
-          "settings": {
-            "question": "DOES ONE ROCTANE ENERGY GEL EQUAL TWO GU ENERGY GELS? ",
-            "answer": "<p>No. ROCTANE Energy Gel is designed to help provide added nutritional support for prolonged exercise, which is why there are additional amino acids and sodium. However, they have the same number of calories (100) per gel as our original Energy Gel.<\/p>"
-          }
-        },
-        "7cf91238-7b3b-42e5-8e35-1bdb783c4d0f": {
-          "type": "question",
-          "settings": {
-            "question": "HOW WILL THE ADDED ELECTROLYTES AND AMINO ACIDS IN ROCTANE ENERGY GEL BENEFIT ME? ",
-            "answer": "<p>ROCTANE contains more sodium than the original GU Energy Gel and sodium is the main electrolyte lost in sweat. Supplementation with sodium can help prevent cramping as well as minimize the chances of hyponatremia.<\/p><p>The additional amino acids in ROCTANE Energy Gel serve several important functions, including acting as a fuel source for working muscle, and helping promote muscle recovery following exercise. ROCTANE Energy Gel contains branched-chain amino acids that have been shown to help prevent central fatigue by competing with tryptophan for transport across the blood brain barrier. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine).<\/p>"
-          }
-        },
-        "59332e8e-2dda-48f9-81cd-124f9a1ce472": {
-          "type": "question",
-          "settings": {
-            "question": "SHOULD I USE ROCTANE ENERGY GEL DIFFERENTLY ON RACE-DAY?",
-            "answer": "<p>chase with water approximately 5 minutes before the start. It is important to practice with what you plan to use during your race, too. Your gut adapts to digest and transport dietary carbohydrate if “trained” to do so by eating carbohydrate during your training sessions. So, rule of thumb, whatever you’re using during training, plan to race with the same thing to help optimize your personal performance on race day.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -282,13 +240,7 @@
         "27f762fc-c580-4269-b289-da9d334708a4",
         "48a3ab3a-938b-447c-bbdd-54e70c1be370",
         "2ac8f77b-14da-4c16-87af-6c69d87d2dda",
-        "21860d85-a529-4c2f-a455-7ecb43a377ae",
-        "2674c916-cbf6-44f1-a520-ac1073e338cf",
-        "1c9d6314-4a5a-43bd-ba09-45e4fd5ae6da",
-        "1dc840b5-6dc2-416d-935a-e1c0e3c755b2",
-        "f8c42ae2-3634-437d-818d-d4dd77c748fd",
-        "7cf91238-7b3b-42e5-8e35-1bdb783c4d0f",
-        "59332e8e-2dda-48f9-81cd-124f9a1ce472"
+        "21860d85-a529-4c2f-a455-7ecb43a377ae"
       ],
       "settings": {
         "display_on_card": true,
