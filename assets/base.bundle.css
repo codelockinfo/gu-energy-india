@@ -4470,6 +4470,9 @@ p.longdisc {
   max-width: 1400px;
   margin: 0 auto 3%;
 }
+.clsdrown .opacity-100 {
+    opacity: 0;
+}
  @media (max-width: 1100px) {
   .gudenumber {
     flex: 0 0 15%;
