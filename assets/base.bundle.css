@@ -4485,6 +4485,13 @@ p.longdisc {
     width: 100%;
       margin-bottom: 2%;
 }
+.cistomatlet .font-heading.heading-template.heading-style.none {
+    font-size: 38px;
+}
+
+
+
+/* media */
  @media (max-width: 1100px) {
   .gudenumber {
     flex: 0 0 15%;
