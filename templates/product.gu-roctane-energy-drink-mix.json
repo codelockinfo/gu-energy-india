@@ -308,10 +308,17 @@
           "settings": {
             "discript": "ROCTANE Energy Drink Mix is an all-in-one solution to energy and hydration with key nutrients like electrolytes and branched-chain amino acids to keep you feeling strong and energized. The precise blend of complex and simple carbohydrates will fuel you up, so you feel good, longer. Drink one serving every hour to stay energized and hydrated while exercising.\n<br>\nIt is a light tasting, easy-to-mix formula for fueling serious efforts. Each 250-calorie serving contains:"
           }
+        },
+        "09bd2238-8926-40e1-a240-97c06762e1c4": {
+          "type": "discription",
+          "settings": {
+            "discript": "Carbohydrates (maltodextrin and fructose) that use non-competing pathways which can help maximize absorption, increase carbohydrate utilization, and diminish stomach distress, so you get energy that kicks in quickly and stays with you\nSodium, the primary electrolyte lost in sweat that aids in hydration by maintaining fluid balance\nBranched-chain amino acids (L-Leucine, L-Valine, and L-Isoleucine) which may reduce mental fatigue and decrease muscle damage while jump-starting recovery\nTaurine can help maintain heart contractility and improve cardiac output during long exercise sessions†\nBeta-alanine can help promote formation of the intramuscular buffer carnosine, which can help delay the onset of fatigue during high-intensity efforts.†"
+          }
         }
       },
       "block_order": [
-        "eb811702-022b-4f6d-bcf3-474878cfa65b"
+        "eb811702-022b-4f6d-bcf3-474878cfa65b",
+        "09bd2238-8926-40e1-a240-97c06762e1c4"
       ],
       "settings": {
         "gel": "SOLID PERFORMANCES WITHOUT THE SOLIDS"
