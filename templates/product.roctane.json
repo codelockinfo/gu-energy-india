@@ -400,6 +400,13 @@
         "color_scheme": "secondary",
         "use_gradient_background": false
       }
+    },
+    "3dfa829a-4261-46b8-b604-f506e7d4b064": {
+      "type": "guidetabbing",
+      "settings": {
+        "komet": "GUIDES",
+        "longdisc": "HOW LONG ARE YOU GOING"
+      }
     }
   },
   "order": [
@@ -409,6 +416,7 @@
     "57e96b3d-b0f5-4d83-b2a0-5ffca646dae7",
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "63a45c08-ecbc-498d-b926-e6178b573bd6"
+    "63a45c08-ecbc-498d-b926-e6178b573bd6",
+    "3dfa829a-4261-46b8-b604-f506e7d4b064"
   ]
 }
