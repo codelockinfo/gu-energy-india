@@ -466,6 +466,18 @@
         "komet": "GUIDES",
         "longdisc": "HOW LONG ARE YOU GOING"
       }
+    },
+    "cb2bae8c-0574-4b18-a905-1df6df63fe16": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "cover_image": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_b2d09ddf-294d-4531-b670-1d321ccdcf5c.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=JT_A6Qj22yk",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -476,6 +488,7 @@
     "product-recommendations",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "63a45c08-ecbc-498d-b926-e6178b573bd6",
-    "3dfa829a-4261-46b8-b604-f506e7d4b064"
+    "3dfa829a-4261-46b8-b604-f506e7d4b064",
+    "cb2bae8c-0574-4b18-a905-1df6df63fe16"
   ]
 }
