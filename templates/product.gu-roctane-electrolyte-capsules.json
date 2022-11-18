@@ -142,6 +142,7 @@
     },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-0": {
           "type": "question",
@@ -261,13 +262,6 @@
             "question": "HOW WILL THE ADDED ELECTROLYTES AND AMINO ACIDS IN ROCTANE ENERGY GEL BENEFIT ME? ",
             "answer": "<p>ROCTANE contains more sodium than the original GU Energy Gel and sodium is the main electrolyte lost in sweat. Supplementation with sodium can help prevent cramping as well as minimize the chances of hyponatremia.<\/p><p>The additional amino acids in ROCTANE Energy Gel serve several important functions, including acting as a fuel source for working muscle, and helping promote muscle recovery following exercise. ROCTANE Energy Gel contains branched-chain amino acids that have been shown to help prevent central fatigue by competing with tryptophan for transport across the blood brain barrier. They also contain the amino acids taurine (to help maintain heart contractility and improve cardiac output during long exercise sessions) and beta-alanine (to help promote formation of the intramuscular buffer carnosine).<\/p>"
           }
-        },
-        "59332e8e-2dda-48f9-81cd-124f9a1ce472": {
-          "type": "question",
-          "settings": {
-            "question": "SHOULD I USE ROCTANE ENERGY GEL DIFFERENTLY ON RACE-DAY?",
-            "answer": "<p>chase with water approximately 5 minutes before the start. It is important to practice with what you plan to use during your race, too. Your gut adapts to digest and transport dietary carbohydrate if “trained” to do so by eating carbohydrate during your training sessions. So, rule of thumb, whatever you’re using during training, plan to race with the same thing to help optimize your personal performance on race day.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -287,8 +281,7 @@
         "1c9d6314-4a5a-43bd-ba09-45e4fd5ae6da",
         "1dc840b5-6dc2-416d-935a-e1c0e3c755b2",
         "f8c42ae2-3634-437d-818d-d4dd77c748fd",
-        "7cf91238-7b3b-42e5-8e35-1bdb783c4d0f",
-        "59332e8e-2dda-48f9-81cd-124f9a1ce472"
+        "7cf91238-7b3b-42e5-8e35-1bdb783c4d0f"
       ],
       "settings": {
         "display_on_card": true,
