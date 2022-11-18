@@ -4314,7 +4314,7 @@ body {
 .customfaq .inline-block.break-words.w-full {
   color: #04bbd3;
 }
-.customfaq .card.p-4, .customfaq  .customfaq .card.p-4 {
+.customfaq .card.p-4, .customfaq  .customfaq .border-scheme-text {
   border: 1px solid #000000;
   margin-bottom: 20px;
 }
