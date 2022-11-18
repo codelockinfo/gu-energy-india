@@ -273,24 +273,30 @@
           "type": "block",
           "settings": {
             "grandtotal": "0-1Hours",
+            "imagemain1": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_b2d09ddf-294d-4531-b670-1d321ccdcf5c.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/IMG_2160-960x500_1_large_b5dc2709-2260-4726-9293-ff8f8bcdb086.jpg"
           }
         },
         "79b104e3-4029-4a97-a087-68b5c76f674f": {
           "type": "block",
           "settings": {
             "grandtotal": "1-2Hours",
+            "imagemain1": "shopify:\/\/shop_images\/i-ML8rHWv-X2-1024x716_3_large_92a98db4-bf73-4e4e-a3ec-a5383299870b.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_9a84d348-b6d4-4d8a-a352-d11fbdfd84d5.jpg"
           }
         },
         "1b7d3e8a-0f93-4cd9-9111-dee9f70d099a": {
           "type": "block",
           "settings": {
             "grandtotal": "2-3Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_78a716a7-fcc2-40f2-9d63-0af991c03912.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_e1525e2e-4855-4eaa-b0e2-fb5b2e3ee0cf.jpg"
           }
         },
         "845fc386-4853-45bb-8ac1-318d5979203d": {
