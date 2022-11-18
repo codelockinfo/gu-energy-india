@@ -219,12 +219,52 @@
         "color_scheme": "tertiary",
         "use_gradient_background": false
       }
+    },
+    "03c30828-292f-43ec-be7f-b0f2c7b122de": {
+      "type": "geldiscription",
+      "blocks": {
+        "920b9b15-0216-4760-8746-e44e45ddc8b2": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "roctin": ""
+          }
+        },
+        "409bc4b6-4d53-4d3f-8c76-4e601168095e": {
+          "type": "discription",
+          "settings": {
+            "discript": "ROCTANE Electrolyte Capsules help replace what you lose when you sweat to keep you feeling strong and feeling good. Take 1-2 capsules per hour during high-intensity activity and consume with at least 3-4 oz of water as part of your hydration plan. (We recommend drinking at least 16 oz of fluids per hour during exercise.)"
+          }
+        },
+        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50": {
+          "type": "title",
+          "settings": {
+            "roctin": "Here’s what’s inside:"
+          }
+        },
+        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a": {
+          "type": "discription",
+          "settings": {
+            "discript": "Electrolytes (sodium, magnesium, chloride) to aid in hydration by maintaining fluid balance and plasma volume.†\nVitamin D, which is important for calcium absorption and bone health.†\nVitamin B6 to help improve your energy metabolism."
+          }
+        }
+      },
+      "block_order": [
+        "920b9b15-0216-4760-8746-e44e45ddc8b2",
+        "409bc4b6-4d53-4d3f-8c76-4e601168095e",
+        "21e3b6ec-1e5b-41ae-b57b-fe385c9cdf50",
+        "312bd424-3b94-4a0b-b6a5-2e9a51dd203a"
+      ],
+      "settings": {
+        "gel": "LESS CRAMPING, BETTER PERFORMANCE"
+      }
     }
   },
   "order": [
     "main",
     "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
     "product-recommendations",
-    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1"
+    "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
+    "03c30828-292f-43ec-be7f-b0f2c7b122de"
   ]
 }
