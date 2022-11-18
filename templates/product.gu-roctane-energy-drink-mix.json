@@ -320,8 +320,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "1-2Hours",
+            "imagemain1": "shopify:\/\/shop_images\/i-ML8rHWv-X2-1024x716_3_large_92a98db4-bf73-4e4e-a3ec-a5383299870b.jpg",
             "heading": "",
-            "text1": ""
+            "text1": "",
+            "imagemain2": "shopify:\/\/shop_images\/Emma-mtn-run_1_large_9a84d348-b6d4-4d8a-a352-d11fbdfd84d5.jpg"
           }
         },
         "1cf9aff1-b80b-400c-9b28-a022c4bc1bea": {
