@@ -4577,6 +4577,12 @@ p.longdisc {
   justify-content: flex-start;
 }
 }
+ @media (max-width: 989px) {
+.py-2.lg\:py-0.px-section.overflow-hidden {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+ }
 @media (max-width: 540px) {
   .gudenumber {
     flex: 0 0 30%;
