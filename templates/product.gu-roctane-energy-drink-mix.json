@@ -411,7 +411,8 @@
       "settings": {
         "title": "",
         "style": "full",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault_1_2000x_28694feb-5ade-4c02-9da7-4ca625556db5.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=gna7PPKlUpE",
         "aspect_ratio": "16:9",
         "color_scheme": "primary",
         "use_gradient_background": false
