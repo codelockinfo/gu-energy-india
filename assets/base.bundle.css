@@ -4511,6 +4511,9 @@ p.longdisc {
     margin-bottom: 10px;
     line-height: 22px;
 }
+.full-details--link.cardetail {
+    color: #04bbd3;
+}
 
 /* media */
  @media (max-width: 1100px) {
