@@ -4653,6 +4653,9 @@ p.longdisc {
     flex: 0 0 100%;
     max-width: 87%;
 }
+  .roctaintitle {
+    font-size: 35px;
+  }
 }
 @media (max-width: 414px) {
   .gudenumber {
