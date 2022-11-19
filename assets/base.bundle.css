@@ -4539,6 +4539,9 @@ p.longdisc {
    .clsgelgold.rotengelcontain {
     padding: 0px 35px;
 }
+   .customfaq .card.p-4{
+         margin-bottom: 0px;
+   }
 .maintext{
   margin: 5% 0px;
 }
