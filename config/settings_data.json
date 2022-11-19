@@ -1,9 +1,9 @@
 {
   "current": {
     "color_primary_text": "#0e1732",
-    "color_primary_background": "#241b4a",
-    "color_primary_accent": "#fd795b",
-    "color_primary_card": "#fd795b",
+    "color_primary_background": "#fd795b",
+    "color_primary_accent": "#ffffff",
+    "color_primary_card": "#ffffff",
     "color_primary_gradient": "linear-gradient(180deg, rgba(221, 255, 119, 1) 10%, rgba(253, 116, 87, 1) 54%, rgba(239, 73, 90, 1) 92%)",
     "color_secondary_text": "#ffffff",
     "color_secondary_background": "#111a37",
