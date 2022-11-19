@@ -229,6 +229,21 @@
         "color_scheme": "primary",
         "use_gradient_background": false
       }
+    },
+    "1acf4996-5da9-4072-a480-f7c9897cc486": {
+      "type": "feature-text",
+      "settings": {
+        "rich_text": "<p>FEATURED ATHLETE<\/p>",
+        "mobile_text_size": "text-3xl",
+        "desktop_text_size": "lg:text-7xl",
+        "display_on_card": false,
+        "apply_effects": true,
+        "content_width_desktop": "lg:w-full",
+        "button_link": "#",
+        "button_label": "Get to Know Them",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -236,6 +251,7 @@
     "1ec3653f-1f9d-4ca6-8431-2e03bbeb127e",
     "fe473291-a55d-45dd-b2ee-293acb7e04e0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
-    "product-recommendations"
+    "product-recommendations",
+    "1acf4996-5da9-4072-a480-f7c9897cc486"
   ]
 }
