@@ -4566,6 +4566,13 @@ p.longdisc {
   .grantlex {
     justify-content: center;
 }
+  img.tringlmg {
+    width: 50%;
+  }
+  .tringleflex1 {
+    flex: 0 0 100%;
+    max-width: 87%;
+}
 }
 @media (max-width: 414px) {
   .gudenumber {
