@@ -277,12 +277,21 @@
             "text1": "If fueling exclusively with Energy Chews, eat one serving (four pieces) five-minutes before and every 45 minutes along the way. Consider using Energy Chews to mix up your nutrition plan and incorporate them with Energy Gels or ROCTANE Energy Drink Mix.  Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours.",
             "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_e1525e2e-4855-4eaa-b0e2-fb5b2e3ee0cf.jpg"
           }
+        },
+        "67900e1c-35d4-4719-babd-08eb12134da1": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "3 - 4 Hours",
+            "heading": "",
+            "text1": ""
+          }
         }
       },
       "block_order": [
         "1d7bec73-9594-40a1-a0d2-dc9a435bddec",
         "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e",
-        "3b67d896-3aa3-49cf-b980-368b8c64e01a"
+        "3b67d896-3aa3-49cf-b980-368b8c64e01a",
+        "67900e1c-35d4-4719-babd-08eb12134da1"
       ],
       "settings": {
         "komet": "GUIDES",
