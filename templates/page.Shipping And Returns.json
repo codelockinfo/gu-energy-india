@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "display_on_card": false,
+        "display_on_card": true,
         "color_scheme": "primary",
         "use_gradient_background": false
       }
