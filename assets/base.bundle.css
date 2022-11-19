@@ -651,7 +651,7 @@ input[type="text"], input[type="email"], input[type="tel"], input[type="password
       rgb(var(--color-button-border));
     box-sizing: border-box;
     background-color: rgb(var( --color-scheme-secondary-background));
-      opacity: 0.8;
+      opacity: 0.6;
 }
 .sr-only {
   position: absolute;
