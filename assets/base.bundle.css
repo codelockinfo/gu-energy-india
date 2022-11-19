@@ -4333,7 +4333,7 @@ body {
 }
 .rotengelcontain {
   max-width: 1200px;
-  margin: 0 auto;
+     margin: 3% auto;
   padding: 0 15px;
 }
 /* span.clshr {
