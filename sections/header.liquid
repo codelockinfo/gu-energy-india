@@ -519,6 +519,14 @@
         class="py-2 lg:py-0 px-section overflow-hidden">
         <div class="clsdrown flex justify-between items-center">
           {% comment %} Left {% endcomment %}
+                 <div class="customgoldmenu">
+  {% if layout contains 'logo_left' %}
+              <div class="lg:hidden mr-5">
+                {{ menu_icon }}
+              </div>
+            {% endif %}
+            
+          </div>
           <div class="flex flex-grow {% unless layout contains 'search' %}w-1/3{% endunless %} {% if layout == 'logo_left_navigation_left' %}lg:w-2/3{% endif %} justify-start items-stretch">
 
             {% if layout contains 'logo_center' %}
@@ -608,14 +616,7 @@
             {% endif %}
 
           </div>
-          <div class="customgoldmenu">
-  {% if layout contains 'logo_left' %}
-              <div class="lg:hidden mr-5">
-                {{ menu_icon }}
-              </div>
-            {% endif %}
-            
-          </div>
+   
         </div>
       </div>
     </div>
