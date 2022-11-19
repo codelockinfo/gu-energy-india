@@ -303,8 +303,24 @@
         "use_gradient_background": false
       }
     },
+    "38bb0472-b150-4d55-af31-60819c3a8556": {
+      "type": "feature-text",
+      "settings": {
+        "rich_text": "<p>FEATURED ATHLETE<\/p>",
+        "mobile_text_size": "text-3xl",
+        "desktop_text_size": "lg:text-7xl",
+        "display_on_card": false,
+        "apply_effects": true,
+        "content_width_desktop": "lg:w-full",
+        "button_link": "#",
+        "button_label": "GET TO KNOW THEM",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
     "aaec2fe3-4ea1-4e4e-8587-2c9677104a73": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "display_on_card": false,
         "crop": "",
@@ -410,6 +426,7 @@
     "f6f53951-0004-4269-a9b9-ce278ceb8b43",
     "6a38422a-70a9-46b8-b75b-96d88597cde0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
+    "38bb0472-b150-4d55-af31-60819c3a8556",
     "aaec2fe3-4ea1-4e4e-8587-2c9677104a73",
     "12a7cf36-0c76-4411-b8c2-eda2be8f965f",
     "45b07217-5aac-4b28-a185-5f5547ec1240"
