@@ -4694,3 +4694,10 @@ section.text-scheme-text.bg-scheme-background.relative.overflow-hidden {
       max-width: 1500px;
     width: 100%;
 }
+.card-container:after{
+      border-radius: unset;
+    border-width: inherit;
+      position: relative;
+}
+  
+}
