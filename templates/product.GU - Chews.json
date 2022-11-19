@@ -272,8 +272,10 @@
           "type": "block",
           "settings": {
             "grandtotal": "2 - 3 Hours",
+            "imagemain1": "shopify:\/\/shop_images\/YiOu-Wang-Mountains-1024x683_3_large_78a716a7-fcc2-40f2-9d63-0af991c03912.jpg",
             "heading": "2 - 3 Hours of effort",
-            "text1": "If fueling exclusively with Energy Chews, eat one serving (four pieces) five-minutes before and every 45 minutes along the way. Consider using Energy Chews to mix up your nutrition plan and incorporate them with Energy Gels or ROCTANE Energy Drink Mix.  Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours."
+            "text1": "If fueling exclusively with Energy Chews, eat one serving (four pieces) five-minutes before and every 45 minutes along the way. Consider using Energy Chews to mix up your nutrition plan and incorporate them with Energy Gels or ROCTANE Energy Drink Mix.  Add electrolytes with Hydration Drink Tabs or ROCTANE Electrolyte Capsules. Aim to drink 48 oz if you're out for three hours.",
+            "imagemain2": "shopify:\/\/shop_images\/Jacob-2.1-1024x683_large_e1525e2e-4855-4eaa-b0e2-fb5b2e3ee0cf.jpg"
           }
         }
       },
