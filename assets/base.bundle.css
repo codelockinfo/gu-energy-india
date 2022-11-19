@@ -4321,9 +4321,9 @@ body {
       border-radius: 5px;
       padding: 1rem;
 }
-/* #shopify-section-template--16017864458402__05fefe20-4761-4b6a-a63d-9765e92417b3 .customfaq .inline-block.break-words.w-full {
-    color: #fff;
-} */
+#shopify-section-template--16017864458402__05fefe20-4761-4b6a-a63d-9765e92417b3 .customfaq .inline-block.break-words.w-full {
+    color: #000;
+}
 div#shopify-section-template--16017822318754__91518ff4-a660-40be-95ac-69f0e022b171 .customfaq .inline-block.break-words.w-full {
  color: #fff;
 }
