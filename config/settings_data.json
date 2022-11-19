@@ -60,7 +60,7 @@
     "card_shadow_style": "full",
     "card_shadow_color": "color-scheme-gradient",
     "card_shadow_direction": "bottom",
-    "card_show_border_on_shadow": false,
+    "card_show_border_on_shadow": true,
     "media_border_radius": "0.375rem",
     "media_border_width": 2,
     "media_border_color": "color-scheme-text",
