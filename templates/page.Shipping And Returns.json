@@ -4,7 +4,7 @@
       "type": "custom-liquid",
       "settings": {
         "title": "",
-        "custom_liquid": "<h3 background-color: '#FD795B' style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -30px 0px;\">SHIPPING POLICY\n<\/h3>",
+        "custom_liquid": "<h3  style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -30px 0px;\">SHIPPING POLICY\n<\/h3>",
         "full_width": false,
         "color_scheme": "tertiary"
       }
