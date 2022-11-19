@@ -4703,4 +4703,6 @@ section.text-scheme-text.bg-scheme-background.relative.overflow-hidden {
 .card-border{
     border-width: inherit;  
 }
-
+.tablebody{
+      background-color: #fff;
+}
