@@ -4398,7 +4398,10 @@ span.clshr:after {
     font-size: 15px;
     line-height: 21px;
 }
-
+img.tringlmg{
+      width: 50%;
+    margin: 0 auto;
+}
 .customfaq .max-w-7xl {
   max-width: 1120px;
 }
