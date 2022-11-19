@@ -310,6 +310,18 @@
         "komet": "GUIDES",
         "longdisc": "HOW LONG ARE YOU GOING"
       }
+    },
+    "2717df02-461c-469c-86a2-74a3f7262ea6": {
+      "type": "video",
+      "settings": {
+        "title": "",
+        "style": "full",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault_2000x_08353c29-94e8-4867-98bc-3cfe952ae075.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NNbVlFgnIko",
+        "aspect_ratio": "16:9",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
     }
   },
   "order": [
@@ -319,6 +331,7 @@
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations",
     "1acf4996-5da9-4072-a480-f7c9897cc486",
-    "cb0e7cbc-2e2b-4b00-ab90-34280cd3c225"
+    "cb0e7cbc-2e2b-4b00-ab90-34280cd3c225",
+    "2717df02-461c-469c-86a2-74a3f7262ea6"
   ]
 }
