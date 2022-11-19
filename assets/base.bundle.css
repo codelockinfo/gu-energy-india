@@ -4544,9 +4544,7 @@ p.longdisc {
     text-align: left;
     color: #272838;
     border-bottom: 2px solid #e2e2e2;
-    position: sticky;
-    top: 0;
-    background-color: #F9F8F8;
+     background-color: #F9F8F8;
   }
 
   .tablebody td { 
