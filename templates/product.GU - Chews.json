@@ -287,13 +287,22 @@
             "text1": "For long efforts, consuming as much as your body can process can help maximize your performance. As a baseline, fuel with one serving (four pieces) of Energy Chews five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. ",
             "imagemain2": "shopify:\/\/shop_images\/Helen-Galerakis-e1548959541380_large_7d755876-6834-42dc-a66a-8b389f90e668.jpg"
           }
+        },
+        "bc591020-9301-49f4-b4bd-1252157a7991": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "4 - 5 Hours",
+            "heading": "4 - 5 Hours of effort",
+            "text1": "When you're exercising for five hours or more, consuming as much as your body can process can help maximize your performance. As a baseline, fuel with one serving (four pieces) of Energy Chews five-minutes before every 45 minutes along the way. Supplementing your energy with ROCTANE Energy Drink Mix can help you fuel while hydrating, and it will boost the amount of muscle-protecting BCAAs you're consuming. "
+          }
         }
       },
       "block_order": [
         "1d7bec73-9594-40a1-a0d2-dc9a435bddec",
         "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e",
         "3b67d896-3aa3-49cf-b980-368b8c64e01a",
-        "67900e1c-35d4-4719-babd-08eb12134da1"
+        "67900e1c-35d4-4719-babd-08eb12134da1",
+        "bc591020-9301-49f4-b4bd-1252157a7991"
       ],
       "settings": {
         "komet": "GUIDES",
