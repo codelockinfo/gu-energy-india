@@ -112,6 +112,26 @@
     },
     "fe473291-a55d-45dd-b2ee-293acb7e04e0": {
       "type": "tringle",
+      "blocks": {
+        "87c80f0f-4741-4aa8-865c-00d9dea31850": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-amino_f5534e8f-76ff-40b4-aba9-854ad1b9a255.png",
+            "discr": "May reduce mental fatigue and help decrease muscle damage during exercise"
+          }
+        },
+        "8bdc5372-376b-48e0-9f21-b814adf14804": {
+          "type": "block",
+          "settings": {
+            "kome": "shopify:\/\/shop_images\/nutr-carbs_f71e5c3a-adc6-449a-ab79-a9fb6ae5ae73.png",
+            "discr": "Delivers ready-to-use energy for athletes and can delay bonking by sparing glycogen stores"
+          }
+        }
+      },
+      "block_order": [
+        "87c80f0f-4741-4aa8-865c-00d9dea31850",
+        "8bdc5372-376b-48e0-9f21-b814adf14804"
+      ],
       "settings": {
         "discr2": ""
       }
