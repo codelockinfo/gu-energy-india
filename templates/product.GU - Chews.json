@@ -81,6 +81,17 @@
     },
     "1ec3653f-1f9d-4ca6-8431-2e03bbeb127e": {
       "type": "geldiscription",
+      "blocks": {
+        "fc2b47cb-936c-495f-9d79-03a95ca7efbf": {
+          "type": "discription",
+          "settings": {
+            "discript": "GU Energy Chews are crafted to supply both energy and key nutrients like electrolytes and amino acids to keep you feeling strong and energized. Delicious, mouthwatering flavors help you stick to your nutrition plan, so you can keep going. Energy Chews have similar nutrients per serving to the original GU Energy Gels, delivering the energy you need in chewable, bite-sized pieces."
+          }
+        }
+      },
+      "block_order": [
+        "fc2b47cb-936c-495f-9d79-03a95ca7efbf"
+      ],
       "settings": {
         "gel": "GU - Chews"
       }
