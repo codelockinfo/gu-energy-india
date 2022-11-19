@@ -93,11 +93,18 @@
           "settings": {
             "discript": "Here’s what’s inside:"
           }
+        },
+        "1d2752b3-eb42-41c8-b4e2-e16e2ebf3808": {
+          "type": "discription",
+          "settings": {
+            "discript": "Carbohydrates (maltodextrin and fructose) that use non-competing pathways that can help maximize absorption, increase carbohydrate utilization, and diminish stomach distress, for energy that kicks in quickly and stays with you<br>\nSodium, the primary electrolyte lost in sweat that aids in hydration by maintaining fluid balance<br>\nBranched-chain amino acids (L-Leucine, L-Valine, and L-Isoleucine) which may reduce mental fatigue and decrease muscle damage while jump-starting recovery"
+          }
         }
       },
       "block_order": [
         "fc2b47cb-936c-495f-9d79-03a95ca7efbf",
-        "4d97c3cf-e5c9-427e-9e8c-f4eae2cc14cd"
+        "4d97c3cf-e5c9-427e-9e8c-f4eae2cc14cd",
+        "1d2752b3-eb42-41c8-b4e2-e16e2ebf3808"
       ],
       "settings": {
         "gel": "GU - Chews"
