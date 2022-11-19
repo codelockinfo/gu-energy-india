@@ -171,7 +171,7 @@
             "enable_parallax": true,
             "parallax_speed": 3,
             "color": "bg-scheme-accent text-scheme-accent-overlay",
-            "color_scheme": "quaternary"
+            "color_scheme": "same_as_section"
           }
         }
       },
