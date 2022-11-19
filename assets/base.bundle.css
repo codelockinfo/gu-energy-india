@@ -4503,7 +4503,14 @@ p.longdisc {
 .sportmg {
     margin: 0 auto;
 }
-
+.carbhydlist li {
+    list-style: disc;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-bottom: 10px;
+    line-height: 22px;
+}
 
 /* media */
  @media (max-width: 1100px) {
