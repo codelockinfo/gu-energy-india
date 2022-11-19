@@ -4514,6 +4514,9 @@ p.longdisc {
 .full-details--link.cardetail {
     color: #04bbd3;
 }
+.full-details--link.cardetail:hover {
+ color: #352089;
+}
 
 /* media */
  @media (max-width: 1100px) {
