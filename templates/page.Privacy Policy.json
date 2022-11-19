@@ -16,25 +16,10 @@
         "color_scheme": "primary",
         "use_gradient_background": false
       }
-    },
-    "a6d66997-e228-4e98-8a0f-a4a6e72dfc79": {
-      "type": "rich-text",
-      "settings": {
-        "title": "",
-        "heading_size": "heading-base",
-        "rich_text": "",
-        "display_on_card": true,
-        "content_width_desktop": "lg:w-2\/3",
-        "button_link": "",
-        "button_label": "Shop Now",
-        "color_scheme": "secondary",
-        "use_gradient_background": false
-      }
     }
   },
   "order": [
     "61899fd9-e4ed-41db-bf89-f622576a6bee",
-    "main",
-    "a6d66997-e228-4e98-8a0f-a4a6e72dfc79"
+    "main"
   ]
 }
