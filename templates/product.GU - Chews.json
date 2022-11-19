@@ -267,11 +267,20 @@
             "text1": "When exercising for more than an hour, it's important to refuel along the way.  Eat one serving of Energy Chews (four pieces) five-minutes before every 45 minutes along the way. Hydrate with 32 oz of water to help your body process your foods and keep your muscles fueled.",
             "imagemain2": "shopify:\/\/shop_images\/Geoff-banner-1280x500_1_large1_large_5889cb23-e055-4c9c-aa72-8120d58677cb.jpg"
           }
+        },
+        "3b67d896-3aa3-49cf-b980-368b8c64e01a": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "2 - 3 Hours",
+            "heading": "",
+            "text1": ""
+          }
         }
       },
       "block_order": [
         "1d7bec73-9594-40a1-a0d2-dc9a435bddec",
-        "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e"
+        "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e",
+        "3b67d896-3aa3-49cf-b980-368b8c64e01a"
       ],
       "settings": {
         "komet": "GUIDES",
