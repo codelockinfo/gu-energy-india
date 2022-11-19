@@ -70,23 +70,8 @@
         "btnid": false
       }
     },
-    "495f2a55-adac-4982-bf6b-1edf1c238745": {
-      "type": "rich-text",
-      "settings": {
-        "title": "",
-        "heading_size": "heading-base",
-        "rich_text": "",
-        "display_on_card": true,
-        "content_width_desktop": "lg:w-2\/3",
-        "button_link": "",
-        "button_label": "Shop Now",
-        "color_scheme": "tertiary",
-        "use_gradient_background": false
-      }
-    },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "display_on_card": true,
         "color_scheme": "tertiary",
@@ -97,7 +82,6 @@
   "order": [
     "1079592d-c585-4a74-bd26-731d278583a1",
     "9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae",
-    "495f2a55-adac-4982-bf6b-1edf1c238745",
     "main"
   ]
 }
