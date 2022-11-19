@@ -247,9 +247,31 @@
     },
     "cb0e7cbc-2e2b-4b00-ab90-34280cd3c225": {
       "type": "guidetabbing",
+      "blocks": {
+        "1d7bec73-9594-40a1-a0d2-dc9a435bddec": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "0 - 1 Hour",
+            "heading": "",
+            "text1": ""
+          }
+        },
+        "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e": {
+          "type": "block",
+          "settings": {
+            "grandtotal": "1 - 2 Hours",
+            "heading": "",
+            "text1": ""
+          }
+        }
+      },
+      "block_order": [
+        "1d7bec73-9594-40a1-a0d2-dc9a435bddec",
+        "9e7411ec-ae4b-4227-b7f9-a7fe767ce42e"
+      ],
       "settings": {
-        "komet": "",
-        "longdisc": ""
+        "komet": "GUIDES",
+        "longdisc": "HOW LONG ARE YOU GOING"
       }
     }
   },
