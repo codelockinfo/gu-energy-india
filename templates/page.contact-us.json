@@ -22,7 +22,7 @@
       "type": "rich-text",
       "settings": {
         "title": "",
-        "heading_size": "heading-base",
+        "heading_size": "heading-template",
         "rich_text": "",
         "display_on_card": false,
         "content_width_desktop": "lg:w-2\/3",
