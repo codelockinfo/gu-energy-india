@@ -110,51 +110,10 @@
         "gel": "GU - Chews"
       }
     },
-    "502b5396-367c-41d7-b6c7-a1f7892bb3c8": {
-      "type": "testimonials",
-      "disabled": true,
-      "blocks": {
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-0": {
-          "type": "testimonial",
-          "settings": {
-            "rating": "5_stars",
-            "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
-            "source": "Source"
-          }
-        },
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-1": {
-          "type": "testimonial",
-          "settings": {
-            "rating": "5_stars",
-            "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
-            "source": "Source"
-          }
-        },
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-2": {
-          "type": "testimonial",
-          "settings": {
-            "rating": "5_stars",
-            "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
-            "source": "Source"
-          }
-        }
-      },
-      "block_order": [
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-0",
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-1",
-        "template--16010042015906__502b5396-367c-41d7-b6c7-a1f7892bb3c8-16684121765ed8f7a4-2"
-      ],
+    "fe473291-a55d-45dd-b2ee-293acb7e04e0": {
+      "type": "tringle",
       "settings": {
-        "display_on_card": true,
-        "title": "Customer Reviews",
-        "max_width": 100,
-        "disable_media_style": false,
-        "crop": "",
-        "image_shape": "default",
-        "desktop_slide_width": 20,
-        "autoscroll_mode": "1",
-        "color_scheme": "primary",
-        "use_gradient_background": false
+        "discr2": ""
       }
     },
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1": {
@@ -255,7 +214,7 @@
   "order": [
     "main",
     "1ec3653f-1f9d-4ca6-8431-2e03bbeb127e",
-    "502b5396-367c-41d7-b6c7-a1f7892bb3c8",
+    "fe473291-a55d-45dd-b2ee-293acb7e04e0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations"
   ]
