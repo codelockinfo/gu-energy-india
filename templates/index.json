@@ -186,7 +186,7 @@
         "content_width_desktop": "lg:w-2\/3",
         "button_link": "",
         "button_label": "Shop Now",
-        "color_scheme": "quaternary",
+        "color_scheme": "secondary",
         "use_gradient_background": false
       }
     },
