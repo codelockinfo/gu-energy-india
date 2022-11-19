@@ -4558,10 +4558,7 @@ p.longdisc {
          font-size: 15px;
     line-height: 21px;
    }
-   .py-2.lg\:py-0.px-section.overflow-hidden {
-    padding-left: 5px;
-    padding-right: 5px;
-}
+
 .maintext{
   margin: 5% 0px;
 }
