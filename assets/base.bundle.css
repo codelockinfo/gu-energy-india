@@ -4730,9 +4730,9 @@ p.longdisc {
 h1.text-center.font-heading.heading-template.heading-style.none {
     display: none;
 }
-section.text-scheme-text.bg-scheme-background.relative.overflow-hidden {
+/* section.text-scheme-text.bg-scheme-background.relative.overflow-hidden {
     background-color: #FD795B;
-}
+} */
 .section-content.py-section-vertical-spacing.px-section.max-w-3xl.mx-auto{
       max-width: 1500px;
     width: 100%;
