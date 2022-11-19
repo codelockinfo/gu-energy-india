@@ -244,6 +244,13 @@
         "color_scheme": "primary",
         "use_gradient_background": false
       }
+    },
+    "cb0e7cbc-2e2b-4b00-ab90-34280cd3c225": {
+      "type": "guidetabbing",
+      "settings": {
+        "komet": "",
+        "longdisc": ""
+      }
     }
   },
   "order": [
@@ -252,6 +259,7 @@
     "fe473291-a55d-45dd-b2ee-293acb7e04e0",
     "4a1ae5e2-2a30-49d5-bff6-769272b96cd1",
     "product-recommendations",
-    "1acf4996-5da9-4072-a480-f7c9897cc486"
+    "1acf4996-5da9-4072-a480-f7c9897cc486",
+    "cb0e7cbc-2e2b-4b00-ab90-34280cd3c225"
   ]
 }
