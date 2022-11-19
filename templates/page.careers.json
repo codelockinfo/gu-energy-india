@@ -6,7 +6,7 @@
         "title": "",
         "custom_liquid": "<h1 style=\"text-align: center; font-size: 50px;  font-weight: bold;     margin: 0px 0px -60px 0px;\">CAREERS\n<\/h1>",
         "full_width": false,
-        "color_scheme": "tertiary"
+        "color_scheme": "primary"
       }
     },
     "9e7cb3f9-d663-436b-8f5c-cf09adcdc8ae": {
@@ -74,7 +74,7 @@
       "type": "main-page",
       "settings": {
         "display_on_card": true,
-        "color_scheme": "tertiary",
+        "color_scheme": "primary",
         "use_gradient_background": false
       }
     }
