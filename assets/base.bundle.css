@@ -4542,6 +4542,10 @@ p.longdisc {
    .customfaq .card.p-4{
          margin-bottom: 0px;
    }
+   .tringlediscrip{
+         font-size: 15px;
+    line-height: 21px;
+   }
 .maintext{
   margin: 5% 0px;
 }
