@@ -4541,6 +4541,12 @@ p.longdisc {
   }
 
  }
+ @media (max-width: 1060px) {
+   .py-2.lg\:py-0.px-section.overflow-hidden {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ }
  @media (max-width: 768px) {
   .width50 {
     width: 100%;
