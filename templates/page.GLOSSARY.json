@@ -412,7 +412,7 @@
         "two_columns_desktop": true,
         "title": "GLOSSARY",
         "richtext": "",
-        "color_scheme": "secondary",
+        "color_scheme": "primary",
         "use_gradient_background": false
       }
     }
