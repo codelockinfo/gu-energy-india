@@ -170,7 +170,7 @@
             "rotation_animation": "rotate_when_scrolling",
             "enable_parallax": true,
             "parallax_speed": 3,
-            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color": "bg-scheme-gradient text-scheme-text",
             "color_scheme": "same_as_section"
           }
         }
@@ -186,7 +186,7 @@
         "content_width_desktop": "lg:w-2\/3",
         "button_link": "",
         "button_label": "Shop Now",
-        "color_scheme": "secondary",
+        "color_scheme": "quaternary",
         "use_gradient_background": false
       }
     },
