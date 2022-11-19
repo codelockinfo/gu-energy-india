@@ -23,7 +23,7 @@
       "settings": {
         "title": "",
         "heading_size": "heading-base",
-        "rich_text": "<p>All orders require 2 business days for processing. Transit times are determined by shipping method. If your order is time sensitive, please contact our Customer Service team at (1-800-400-1995, option 4).<\/p><p>Please visit the checkout page in the <a href=\"https:\/\/shop.guenergy.com\/\" title=\"GU Energy Shop\">shop<\/a> to estimate shipping charges.<\/p><p><strong>RETURN POLICY<\/strong><\/p><p>We strive for 100% satisfaction with all GU Energy products. If you are unhappy with any item purchased at GUenergy.com, you may return it for a replacement or refund within 60 days. Please <a href=\"https:\/\/guenergy.com\/contact-us\/\" title=\"Contact Us\">contact us<\/a> or call 1-800-400-1995 and we’ll arrange your return. Please note, all shipping charges are non refundable<\/p>",
+        "rich_text": "",
         "display_on_card": false,
         "content_width_desktop": "lg:w-2\/3",
         "button_link": "",
