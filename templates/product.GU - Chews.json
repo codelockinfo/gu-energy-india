@@ -185,8 +185,8 @@
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-5": {
           "type": "question",
           "settings": {
-            "question": "Frequently asked question",
-            "answer": "<p>Use this text to share the answer to the question with your customers.<\/p>"
+            "question": "Are Chews safe for children?",
+            "answer": "<p>Chews are safe for children to eat, but remember that the Strawberry flavor contains caffeine.<\/p>"
           }
         },
         "template--16010042015906__4a1ae5e2-2a30-49d5-bff6-769272b96cd1-1668414519e48829f5-6": {
