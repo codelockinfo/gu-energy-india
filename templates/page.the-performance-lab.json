@@ -177,7 +177,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-01_2000x_e8313b10-5f11-45b6-a899-eeec1750e671.jpg",
             "testi-title": "A PASSION FOR INNOVATION",
-            "btn-url": "A Passion for Innovation: GU Endurance Lab - YouTube",
+            "btnurl": "https:\/\/www.youtube.com\/watch?v=YljmRxZY-Ts",
             "color_title": "#fdb71d"
           }
         },
@@ -186,7 +186,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-02_2000x_eabccfa2-82b0-4f09-a1b9-222176cf8280.jpg",
             "testi-title": "EXAMINING THE BONK",
-            "btn-url": "Examining the Bonk: GU Endurance Lab - YouTube",
+            "btnurl": "",
             "color_title": "#fdb71d"
           }
         },
@@ -195,7 +195,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-05_2000x_fd8f4962-3f47-4753-8852-4c86f8d2860d.jpg",
             "testi-title": "PEAK POWER",
-            "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
+            "btnurl": "",
             "color_title": "#fdb71d"
           }
         },
@@ -204,7 +204,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-06_2000x_b4fa8db0-85b7-436d-bfa4-b3290d2b544d.jpg",
             "testi-title": "TRAINING ADAPTATIONS",
-            "btn-url": "Training Adaptations: GU Endurance Lab - YouTube",
+            "btnurl": "",
             "color_title": "#fdb71d"
           }
         },
@@ -213,7 +213,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-04_2000x_0d90e004-127e-4e7b-8e17-e630689c5c97.jpg",
             "testi-title": "LACTATE THRESHOLD AND TRAINING",
-            "btn-url": "Lactate Threshold and Training: GU Endurance Lab - YouTube",
+            "btnurl": "",
             "color_title": "#fdb71d"
           }
         },
@@ -222,7 +222,7 @@
           "settings": {
             "testi-img": "shopify:\/\/shop_images\/endurance-03_2000x_e99f6a29-51ab-4b05-9339-f5435e8ab2f0.png",
             "testi-title": "WHAT IS VO2 MAX",
-            "btn-url": "What is VO2 Max: GU Endurance Lab - YouTube",
+            "btnurl": "",
             "color_title": "#fdb71d"
           }
         }
