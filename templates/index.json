@@ -103,6 +103,7 @@
     },
     "f34c9d15-064b-4392-bda4-0d171f9c3b87": {
       "type": "hero-slideshow",
+      "disabled": true,
       "blocks": {
         "template--16010042048674__f34c9d15-064b-4392-bda4-0d171f9c3b87-166814239034c6608e-0": {
           "type": "slide",
